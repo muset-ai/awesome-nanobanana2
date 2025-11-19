@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs-extra';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import Mustache from 'mustache';
@@ -84,3 +84,48 @@ const renderedReadme = Mustache.render(readmeTemplate, data);
 const filename = 'README.md';
 fs.writeFileSync(path.join(__dirname, '../..', filename), renderedReadme);
 console.log(`${filename} generated successfully`);
+
+// --- WEB GENERATION ---
+console.log('Generating Website...');
+
+const docsDir = path.join(__dirname, '../../docs');
+fs.ensureDirSync(docsDir);
+
+// 1. Copy Web Template
+fs.copySync(path.join(__dirname, '../web-template'), docsDir);
+console.log('Web template copied to docs/');
+
+// 2. Generate data.json
+const webData = {
+  generated_at: new Date().toISOString(),
+  cases: cases
+};
+fs.writeJsonSync(path.join(docsDir, 'data.json'), webData, { spaces: 2 });
+console.log('docs/data.json generated');
+
+// 3. Copy Images
+const imagesDir = path.join(docsDir, 'images');
+fs.ensureDirSync(imagesDir);
+
+cases.forEach(c => {
+  const srcDir = path.join(__dirname, '../../cases', String(c.case_no));
+  const destDir = path.join(imagesDir, String(c.case_no));
+  
+  fs.ensureDirSync(destDir);
+  
+  // Copy main image
+  if (c.image && fs.existsSync(path.join(srcDir, c.image))) {
+    fs.copySync(path.join(srcDir, c.image), path.join(destDir, c.image));
+  }
+  
+  // Copy reference images
+  if (c.reference_images && c.reference_images.length > 0) {
+    c.reference_images.forEach(ref => {
+      if (fs.existsSync(path.join(srcDir, ref))) {
+        fs.copySync(path.join(srcDir, ref), path.join(destDir, ref));
+      }
+    });
+  }
+});
+console.log('Case images copied to docs/images/');
+

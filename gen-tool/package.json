@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^11.3.2",
     "js-yaml": "^4.1.0",
     "mustache": "^4.2.0"
   }
