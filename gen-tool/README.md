@@ -4,7 +4,7 @@ A tool for generating README files from case data.
 
 ## 📋 Description
 
-Gen-Tool is a Node.js utility that generates README files from case data stored in YAML files. It supports multiple languages (currently Chinese and English) and assembles content from template files.
+Gen-Tool is a Node.js utility that generates README files from case data stored in YAML files. It assembles content from template files in English.
 
 ## 🔧 Installation
 
@@ -19,19 +19,7 @@ npm install
 
 ## 🚀 Usage
 
-### Generate README for Chinese
-
-```bash
-npm run generate-zh
-```
-
-### Generate README for English
-
-```bash
-npm run generate-en
-```
-
-### Generate README for both languages
+### Generate README
 
 ```bash
 npm run generate
@@ -44,7 +32,6 @@ npm run generate
   - `i18n/` - Internationalization files
 - `templates/` - Templates for README generation
   - `README.md.md` - Main template
-  - `zh/` - Chinese templates
   - `en/` - English templates
 
 ## 🧩 How It Works
@@ -52,7 +39,7 @@ npm run generate
 1. The tool reads numeric directories from the `cases` folder
 2. It loads each case's YAML data
 3. It processes the data and applies it to templates 
-4. It generates README files (`README.md` for Chinese, `README_en.md` for English)
+4. It generates the README.md file
 
 ## 📝 Note
 

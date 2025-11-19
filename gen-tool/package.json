@@ -4,9 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "generate-zh": "node src/index.js --lang=zh",
-    "generate-en": "node src/index.js --lang=en",
-    "generate": "npm run generate-zh && npm run generate-en",
+    "generate": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",

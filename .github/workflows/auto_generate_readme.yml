@@ -1,4 +1,4 @@
-name: Auto-generate README files
+name: Auto-generate README file
 
 on:
   push:
@@ -35,21 +35,20 @@ jobs:
         run: npm run generate
         working-directory: ./gen-tool
 
-      - name: Commit and push if README files changed
+      - name: Commit and push if README changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          # Check if either README.md or README_en.md has changed
+          # Check if README.md has changed
           README_CHANGED=$(git diff --quiet README.md || echo "changed")
-          README_EN_CHANGED=$(git diff --quiet README_en.md || echo "changed")
           
-          if [ -z "$README_CHANGED" ] && [ -z "$README_EN_CHANGED" ]; then
-            echo "README files are up-to-date. No changes to commit."
+          if [ -z "$README_CHANGED" ]; then
+            echo "README is up-to-date. No changes to commit."
           else
-            echo "README files have changes. Committing..."
-            git add README.md README_en.md
-            git commit -m "docs: update auto-generated README files"
+            echo "README has changes. Committing..."
+            git add README.md
+            git commit -m "docs: update auto-generated README file"
             git push origin main
             echo "Changes pushed successfully."
           fi

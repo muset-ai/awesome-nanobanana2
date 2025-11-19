@@ -8,14 +8,14 @@ There are two main ways you can contribute.
 
 如果您想快速分享一个案例，或者不太熟悉 Pull Request 流程，可以通过 Issue 提交。
 
-➡️ 点击这里使用模板提交新案例：[提交新案例](https://github.com/jamez-bondos/awesome-gpt4o-images/issues/new?template=add_new_example.yml)
+➡️ 点击这里使用模板提交新案例：[提交新案例](https://github.com/company/awesome-nanobanana2/issues/new?template=add_new_example.yml)
 
 
 ## Option 1: Quick Submit via GitHub Issue
 
 If you want to quickly share an example, or if you're less familiar with the Pull Request process, submitting via an Issue is a great option.
 
-➡️ Click here to submit a new example using the template: [Submit New Example](https://github.com/jamez-bondos/awesome-gpt4o-images/issues/new?template=add_new_example_en.yml)
+➡️ Click here to submit a new example using the template: [Submit New Example](https://github.com/company/awesome-nanobanana2/issues/new?template=add_new_example.yml)
 
 ---
 
@@ -31,14 +31,18 @@ If you want to quickly share an example, or if you're less familiar with the Pul
 * **准备图片文件：**
     * 图片尺寸建议宽度为 300px 到 2000px 之间；推荐格式为 JPEG、WebP 或 PNG；文件大小尽量控制在 1MB 以内（如有需要请压缩）。
     * *(可选)* 文件名建议：为图片起一个描述性强且不易重复的文件名（例如：`gold_pendant_necklace.png`）。默认文件名 `case.png`。
+* **准备参考图片（可选）：**
+    * 如果生成图像时使用了参考图片，请将它们放在同一案例目录中。
+    * 参考图片建议命名为 `ref_<description>.png`，例如：`ref_emoji.png`, `ref_style.jpg`。
+    * 在 YAML 文件中的 `reference_images` 字段列出所有参考图片文件名。
 * **撰写案例 YAML 文件：**
     * 按模板要求填写案例详细信息。
-    * 确保在 YAML 文件中正确引用图片文件名。
+    * 确保在 YAML 文件中正确引用图片文件名和参考图片文件名（如有）。
     * 请务必正确填写以下字段：
         * **原作者名称**（Author）
         * **原作者链接**（Author Link）
         * **原文链接**（Source URL）
-    * **语言：** 欢迎提供中英文的详细内容。合并时维护者将检查是否为双语版本；如缺失语言版本，将使用 GPT-4o 模型补全翻译。
+    * **语言：** 可以使用任何语言（英语、中文等）提供信息。Prompt 应使用生成时所用的原始语言。
 
 3. 提交更改并在 GitHub 发起 Pull Request。
 
@@ -56,14 +60,18 @@ If you want to quickly share an example, or if you're less familiar with the Pul
 * **Prepare the image file:**
     * Image size requirements: recommended width between 300px and 2000px; preferred formats are JPEG, WebP, or PNG; please try to keep the file size under 1MB (compress if necessary).
     * *(Optional)* Filename suggestion: choose a descriptive and unique name for the image (e.g., `gold_pendant_necklace.png`). Deafault name is `case.png`.
+* **Prepare reference images (Optional):**
+    * If you used reference images during generation, place them in the same case directory.
+    * Suggested naming: `ref_<description>.png`, e.g., `ref_emoji.png`, `ref_style.jpg`.
+    * List all reference image filenames in the `reference_images` field in the YAML file.
 * **Write the YAML case file:**
     * Fill in or modify the case details according to the template requirements.
-    * Make sure to correctly reference your image filename in the YAML.
+    * Make sure to correctly reference your image filename and reference image filenames (if any) in the YAML.
     * Be sure to correctly fill in the following fields:
         * **Author name**
         * **Author link**
         * **Source URL**
-    * **Language:** You are welcome to provide detailed information in both Chinese and English. The maintainer will check for bilingual completeness during merging; if only one language is provided, the missing translation will be completed using the GPT-4o model.
+    * **Language:** You can provide the information in any language (English, Chinese, etc.). The prompt should be provided in its original language as used for generation.
 
 3. Commit your changes and open a Pull Request on GitHub.
 
@@ -74,7 +82,6 @@ If you want to quickly share an example, or if you're less familiar with the Pul
 
 通过提交 Pull Request 或 Issue，**您即确认您对所上传的每一个文件拥有版权，或已获得明确授权，并且不可撤销地同意将您的贡献按 CC BY 4.0 许可证发布。**
 您上传的图像必须符合以下任一条件：
-1. 由您本人原创生成（例如使用 GPT-4o、Sora、gpt-image-1 等）；
 2. 或您已获得第三方作品的书面使用许可。
 
 严禁上传未经授权的第三方图像。
@@ -87,7 +94,6 @@ copyright or have explicit permission for every file you upload** and
 **irrevocably license your contribution under CC BY 4.0**.  
 Images must be either:
 
-1. Original works you generated (e.g., via GPT-4o, Sora, gpt-image-1), or  
 2. Third-party works for which you hold written permission.
 
 Uploading unlicensed third-party images is prohibited.

@@ -1,12 +1,12 @@
-title: Q版求婚场景
-title_en: 3D Chibi Proposal Scene
-prompt_author: "@balconychy"
-prompt_author_link: https://x.com/balconychy
-image_author: "@jamez-bondos"
-image_author_link: https://github.com/jamez-bondos
+title: "Clock 11:15 + Wine Glass Filled to Rim"
+prompt_author: "@company"
+prompt_author_link: https://github.com/company
+image_author: "@company"
+image_author_link: https://github.com/company
 source_links:
-  - url: https://x.com/balconychy/status/1909417750587486469
+  - url: https://medium.com/@CherryZhouTech/introducing-nano-banana-2-ai-image-generation-enters-the-designer-grade-era-324a23d4caa3
 license: CC-BY-4.0
-creation_tool: Sora
-date: 2025-05-24
-notes: Prompt quoted verbatim; image fully regenerated via Sora.
+creation_tool: nano-banana 2
+date: 2025-11-19
+notes: Community demo case showcasing precise time and physics rendering.
+

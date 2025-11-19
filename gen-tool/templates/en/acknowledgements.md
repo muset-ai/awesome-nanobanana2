@@ -26,7 +26,7 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [Hewar (@hewarsaber)](https://x.com/hewarsaber)
 *   [Anima (@Anima_Labs)](https://x.com/Anima_Labs)
 *   [terry623 (@terry623)](https://github.com/terry623)
-*   [photis (Sora Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
+*   [photis (Nano-Banana Studio Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
 *   [Ryan Hart (@thisdudelikesAI)](https://x.com/thisdudelikesAI)
 *   [Gadgetify (@Gdgtify)](https://x.com/Gdgtify)
 *   [Ilyas Salaoui (@TheRelianceAI)](https://x.com/TheRelianceAI)

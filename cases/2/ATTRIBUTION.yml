@@ -1,12 +1,12 @@
-title: 3D Q版人物立体相框
-title_en: 3D Polaroid Breakout Effect
-prompt_author: "@dotey"
-prompt_author_link: https://x.com/dotey
-image_author: "@jamez-bondos"
-image_author_link: https://github.com/jamez-bondos
+title: "Math/Formula Boards & Logical Layouts"
+prompt_author: "@company"
+prompt_author_link: https://github.com/company
+image_author: "@company"
+image_author_link: https://github.com/company
 source_links:
-  - url: https://x.com/dotey/status/1908238003169903060
+  - url: https://nanobanana2.com/
 license: CC-BY-4.0
-creation_tool: Sora
-date: 2025-05-24
-notes: Prompt quoted verbatim; image fully regenerated via Sora.
+creation_tool: nano-banana 2
+date: 2025-11-19
+notes: Demonstrating mathematical formula rendering and logical layouts.
+

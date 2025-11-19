@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 const args = process.argv.slice(2);
 const args_lang = args.find(arg => arg.startsWith('--lang='));
-const lang = args_lang ? args_lang.split('=')[1] : 'zh';
+const lang = args_lang ? args_lang.split('=')[1] : 'en';
 const t = langs[lang];
 
 // read all case files
@@ -42,16 +42,16 @@ for (const c of cases) {
     cases_contents += Mustache.render(case_template, {
       case_no: c.case_no,
       t: t,
-      title: lang === 'zh' ? c.title : c.title_en,
+      title: c.title,
       author: c.author,
       author_link: c.author_link,
       source_links: source_links,
       image: c.image,
-      alt_text: lang === 'zh' ? c.alt_text.trim() : c.alt_text_en.trim(),
+      alt_text: c.alt_text.trim(),
       attribution: c.attribution,
-      prompt: lang === 'zh' ? c.prompt.trim() : c.prompt_en.trim(),
-      prompt_note: lang === 'zh' ? c.prompt_note.trim() : c.prompt_note_en.trim(),
-      reference_note: lang === 'zh' ? c.reference_note.trim() : c.reference_note_en.trim(),
+      prompt: c.prompt.trim(),
+      reference_images: c.reference_images || [],
+      has_reference_images: c.reference_images && c.reference_images.length > 0,
       submitter: c.submitter,
       submitter_link: c.submitter_link,
     }) + '\n';
@@ -62,7 +62,7 @@ const data = {
   't': t,
   'cases': cases.map(c => ({
     case_no: c.case_no,
-    title: lang === 'zh' ? c.title : c.title_en,
+    title: c.title,
     author: c.author,
   })),
   'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.md'), 'utf8'),
@@ -81,6 +81,6 @@ const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
 // Write the rendered README
-const filename = lang === 'zh' ? 'README.md' : 'README_en.md';
+const filename = 'README.md';
 fs.writeFileSync(path.join(__dirname, '../..', filename), renderedReadme);
 console.log(`${filename} generated successfully`);
