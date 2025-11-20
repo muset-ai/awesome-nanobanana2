@@ -6,15 +6,18 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(data => {
             gallery.innerHTML = ''; // Clear loading state
             
-            if (data.cases.length === 0) {
-                gallery.innerHTML = '<div class="loading">No cases found.</div>';
-                return;
-            }
+        if (data.cases.length === 0) {
+            gallery.innerHTML = '<div class="loading">No cases found.</div>';
+            return;
+        }
 
-            data.cases.forEach(item => {
-                const card = createCaseCard(item);
-                gallery.appendChild(card);
-            });
+        // Sort cases by case_no in ascending order (1 to 45)
+        const sortedCases = [...data.cases].sort((a, b) => a.case_no - b.case_no);
+
+        sortedCases.forEach(item => {
+            const card = createCaseCard(item);
+            gallery.appendChild(card);
+        });
         })
         .catch(error => {
             console.error('Error loading data:', error);
