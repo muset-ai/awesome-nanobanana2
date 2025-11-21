@@ -28,8 +28,8 @@ let cases = numericDirs.map(dir => {
     attribution: attributionData
   };
 });
-// Sort cases in descending order by case number
-cases.sort((a, b) => b.case_no - a.case_no);
+// Sort cases in ascending order by case number
+cases.sort((a, b) => a.case_no - b.case_no);
 
 // render cases
 const case_template = fs.readFileSync(path.join(__dirname, '../templates/case.md'), 'utf8');
