@@ -1,0 +1,14 @@
+title: "Clothing Extraction for E-Commerce Photo"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+reference_images:
+  - input.webp
+prompt: |
+  Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.
+submitter: ""
+submitter_link: ""
+

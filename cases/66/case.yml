@@ -1,0 +1,14 @@
+title: "Clothing Extraction for E-Commerce Photo"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+reference_images:
+  - input.webp
+prompt: |
+  Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool blue tones, pastel colors]. Keep the main subject and composition intact. Adjust lighting, shadows, and overall color balance to match the new color scheme. Photorealistic, high-resolution, natural-looking result.
+submitter: ""
+submitter_link: ""
+

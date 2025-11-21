@@ -1,0 +1,14 @@
+title: "Clothing Extraction for E-Commerce Photo"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+reference_images:
+  - input.webp
+prompt: |
+  Here are the items available: [List of items]. Based on these items, create an image of a [type of object/scene] that can be made or represented by combining them. The composition should make logical sense, considering the relationship between the items. Ensure the image is [visual style]. It should be with appropriate proportions and clear placement of each item.
+submitter: ""
+submitter_link: ""
+

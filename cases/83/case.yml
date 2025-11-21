@@ -1,0 +1,14 @@
+title: "Clothing Extraction for E-Commerce Photo"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+reference_images:
+  - input.webp
+prompt: |
+  Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that the image details remain sharp and clear, revealing intricate textures, patterns, and elements without distortion, while preserving the natural colors and quality.
+submitter: ""
+submitter_link: ""
+

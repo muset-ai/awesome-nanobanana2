@@ -1,0 +1,14 @@
+title: "Clothing Extraction for E-Commerce Photo"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+reference_images:
+  - input.webp
+prompt: |
+  Create a vertical potrait shot using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.
+submitter: ""
+submitter_link: ""
+

@@ -116,6 +116,30 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 *   [Case 61: Seamless Text Editing in an Image (by Marvin)](#cases-61)
 *   [Case 62: Ten-Minute-Later Version of the Same Scene (by Marvin)](#cases-62)
 *   [Case 63: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-63)
+*   [Case 64: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-64)
+*   [Case 65: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-65)
+*   [Case 66: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-66)
+*   [Case 67: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-67)
+*   [Case 68: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-68)
+*   [Case 69: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-69)
+*   [Case 70: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-70)
+*   [Case 71: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-71)
+*   [Case 72: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-72)
+*   [Case 73: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-73)
+*   [Case 74: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-74)
+*   [Case 75: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-75)
+*   [Case 76: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-76)
+*   [Case 77: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-77)
+*   [Case 78: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-78)
+*   [Case 79: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-79)
+*   [Case 80: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-80)
+*   [Case 81: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-81)
+*   [Case 82: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-82)
+*   [Case 83: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-83)
+*   [Case 84: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-84)
+*   [Case 85: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-85)
+*   [Case 86: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-86)
+*   [Case 87: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-87)
 
 ---
 
@@ -1616,6 +1640,586 @@ Generate an image of the same scene as [Image1], but showing how it looks 10 min
 
 ```
 Extract the clothing from [Image1] and present it as a clean e-commerce product photo. Remove the model’s body completely. Keep the outfit in natural 3D shape, with realistic fabric folds, seams, and textures. Display the garment as if photographed on a mannequin or neatly laid flat, centered on a pure white or transparent background. High-resolution, professional lighting, suitable for online fashion catalog.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-64"></a>
+### Case 64: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/64/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/64/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Enhance [Image1] to improve overall quality and detail. Keep the original composition, colors, and style intact. Increase resolution, sharpness, texture clarity, and lighting realism. Output as a photorealistic, high-resolution image.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-65"></a>
+### Case 65: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/65/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/65/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, sunny]. Keep the main subject and overall scene intact. Adjust lighting, shadows, colors, and environmental effects to match the new weather. Photorealistic, seamless integration, high-resolution.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-66"></a>
+### Case 66: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/66/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/66/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool blue tones, pastel colors]. Keep the main subject and composition intact. Adjust lighting, shadows, and overall color balance to match the new color scheme. Photorealistic, high-resolution, natural-looking result.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-67"></a>
+### Case 67: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/67/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/67/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Replace [target element or area] in [Image1] with [new element or reference, e.g., a different person, object, or scene]. Keep all other parts of the image unchanged. Ensure the replacement blends naturally with lighting, perspective, and overall style. Photorealistic, high-resolution, seamless integration.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-68"></a>
+### Case 68: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/68/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/68/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Extend [Image1] beyond its original borders using outpainting. Keep the main subject and composition intact. Generate new content around the edges that matches the style, colors, lighting, and perspective of the original image. Photorealistic, high-resolution, seamless integration.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-69"></a>
+### Case 69: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/69/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/69/input1.webp" width="150" alt="Reference image">
+<img src="cases/69/input2.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figure 1 to fit the aspect ratio of Figure 2, completely clear the content of Figure 2, and only retain the aspect ratio of Figure 2.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-70"></a>
+### Case 70: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/70/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/70/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Turn the photo into a 3x3 grid of photo strips with different studio-style poses and expressions.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-71"></a>
+### Case 71: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/71/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/71/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-72"></a>
+### Case 72: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/72/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/72/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-73"></a>
+### Case 73: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/73/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/73/input.webp" width="150" alt="Reference image">
+<img src="cases/73/input2.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+1️⃣ Step one: Add a comfortable gray sofa and a wooden coffee table in the center, matching the room’s contemporary style, photorealistic render.
+
+2️⃣ Step two: Add more furniture-like items to the foreground and more daily necessities on the table. Also, change the wallpaper to something warmer.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-74"></a>
+### Case 74: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/74/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/74/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Here are the items available: [List of items]. Based on these items, create an image of a [type of object/scene] that can be made or represented by combining them. The composition should make logical sense, considering the relationship between the items. Ensure the image is [visual style]. It should be with appropriate proportions and clear placement of each item.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-75"></a>
+### Case 75: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/75/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/75/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Draw a bilaterally symmetrical frontal anatomical illustration of the [Character], styled similarly to an infographic. The image should show the creature's external features on both sides, with its internal anatomy partially exposed. Detailed text should flank the image, explaining the creature's biology, abilities, behavior, habitat, and the specific functions of its anatomical structures. The overall design should be clear, informative, and in the style of a scientific illustration.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-76"></a>
+### Case 76: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/76/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/76/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Recreate this [Character] as a 16-bit video game character, and place the character in a level of a 2D 16-bit platform video game.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-77"></a>
+### Case 77: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/77/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/77/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-78"></a>
+### Case 78: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/78/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/78/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicate floral embroidery. Sit gracefully against a plain wall, bathed in warm natural light with a triangular patch of sunlight casting artistic shadows. Hold a vibrant bouquet of sunflowers close to the chest, and a small white flower is tucked behind he ear. Gentle expression, loose hair strands moving slightly, and the dreamy golden glow create a serene, poetic, and romantic.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-79"></a>
+### Case 79: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/79/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/79/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don’t change the face. Change the background behind those two people with white curtains. Make it look like both people in the reference picture are hugging each other.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-80"></a>
+### Case 80: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/80/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/80/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Please generate a top-angle and close-up black and white portrait of my face, focused on the head facing forward. Use a 35mm lens look, 10.7K 4HD quality. Proud expression. Deep black shadow background - only the face, the upper chest, and the shoulder.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-81"></a>
+### Case 81: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/81/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/81/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Create a vertical potrait shot using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-82"></a>
+### Case 82: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/82/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/82/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Ultra-detailed exploded view of a product, metallic parts and electronic components floating in mid-air, perfectly aligned, revealing inner structure, futuristic technology aesthetic, 8K resolution, soft cinematic lighting, highly realistic.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-83"></a>
+### Case 83: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/83/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/83/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that the image details remain sharp and clear, revealing intricate textures, patterns, and elements without distortion, while preserving the natural colors and quality.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-84"></a>
+### Case 84: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/84/case.jpg" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/84/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Create a storyboard from the uploaded image, highlighting key moments and transitions with cinematic angles, camera movements, and framing that capture the scene's mood and narrative flow.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-85"></a>
+### Case 85: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/85/case.jpg" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/85/input.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingredients and recipe in it.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-86"></a>
+### Case 86: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/86/case.jpg" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/86/input.jpg" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Focus on the background trees and blanket of this image, blur this kid.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-87"></a>
+### Case 87: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+
+[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<img src="cases/87/case.jpg" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+
+**Reference Images:**
+
+<img src="cases/87/input.jpg" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Turn these 8 Logos into sophisticated minimalistic logos to make letters from realistic food to express the meaning of this word. Composition: rendering of all logos on a single solid white background.
 ```
 
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T13:17:09.339Z",
+  "generated_at": "2025-11-21T13:56:30.962Z",
   "cases": [
     {
       "case_no": 1,
@@ -2097,6 +2097,848 @@
         "input.webp"
       ],
       "prompt": "Extract the clothing from [Image1] and present it as a clean e-commerce product photo. Remove the model’s body completely. Keep the outfit in natural 3D shape, with realistic fabric folds, seams, and textures. Display the garment as if photographed on a mannequin or neatly laid flat, centered on a pure white or transparent background. High-resolution, professional lighting, suitable for online fashion catalog.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 64,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Enhance [Image1] to improve overall quality and detail. Keep the original composition, colors, and style intact. Increase resolution, sharpness, texture clarity, and lighting realism. Output as a photorealistic, high-resolution image.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 65,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, sunny]. Keep the main subject and overall scene intact. Adjust lighting, shadows, colors, and environmental effects to match the new weather. Photorealistic, seamless integration, high-resolution.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 66,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool blue tones, pastel colors]. Keep the main subject and composition intact. Adjust lighting, shadows, and overall color balance to match the new color scheme. Photorealistic, high-resolution, natural-looking result.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 67,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Replace [target element or area] in [Image1] with [new element or reference, e.g., a different person, object, or scene]. Keep all other parts of the image unchanged. Ensure the replacement blends naturally with lighting, perspective, and overall style. Photorealistic, high-resolution, seamless integration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 68,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Extend [Image1] beyond its original borders using outpainting. Keep the main subject and composition intact. Generate new content around the edges that matches the style, colors, lighting, and perspective of the original image. Photorealistic, high-resolution, seamless integration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 69,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input1.webp",
+        "input2.webp"
+      ],
+      "prompt": "Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figure 1 to fit the aspect ratio of Figure 2, completely clear the content of Figure 2, and only retain the aspect ratio of Figure 2.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 70,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Turn the photo into a 3x3 grid of photo strips with different studio-style poses and expressions.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 71,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 72,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 73,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp",
+        "input2.webp"
+      ],
+      "prompt": "1️⃣ Step one: Add a comfortable gray sofa and a wooden coffee table in the center, matching the room’s contemporary style, photorealistic render.\n\n2️⃣ Step two: Add more furniture-like items to the foreground and more daily necessities on the table. Also, change the wallpaper to something warmer.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 74,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Here are the items available: [List of items]. Based on these items, create an image of a [type of object/scene] that can be made or represented by combining them. The composition should make logical sense, considering the relationship between the items. Ensure the image is [visual style]. It should be with appropriate proportions and clear placement of each item.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 75,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Draw a bilaterally symmetrical frontal anatomical illustration of the [Character], styled similarly to an infographic. The image should show the creature's external features on both sides, with its internal anatomy partially exposed. Detailed text should flank the image, explaining the creature's biology, abilities, behavior, habitat, and the specific functions of its anatomical structures. The overall design should be clear, informative, and in the style of a scientific illustration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 76,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Recreate this [Character] as a 16-bit video game character, and place the character in a level of a 2D 16-bit platform video game.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 77,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 78,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicate floral embroidery. Sit gracefully against a plain wall, bathed in warm natural light with a triangular patch of sunlight casting artistic shadows. Hold a vibrant bouquet of sunflowers close to the chest, and a small white flower is tucked behind he ear. Gentle expression, loose hair strands moving slightly, and the dreamy golden glow create a serene, poetic, and romantic.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 79,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don’t change the face. Change the background behind those two people with white curtains. Make it look like both people in the reference picture are hugging each other.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 80,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Please generate a top-angle and close-up black and white portrait of my face, focused on the head facing forward. Use a 35mm lens look, 10.7K 4HD quality. Proud expression. Deep black shadow background - only the face, the upper chest, and the shoulder.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 81,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Create a vertical potrait shot using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 82,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Ultra-detailed exploded view of a product, metallic parts and electronic components floating in mid-air, perfectly aligned, revealing inner structure, futuristic technology aesthetic, 8K resolution, soft cinematic lighting, highly realistic.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 83,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that the image details remain sharp and clear, revealing intricate textures, patterns, and elements without distortion, while preserving the natural colors and quality.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 84,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.jpg",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Create a storyboard from the uploaded image, highlighting key moments and transitions with cinematic angles, camera movements, and framing that capture the scene's mood and narrative flow.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 85,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.jpg",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingredients and recipe in it.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 86,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.jpg",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.jpg"
+      ],
+      "prompt": "Focus on the background trees and blanket of this image, blur this kid.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 87,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.jpg",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.jpg"
+      ],
+      "prompt": "Turn these 8 Logos into sophisticated minimalistic logos to make letters from realistic food to express the meaning of this word. Composition: rendering of all logos on a single solid white background.\n",
       "submitter": "",
       "submitter_link": "",
       "attribution": {
