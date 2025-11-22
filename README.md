@@ -207,6 +207,35 @@ Firat Bilal)](#cases-146)
 *   [No. 153: Chibi Funko Pop Figure Render (by Marvin)](#cases-153)
 *   [No. 154: Seamless Image Integration (by Marvin)](#cases-154)
 *   [No. 155: Two Men in Photorealistic Poses (by Marvin)](#cases-155)
+*   [No. 156: Realistic 1/7 Scale Figure on Desk with ZBrush Display (by Marvin)](#cases-156)
+*   [No. 157: Classroom with Quadratic Formula Explanation (by GeminiAI)](#cases-157)
+*   [No. 158: Woodchuck Phrase in Wood (by Bea Alessio)](#cases-158)
+*   [No. 159: Translation of Text on Cans (by Bea Alessio)](#cases-159)
+*   [No. 160: Vibrant Floral Arrangement (by Bea Alessio)](#cases-160)
+*   [No. 161: Three-Dimensional Skull Pancake with Blueberries and Maple Syrup (by Simon Willison)](#cases-161)
+*   [No. 162: 美式复古海报风格的北京天气和早间新闻 (by 歸藏(guizang.ai))](#cases-162)
+*   [No. 163: 3D Realistic Pokémon Themed MMO Game Screenshot (by 歸藏(guizang.ai))](#cases-163)
+*   [No. 164: 米色皮革手机壳产品海报 (by 歸藏(guizang.ai))](#cases-164)
+*   [No. 165: Meme Characters in Where's Wally Style (by Higgsfield AI)](#cases-165)
+*   [No. 166: High-Speed Collision of Formula 1 Cars (by hockney_cloud_bruh)](#cases-166)
+*   [No. 167: Sims 4 Character Creation in Progress (by hockney_cloud_bruh)](#cases-167)
+*   [No. 168: Wildlife Sanctuary Logo: Nature Harmony (by singularity)](#cases-168)
+*   [No. 169: Knitted Wool Food Close-Up (by Yoni Attlan)](#cases-169)
+*   [No. 170: Film Scene Storyboard Sketch (by Bea Alessio)](#cases-170)
+*   [No. 171: How to Make Elaichi Chai Infographic (by Bea Alessio)](#cases-171)
+*   [No. 172: Nighttime Transformation of the Scene (by Bea Alessio)](#cases-172)
+*   [No. 173: Adapting Image Aspect Ratio for Various Platforms (by Bea Alessio)](#cases-173)
+*   [No. 174: Cinematic Image of a Mannequin in a New Dress (by Bea Alessio)](#cases-174)
+*   [No. 175: Retro Wave Logo Design (by Bea Alessio)](#cases-175)
+*   [No. 176: Comprehensive Identity System Mockups (by Bea Alessio)](#cases-176)
+*   [No. 177: 天气UI设计稿 (by 歸藏(guizang.ai))](#cases-177)
+*   [No. 178: 广西旅游手帐拼贴 (by 歸藏(guizang.ai))](#cases-178)
+*   [No. 179: 生动有趣的个人日记拼贴画 (by 歸藏(guizang.ai))](#cases-179)
+*   [No. 180: 昆仑煮雪香薰产品海报 (by 歸藏(guizang.ai))](#cases-180)
+*   [No. 181: 杰瑞鼠化身《大闹天宫》英雄 (by 歸藏(guizang.ai))](#cases-181)
+*   [No. 182: 权力的游戏人物关系图 (by 歸藏(guizang.ai))](#cases-182)
+*   [No. 183: 手办材质和上色 (by 歸藏(guizang.ai))](#cases-183)
+*   [No. 184: 现代风格平面设计海报 (by 歸藏(guizang.ai))](#cases-184)
 
 ---
 
@@ -4281,6 +4310,744 @@ Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesi
 
 ```
 Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-156"></a>
+### No. 156: Realistic 1/7 Scale Figure on Desk with ZBrush Display
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/156/case.webp" width="300" alt="A realistic 1/7 scale figure of a character displayed on a computer desk with a circular transparent acrylic base. The computer screen shows the ZBrush modeling process, and a BANDAI-style toy packaging box with original artwork is placed next to the screen."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/156/101.input.1.webp" width="150" alt="Reference image">
+<img src="cases/156/101.input.2.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic styie and environment.Place the figure on a computer desk, using a circular transparent acrylic base without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAI-style toy packaging box printedwith the original artwork.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-157"></a>
+### No. 157: Classroom with Quadratic Formula Explanation
+
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
+
+<img src="cases/157/102.output.1.webp" width="300" alt="A classroom scene featuring a blackboard prominently displaying the quadratic formula with graphics and explanatory text, designed for clarity and readability."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/r/GeminiAI/">GeminiAI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/r/GeminiAI/">GeminiAI</a> • [Source](https://www.reddit.com/r/GeminiAI/comments/1p26ws8/show_your_nano_banana_pro_2_examples/)</sub>
+
+
+**Prompt**
+
+```
+Create an image of a classroom with the blackboard being the prominent part of the scene and on the blackboard there should be how the teacher explained the quadratic formula to the class with graphics, explainer words, etc. The text should be readable.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-158"></a>
+### No. 158: Woodchuck Phrase in Wood
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/158/103.output.1.webp" width="300" alt="An artistic representation of the phrase 'How much wood would a woodchuck chuck if a woodchuck could chuck wood' crafted from pieces of wood arranged by a woodchuck."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+
+**Prompt**
+
+```
+Create an image showing the phrase "How much wood would a woodchuck chuck if a woodchuck couldchuck wood" made out of wood chucked by a woodchuck.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-159"></a>
+### No. 159: Translation of Text on Cans
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
+
+<img src="cases/159/104.output.1.png" width="300" alt="Three yellow and blue cans with English text translated into Korean, maintaining the original design."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/159/104.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+translate all the English text on the three yellow and blue cans into Korean, while keeping everything else the same
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-160"></a>
+### No. 160: Vibrant Floral Arrangement
+
+<p>
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
+
+<img src="cases/160/105.output.1.png" width="300" alt="A close-up view of various colorful flowers in full bloom, showcasing their intricate details and textures."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/160/105.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Focus on the flowers
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-161"></a>
+### No. 161: Three-Dimensional Skull Pancake with Blueberries and Maple Syrup
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
+
+<img src="cases/161/106.output.1.jpg" width="300" alt="A three-dimensional pancake shaped like a skull, topped with fresh blueberries and drizzled with maple syrup."><br>
+<sub>Image © 2025 <a href="https://simonwillison.net/2025/Nov/20/nano-banana-pro/">Simon Willison</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://simonwillison.net/2025/Nov/20/nano-banana-pro/">Simon Willison</a> • [Source](https://simonwillison.net/2025/Nov/20/nano-banana-pro/)</sub>
+
+
+**Prompt**
+
+```
+Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-162"></a>
+### No. 162: 美式复古海报风格的北京天气和早间新闻
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/162/107.output.1.webp" width="300" alt="一张美式复古海报风格的图像，顶部用巨大的艺术字写着2025年11月12日，底部以报纸排版风格展示今天的天气提示和一条正能量的早间新闻摘要。"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://x.com/op7418/status/1991709531429302751)</sub>
+
+
+**Prompt**
+
+```
+搜索北京市今天（202511120）的天气和一条正能量的早间新闻。将我的照片转换成‘美式复古海报’风格。在海报顶部用巨大的艺术字写上今天的日期（中文），底部用报纸排版风格写上那条新闻的摘要和今天的天气提示。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-163"></a>
+### No. 163: 3D Realistic Pokémon Themed MMO Game Screenshot
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/163/108.output.1.webp" width="300" alt="A screenshot from a 3D realistic Pokémon themed MMO game, showcasing vibrant characters and an immersive environment."><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://x.com/op7418/status/1991709531429302751)</sub>
+
+
+**Prompt**
+
+```
+3D写实风格的宝可梦主题MMO游戏截图
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-164"></a>
+### No. 164: 米色皮革手机壳产品海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/164/109.output.1.png" width="300" alt="一款米色皮革手机壳的超近景特写，展示了细腻的素皮纹理与橙色金属镜头圈的撞色质感，背景为米色，周围缭绕着棕色透明轻纱和几株蕨类植物，静物摄影呈现昏暗氛围，光线柔和。"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://x.com/op7418/status/1991709531429302751)</sub>
+
+**Reference Images:**
+
+<img src="cases/164/109.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+为这款米色皮革手机壳设计产品海报。手机壳侧立放置的超近景特写，清晰展现素皮细腻纹理与橙色金属镜头圈的撞色质感，背部吸附同色系磁吸卡包。米色背景，周围缭绕棕色透明轻纱，搭配几株蕨类植物、沉香枯木与两支铃兰作为前景点缀。4K超清画面质感。静物摄影，昏暗氛围，光线追踪，高级柔光。海报上方文案标题：“AATTT STUDIO”，极细衬线字体。页面下方小字：“素皮 | 磁吸 | 极简”。艺术签角标：“AATTT | Design”。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-165"></a>
+### No. 165: Meme Characters in Where's Wally Style
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
+<img src="cases/165/110.output.1.jpg" width="300" alt="A colorful poster featuring various meme characters hidden in a busy scene, styled like 'Where's Wally'"><br>
+<sub>Image © 2025 <a href="https://x.com/higgsfield_ai">Higgsfield AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/higgsfield_ai">Higgsfield AI</a> • [Source](https://x.com/higgsfield_ai/status/1991662539827241223)</sub>
+
+
+**Prompt**
+
+```
+"Every known meme character in the style of "Where's Wally"" And it gives you the best poster you'll ever see!
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-166"></a>
+### No. 166: High-Speed Collision of Formula 1 Cars
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/166/111.output.1.webp" width="300" alt="A hyper-realistic cinematic shot capturing two Formula 1 cars colliding at high speed, with carbon fiber and metal fragments flying through the air, tires slightly lifted, and sparks bursting from the impact point, all depicted in dynamic motion blur and intense lighting."><br>
+<sub>Image © 2025 <a href="https://higgsfield.ai/@hockney_cloud_bruh">hockney_cloud_bruh</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://higgsfield.ai/@hockney_cloud_bruh">hockney_cloud_bruh</a> • [Source](https://higgsfield.ai/@hockney_cloud_bruh)</sub>
+
+
+**Prompt**
+
+```
+A hyper-realistic cinematic shot of two Formula 1 cars colliding at high speed, captured at the exact moment of impact. Carbon fiber pieces and metal fragments are flying through the air, tires lifting slightly, sparks bursting from the contact point. The cars are still recognizable and not fully destroyed, frozen in mid-crash with dynamic motion blur, intense lighting, dramatic track atmosphere, high-detail realism.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-167"></a>
+### No. 167: Sims 4 Character Creation in Progress
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/167/112.output.1.webp" width="300" alt="A female Sims character being edited in the Create-a-Sim mode of Sims 4."><br>
+<sub>Image © 2025 <a href="https://higgsfield.ai/@hockney_cloud_bruh">hockney_cloud_bruh</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://higgsfield.ai/@hockney_cloud_bruh">hockney_cloud_bruh</a> • [Source](https://higgsfield.ai/@hockney_cloud_bruh)</sub>
+
+**Reference Images:**
+
+<img src="cases/167/112.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+make her the sims character that is currently editing on the Create-a-Sim charactor creation in Sims 4
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-168"></a>
+### No. 168: Wildlife Sanctuary Logo: Nature Harmony
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/168/113.output.1.png" width="300" alt="Logo representing a wildlife sanctuary, symbolizing harmony with nature."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/r/singularity/">singularity</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/r/singularity/">singularity</a> • [Source](https://www.reddit.com/r/singularity/comments/1p29b3k/nano_banana_2s_multiimage_fusion_is_wild_uploaded/)</sub>
+
+**Reference Images:**
+
+<img src="cases/168/113.input.1.png" width="150" alt="Reference image">
+<img src="cases/168/113.input.2.png" width="150" alt="Reference image">
+<img src="cases/168/113.input.3.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+wildlife sanctuary logo, nature harmony
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-169"></a>
+### No. 169: Knitted Wool Food Close-Up
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/169/114.output.1.png" width="300" alt="A detailed close-up of a food item made entirely from knitted wool yarn, showcasing the fuzzy texture and intricate stitching patterns under realistic lighting."><br>
+<sub>Image © 2025 <a href="https://x.com/Yoni_attlan">Yoni Attlan</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Yoni_attlan">Yoni Attlan</a> • [Source](https://x.com/Yoni_attlan/status/1991768802019725557)</sub>
+
+**Reference Images:**
+
+<img src="cases/169/114.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+A photorealistic close-up photograph of a [NAME OF FOOD] made entirely out of knitted wool yarn. Show the fuzzy texture of the wool strands, the stitching patterns, and realistic lighting.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-170"></a>
+### No. 170: Film Scene Storyboard Sketch
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/170/115.output.1.png" width="300" alt="A black and white storyboard sketch depicting an establishing shot, medium shot, close-up, and POV shot for a film scene."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/170/115.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+A black and white storyboard sketch showing an establishing shot, medium shot, close-up, and POV shotfor a film scene.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-171"></a>
+### No. 171: How to Make Elaichi Chai Infographic
+
+<p>
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
+
+<img src="cases/171/116.output.1.webp" width="300" alt="An infographic illustrating the step-by-step process of making elaichi chai, including ingredients and preparation methods."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+
+**Prompt**
+
+```
+Create an infographic that shows how to make elaichi chai
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-172"></a>
+### No. 172: Nighttime Transformation of the Scene
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
+
+<img src="cases/172/117.output.1.png" width="300" alt="A scene transformed into nighttime, showcasing dark skies and illuminated elements."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/172/117.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Turn this scene into nighttime
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-173"></a>
+### No. 173: Adapting Image Aspect Ratio for Various Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
+
+<img src="cases/173/118.output.1.png" width="300" alt="An illustration showing different aspect ratios for an image, tailored for various digital platforms."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/173/118.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Change the look and feel of an image for a range of platforms by adapting the aspect ratio.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-174"></a>
+### No. 174: Cinematic Image of a Mannequin in a New Dress
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/174/119.output.1.png" width="300" alt="A cinematic composition featuring a mannequin wearing a new dress, arranged in a 16:9 format."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/174/119.input.1.png" width="150" alt="Reference image">
+<img src="cases/174/119.input.2.png" width="150" alt="Reference image">
+<img src="cases/174/119.input.3.png" width="150" alt="Reference image">
+<img src="cases/174/119.input.4.png" width="150" alt="Reference image">
+<img src="cases/174/119.input.5.png" width="150" alt="Reference image">
+<img src="cases/174/119.input.6.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Combine these images into one appropriately arranged cinematic image in 16:9 format and change the
+dress on the mannequin to the dress in the image.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-175"></a>
+### No. 175: Retro Wave Logo Design
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/175/120.output.1.png" width="300" alt="A vibrant and playful typographic illustration of the word 'WAVE' arranged into the shape of a wave, featuring soft, rounded, and fluid letterforms in deep blue on a light blue background, embodying a nostalgic 1960s and 1970s aesthetic."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+
+**Prompt**
+
+```
+Create a smooth logo in a graphic style is a vibrant and playful form of typographic illustration, deeplyrooted in the retro aesthetics of the 1960s and 1970s loosely based on the sketch lts defining feature is a groovy,bsychedelic-inspired typeface characterized by soft, rounded, and fluid letterforms. Don't exactly follow the sketchget inspired from it. The letters are skilfully distorted, stretched, and compressed, abandoning rigid structure toflow together and form a cohesive, recognizable shape.This technique, known as a calligram, masterfully merges text and image, where the word's form visually embodiests meaning. The word "WAVE" is artfuly arranged into the fluid sihouette of a wave. The design is a clever visual punmaking the message instantly accessible and memorable.The color palette reinforces the vintage feel, employing a simple two-toned scheme with warm, often muted orearthy colors light blue background and deep blue logo. This choice enhances the nostalgic charm of the artwork.The overall effect is one of whimsical nostalgia and clever graphic design. lt's a bold yet approachable style thatcommunicates a simple, positive message through the seamless integration of shape and word, creating an
+immediate and delightful visual impact.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-176"></a>
+### No. 176: Comprehensive Identity System Mockups
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/176/121.output.1.png" width="300" alt="A series of high-quality mockups showcasing an identity system across various products, advertisements, and billboards, presented one by one in a 16:9 format."><br>
+<sub>Image © 2025 <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://blog.google/products/gemini/prompting-tips-nano-banana-pro/">Bea Alessio</a> • [Source](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)</sub>
+
+**Reference Images:**
+
+<img src="cases/176/121.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Now create identity system one by one, use 10 high quality mockups with variety of relevant products,ads, billboards, bus stop, etc. generate one at a time, 16:9 each
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-177"></a>
+### No. 177: 天气UI设计稿
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
+
+<img src="cases/177/122.output.1.png" width="300" alt="展示2025年11月20日北京天气信息的用户界面设计"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+
+**Prompt**
+
+```
+帮我搜索现在（20251120）北京的天气信息，并且将其放在一个天气UI设计稿中
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-178"></a>
+### No. 178: 广西旅游手帐拼贴
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/178/123.output.1.jpg" width="300" alt="一张拼贴手帐风格的广西旅游笔记，记录了旅行行程和多种语言的文字，包括中文、韩语和英语。"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+
+**Prompt**
+
+```
+帮我生成一张拼贴手帐风格的广西旅游笔记，上面记录着自己的行程以及路上的照片等，文字有中文、韩语和英语。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-179"></a>
+### No. 179: 生动有趣的个人日记拼贴画
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/179/124.output.1.jpg" width="300" alt="一页手写日记，包含关于今天的活动描述，吸引人的标语，图片，红色笔迹圈出的推荐地点和活动，简单涂鸦，以及北京的天气和日期。"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+
+**Prompt**
+
+```
+模拟在一张略带纹理的纸张上（米黄色或者浅棕色）手写的关于今天的日记。所有的图片以拼贴画风格放在一页日记上，保证图片与原图一致包含以下元素：用手写字体描述今天做了什么，以及一两句吸引人的标语或简介，包含几张图片的介绍，用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动。穿插一些与图片特色相关的简单涂鸦式小图画，写着当前的日期和北京的天气，并添加一个图 4 手绘角色形象整体感觉要像一份由热爱生活的作者精心制作的、生动有趣的个人日记。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-180"></a>
+### No. 180: 昆仑煮雪香薰产品海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/180/125.output.1.png" width="300" alt="两个香薰产品的超近景特写，米色背景，周围有棕色透明轻纱和蕨类植物，沉香枯木，两支铃兰，昏暗氛围，光线追踪，包含标题和小字说明。"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+**Reference Images:**
+
+<img src="cases/180/125.input.1.png" width="150" alt="Reference image">
+<img src="cases/180/125.input.2.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+为这两个香薰产品设计产品海报。两个香薰放在一起的超近景特写，质感清晰。米色背景，周围棕色透明轻纱，蕨类植物，沉香枯木，两支铃兰。4K超清画面质感。静物摄影，昏暗氛围，光线追踪。海报上方文案标题：“昆仑煮雪”，极细文字。页面下方小字：“沉香|铃兰|草本”。艺术签角标：“观夏|to summer”。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-181"></a>
+### No. 181: 杰瑞鼠化身《大闹天宫》英雄
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/181/126.output.1.png" width="300" alt="杰瑞鼠穿着鹅黄色虎皮裙和大红披风，手持金箍棒，背景为天宫亭台楼阁，展现经典动画风格"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+
+**Prompt**
+
+```
+杰瑞鼠身披《大闹天宫》动画版标志性的鹅黄色虎皮裙、大红披风和金甲，头戴凤翅紫金冠，手持金箍棒，面部表情夸张而神气，背景是天宫的亭台楼阁或花果山水帘洞，整个画面都将严格遵循上海美术电影制片厂《大闹天宫》的经典画风，色彩浓烈，线条流畅，充满浓郁的中国传统水墨和工笔重彩韵味。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-182"></a>
+### No. 182: 权力的游戏人物关系图
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
+
+<img src="cases/182/127.output.1.jpg" width="300" alt="一张手帐风格的图片，展示电视剧权力的游戏中人物的关系和势力图，包含各个角色的头像"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+
+**Prompt**
+
+```
+一张手帐风格图片，上面画着电视剧权力的游戏的人物关系和势力关系图，人物有头像
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-183"></a>
+### No. 183: 手办材质和上色
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/183/128.output.1.png" width="300" alt="为手办完成材质添加和上色，周围环境符合角色设定"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+**Reference Images:**
+
+<img src="cases/183/128.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+为这张手办完成材质添加和上色，同时将周围环境变为符合角色设定的环境
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-184"></a>
+### No. 184: 现代风格平面设计海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
+
+<img src="cases/184/129.output.1.png" width="300" alt="一张现代风格的平面设计海报，主体花朵从模糊的抽象背景中突出，背景呈现毛玻璃质感，配有醒目的色块和相关的文字，整体风格融合Y2K美学与酸性设计。"><br>
+<sub>Image © 2025 <a href="https://x.com/op7418">歸藏(guizang.ai)</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">歸藏(guizang.ai)</a> • [Source](https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ)</sub>
+
+**Reference Images:**
+
+<img src="cases/184/129.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+“请分析我上传的这张照片，并将其转换成一张现代风格的平面设计海报。请按以下步骤操作：主体处理：首先，将主体从原始背景中精确地抠出来，作为海报的核心主体。背景改造：将原始背景替换为一个抽象的、具有毛玻璃质感的背景。这个新背景应该保留原背景的色调倾向（比如绿色和棕色），但要完全模糊掉具体细节。核心构图：在主体的后面，添加一个醒目的纯色矩形色块。色块的颜色请从照片上最亮的颜色中提取。添加与照片主体内容相关的主标题文字，使用一种粗大的、有设计感的无衬线字体。最关键的是，将这个标题图层放置在主体的后面，形成主体遮挡文字的空间感。细节添加：在画面的不同位置，添加一些与画面内容相关的小号的、信息性的文字，以创造视觉层次。在花茎的底部，添加一些模拟透明胶带的素材，让花朵看起来像是被贴在海报上一样，增加真实感和拼贴感。风格统一：最后，确保整个海报的风格是Y2K美学或酸性设计，画面具有丰富的纹理和层次感。让标题和色块与背景的玻璃质感有一些透明度的融合，使整体看起来更协调。
 ```
 
 

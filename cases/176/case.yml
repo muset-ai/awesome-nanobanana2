@@ -1,0 +1,14 @@
+title: Comprehensive Identity System Mockups
+author: Bea Alessio
+author_link: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+source_links:
+- url: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+image: 121.output.1.png
+alt_text: A series of high-quality mockups showcasing an identity system across various products, advertisements, and billboards, presented one by one in a 16:9 format.
+reference_images:
+- 121.input.1.png
+prompt: Now create identity system one by one, use 10 high quality mockups with variety of relevant products,ads, billboards, bus stop, etc. generate one at a time, 16:9 each
+submitter: ''
+submitter_link: ''
+capability_code: C3
+capability_type: Typography

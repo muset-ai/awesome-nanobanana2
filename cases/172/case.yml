@@ -1,0 +1,14 @@
+title: Nighttime Transformation of the Scene
+author: Bea Alessio
+author_link: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+source_links:
+- url: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+image: 117.output.1.png
+alt_text: A scene transformed into nighttime, showcasing dark skies and illuminated elements.
+reference_images:
+- 117.input.1.png
+prompt: Turn this scene into nighttime
+submitter: ''
+submitter_link: ''
+capability_code: C6
+capability_type: Surreal Concepts

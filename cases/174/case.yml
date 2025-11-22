@@ -1,0 +1,19 @@
+title: Cinematic Image of a Mannequin in a New Dress
+author: Bea Alessio
+author_link: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+source_links:
+- url: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+image: 119.output.1.png
+alt_text: A cinematic composition featuring a mannequin wearing a new dress, arranged in a 16:9 format.
+reference_images:
+- 119.input.1.png
+- 119.input.2.png
+- 119.input.3.png
+- 119.input.4.png
+- 119.input.5.png
+- 119.input.6.png
+prompt: "Combine these images into one appropriately arranged cinematic image in 16:9 format and change the\r\ndress on the mannequin to the dress in the image."
+submitter: ''
+submitter_link: ''
+capability_code: C2
+capability_type: Cinematic Photo

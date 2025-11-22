@@ -1,0 +1,15 @@
+title: Realistic 1/7 Scale Figure on Desk with ZBrush Display
+author: Marvin
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+- url: https://www.fotor.com/blog/nano-banana-model-prompts/
+image: case.webp
+alt_text: A realistic 1/7 scale figure of a character displayed on a computer desk with a circular transparent acrylic base. The computer screen shows the ZBrush modeling process, and a BANDAI-style toy packaging box with original artwork is placed next to the screen.
+reference_images:
+- 101.input.1.webp
+- 101.input.2.webp
+prompt: create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic styie and environment.Place the figure on a computer desk, using a circular transparent acrylic base without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAI-style toy packaging box printedwith the original artwork.
+submitter: ''
+submitter_link: ''
+capability_code: C5
+capability_type: Stylized Characters

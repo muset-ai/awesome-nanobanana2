@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T09:06:11.236Z",
+  "generated_at": "2025-11-22T09:25:55.117Z",
   "cases": [
     {
       "case_no": 1,
@@ -5605,6 +5605,1060 @@
         "source_links": [
           {
             "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 156,
+      "title": "Realistic 1/7 Scale Figure on Desk with ZBrush Display",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A realistic 1/7 scale figure of a character displayed on a computer desk with a circular transparent acrylic base. The computer screen shows the ZBrush modeling process, and a BANDAI-style toy packaging box with original artwork is placed next to the screen.",
+      "reference_images": [
+        "101.input.1.webp",
+        "101.input.2.webp"
+      ],
+      "prompt": "create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic styie and environment.Place the figure on a computer desk, using a circular transparent acrylic base without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAI-style toy packaging box printedwith the original artwork.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "Realistic 1/7 Scale Figure on Desk with ZBrush Display",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 157,
+      "title": "Classroom with Quadratic Formula Explanation",
+      "author": "GeminiAI",
+      "author_link": "https://www.reddit.com/r/GeminiAI/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/GeminiAI/comments/1p26ws8/show_your_nano_banana_pro_2_examples/"
+        }
+      ],
+      "image": "102.output.1.webp",
+      "alt_text": "A classroom scene featuring a blackboard prominently displaying the quadratic formula with graphics and explanatory text, designed for clarity and readability.",
+      "reference_images": [],
+      "prompt": "Create an image of a classroom with the blackboard being the prominent part of the scene and on the blackboard there should be how the teacher explained the quadratic formula to the class with graphics, explainer words, etc. The text should be readable.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C1",
+      "capability_type": "Physics",
+      "attribution": {
+        "title": "Classroom with Quadratic Formula Explanation",
+        "prompt_author": "GeminiAI",
+        "prompt_author_link": "https://www.reddit.com/r/GeminiAI/",
+        "image_author": "GeminiAI",
+        "image_author_link": "https://www.reddit.com/r/GeminiAI/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/GeminiAI/comments/1p26ws8/show_your_nano_banana_pro_2_examples/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 158,
+      "title": "Woodchuck Phrase in Wood",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "103.output.1.webp",
+      "alt_text": "An artistic representation of the phrase 'How much wood would a woodchuck chuck if a woodchuck could chuck wood' crafted from pieces of wood arranged by a woodchuck.",
+      "reference_images": [],
+      "prompt": "Create an image showing the phrase \"How much wood would a woodchuck chuck if a woodchuck couldchuck wood\" made out of wood chucked by a woodchuck.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Woodchuck Phrase in Wood",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 159,
+      "title": "Translation of Text on Cans",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "104.output.1.png",
+      "alt_text": "Three yellow and blue cans with English text translated into Korean, maintaining the original design.",
+      "reference_images": [
+        "104.input.1.png"
+      ],
+      "prompt": "translate all the English text on the three yellow and blue cans into Korean, while keeping everything else the same",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": "Image Editing",
+      "attribution": {
+        "title": "Translation of Text on Cans",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 160,
+      "title": "Vibrant Floral Arrangement",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "105.output.1.png",
+      "alt_text": "A close-up view of various colorful flowers in full bloom, showcasing their intricate details and textures.",
+      "reference_images": [
+        "105.input.1.png"
+      ],
+      "prompt": "Focus on the flowers",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C8",
+      "capability_type": "Pattern Design",
+      "attribution": {
+        "title": "Vibrant Floral Arrangement",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 161,
+      "title": "Three-Dimensional Skull Pancake with Blueberries and Maple Syrup",
+      "author": "Simon Willison",
+      "author_link": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/"
+        }
+      ],
+      "image": "106.output.1.jpg",
+      "alt_text": "A three-dimensional pancake shaped like a skull, topped with fresh blueberries and drizzled with maple syrup.",
+      "reference_images": [],
+      "prompt": "Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C6",
+      "capability_type": "Surreal Concepts",
+      "attribution": {
+        "title": "Three-Dimensional Skull Pancake with Blueberries and Maple Syrup",
+        "prompt_author": "Simon Willison",
+        "prompt_author_link": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/",
+        "image_author": "Simon Willison",
+        "image_author_link": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 162,
+      "title": "美式复古海报风格的北京天气和早间新闻",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://x.com/op7418/status/1991709531429302751"
+        }
+      ],
+      "image": "107.output.1.webp",
+      "alt_text": "一张美式复古海报风格的图像，顶部用巨大的艺术字写着2025年11月12日，底部以报纸排版风格展示今天的天气提示和一条正能量的早间新闻摘要。",
+      "reference_images": [],
+      "prompt": "搜索北京市今天（202511120）的天气和一条正能量的早间新闻。将我的照片转换成‘美式复古海报’风格。在海报顶部用巨大的艺术字写上今天的日期（中文），底部用报纸排版风格写上那条新闻的摘要和今天的天气提示。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "美式复古海报风格的北京天气和早间新闻",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://x.com/op7418/status/1991709531429302751"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 163,
+      "title": "3D Realistic Pokémon Themed MMO Game Screenshot",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://x.com/op7418/status/1991709531429302751"
+        }
+      ],
+      "image": "108.output.1.webp",
+      "alt_text": "A screenshot from a 3D realistic Pokémon themed MMO game, showcasing vibrant characters and an immersive environment.",
+      "reference_images": [],
+      "prompt": "3D写实风格的宝可梦主题MMO游戏截图",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "3D Realistic Pokémon Themed MMO Game Screenshot",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://x.com/op7418/status/1991709531429302751"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 164,
+      "title": "米色皮革手机壳产品海报",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://x.com/op7418/status/1991709531429302751"
+        }
+      ],
+      "image": "109.output.1.png",
+      "alt_text": "一款米色皮革手机壳的超近景特写，展示了细腻的素皮纹理与橙色金属镜头圈的撞色质感，背景为米色，周围缭绕着棕色透明轻纱和几株蕨类植物，静物摄影呈现昏暗氛围，光线柔和。",
+      "reference_images": [
+        "109.input.1.png"
+      ],
+      "prompt": "为这款米色皮革手机壳设计产品海报。手机壳侧立放置的超近景特写，清晰展现素皮细腻纹理与橙色金属镜头圈的撞色质感，背部吸附同色系磁吸卡包。米色背景，周围缭绕棕色透明轻纱，搭配几株蕨类植物、沉香枯木与两支铃兰作为前景点缀。4K超清画面质感。静物摄影，昏暗氛围，光线追踪，高级柔光。海报上方文案标题：“AATTT STUDIO”，极细衬线字体。页面下方小字：“素皮 | 磁吸 | 极简”。艺术签角标：“AATTT | Design”。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "米色皮革手机壳产品海报",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://x.com/op7418/status/1991709531429302751"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 165,
+      "title": "Meme Characters in Where's Wally Style",
+      "author": "Higgsfield AI",
+      "author_link": "https://x.com/higgsfield_ai",
+      "source_links": [
+        {
+          "url": "https://x.com/higgsfield_ai/status/1991662539827241223"
+        }
+      ],
+      "image": "110.output.1.jpg",
+      "alt_text": "A colorful poster featuring various meme characters hidden in a busy scene, styled like 'Where's Wally'",
+      "reference_images": [],
+      "prompt": "\"Every known meme character in the style of \"Where's Wally\"\" And it gives you the best poster you'll ever see!",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C4",
+      "capability_type": "Multi Character",
+      "attribution": {
+        "title": "Meme Characters in Where's Wally Style",
+        "prompt_author": "Higgsfield AI",
+        "prompt_author_link": "https://x.com/higgsfield_ai",
+        "image_author": "Higgsfield AI",
+        "image_author_link": "https://x.com/higgsfield_ai",
+        "source_links": [
+          {
+            "url": "https://x.com/higgsfield_ai/status/1991662539827241223"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 166,
+      "title": "High-Speed Collision of Formula 1 Cars",
+      "author": "hockney_cloud_bruh",
+      "author_link": "https://higgsfield.ai/@hockney_cloud_bruh",
+      "source_links": [
+        {
+          "url": "https://higgsfield.ai/@hockney_cloud_bruh"
+        }
+      ],
+      "image": "111.output.1.webp",
+      "alt_text": "A hyper-realistic cinematic shot capturing two Formula 1 cars colliding at high speed, with carbon fiber and metal fragments flying through the air, tires slightly lifted, and sparks bursting from the impact point, all depicted in dynamic motion blur and intense lighting.",
+      "reference_images": [],
+      "prompt": "A hyper-realistic cinematic shot of two Formula 1 cars colliding at high speed, captured at the exact moment of impact. Carbon fiber pieces and metal fragments are flying through the air, tires lifting slightly, sparks bursting from the contact point. The cars are still recognizable and not fully destroyed, frozen in mid-crash with dynamic motion blur, intense lighting, dramatic track atmosphere, high-detail realism.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "High-Speed Collision of Formula 1 Cars",
+        "prompt_author": "hockney_cloud_bruh",
+        "prompt_author_link": "https://higgsfield.ai/@hockney_cloud_bruh",
+        "image_author": "hockney_cloud_bruh",
+        "image_author_link": "https://higgsfield.ai/@hockney_cloud_bruh",
+        "source_links": [
+          {
+            "url": "https://higgsfield.ai/@hockney_cloud_bruh"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 167,
+      "title": "Sims 4 Character Creation in Progress",
+      "author": "hockney_cloud_bruh",
+      "author_link": "https://higgsfield.ai/@hockney_cloud_bruh",
+      "source_links": [
+        {
+          "url": "https://higgsfield.ai/@hockney_cloud_bruh"
+        }
+      ],
+      "image": "112.output.1.webp",
+      "alt_text": "A female Sims character being edited in the Create-a-Sim mode of Sims 4.",
+      "reference_images": [
+        "112.input.1.png"
+      ],
+      "prompt": "make her the sims character that is currently editing on the Create-a-Sim charactor creation in Sims 4",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "Sims 4 Character Creation in Progress",
+        "prompt_author": "hockney_cloud_bruh",
+        "prompt_author_link": "https://higgsfield.ai/@hockney_cloud_bruh",
+        "image_author": "hockney_cloud_bruh",
+        "image_author_link": "https://higgsfield.ai/@hockney_cloud_bruh",
+        "source_links": [
+          {
+            "url": "https://higgsfield.ai/@hockney_cloud_bruh"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 168,
+      "title": "Wildlife Sanctuary Logo: Nature Harmony",
+      "author": "singularity",
+      "author_link": "https://www.reddit.com/r/singularity/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/singularity/comments/1p29b3k/nano_banana_2s_multiimage_fusion_is_wild_uploaded/"
+        }
+      ],
+      "image": "113.output.1.png",
+      "alt_text": "Logo representing a wildlife sanctuary, symbolizing harmony with nature.",
+      "reference_images": [
+        "113.input.1.png",
+        "113.input.2.png",
+        "113.input.3.png"
+      ],
+      "prompt": "wildlife sanctuary logo, nature harmony",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Wildlife Sanctuary Logo: Nature Harmony",
+        "prompt_author": "singularity",
+        "prompt_author_link": "https://www.reddit.com/r/singularity/",
+        "image_author": "singularity",
+        "image_author_link": "https://www.reddit.com/r/singularity/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/singularity/comments/1p29b3k/nano_banana_2s_multiimage_fusion_is_wild_uploaded/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 169,
+      "title": "Knitted Wool Food Close-Up",
+      "author": "Yoni Attlan",
+      "author_link": "https://x.com/Yoni_attlan",
+      "source_links": [
+        {
+          "url": "https://x.com/Yoni_attlan/status/1991768802019725557"
+        }
+      ],
+      "image": "114.output.1.png",
+      "alt_text": "A detailed close-up of a food item made entirely from knitted wool yarn, showcasing the fuzzy texture and intricate stitching patterns under realistic lighting.",
+      "reference_images": [
+        "114.input.1.png"
+      ],
+      "prompt": "A photorealistic close-up photograph of a [NAME OF FOOD] made entirely out of knitted wool yarn. Show the fuzzy texture of the wool strands, the stitching patterns, and realistic lighting.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Knitted Wool Food Close-Up",
+        "prompt_author": "Yoni Attlan",
+        "prompt_author_link": "https://x.com/Yoni_attlan",
+        "image_author": "Yoni Attlan",
+        "image_author_link": "https://x.com/Yoni_attlan",
+        "source_links": [
+          {
+            "url": "https://x.com/Yoni_attlan/status/1991768802019725557"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 170,
+      "title": "Film Scene Storyboard Sketch",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "115.output.1.png",
+      "alt_text": "A black and white storyboard sketch depicting an establishing shot, medium shot, close-up, and POV shot for a film scene.",
+      "reference_images": [
+        "115.input.1.png"
+      ],
+      "prompt": " A black and white storyboard sketch showing an establishing shot, medium shot, close-up, and POV shotfor a film scene.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Film Scene Storyboard Sketch",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 171,
+      "title": "How to Make Elaichi Chai Infographic",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "116.output.1.webp",
+      "alt_text": "An infographic illustrating the step-by-step process of making elaichi chai, including ingredients and preparation methods.",
+      "reference_images": [],
+      "prompt": "Create an infographic that shows how to make elaichi chai",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C8",
+      "capability_type": "Pattern Design",
+      "attribution": {
+        "title": "How to Make Elaichi Chai Infographic",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 172,
+      "title": "Nighttime Transformation of the Scene",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "117.output.1.png",
+      "alt_text": "A scene transformed into nighttime, showcasing dark skies and illuminated elements.",
+      "reference_images": [
+        "117.input.1.png"
+      ],
+      "prompt": "Turn this scene into nighttime",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C6",
+      "capability_type": "Surreal Concepts",
+      "attribution": {
+        "title": "Nighttime Transformation of the Scene",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 173,
+      "title": "Adapting Image Aspect Ratio for Various Platforms",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "118.output.1.png",
+      "alt_text": "An illustration showing different aspect ratios for an image, tailored for various digital platforms.",
+      "reference_images": [
+        "118.input.1.png"
+      ],
+      "prompt": "Change the look and feel of an image for a range of platforms by adapting the aspect ratio.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": "Image Editing",
+      "attribution": {
+        "title": "Adapting Image Aspect Ratio for Various Platforms",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 174,
+      "title": "Cinematic Image of a Mannequin in a New Dress",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "119.output.1.png",
+      "alt_text": "A cinematic composition featuring a mannequin wearing a new dress, arranged in a 16:9 format.",
+      "reference_images": [
+        "119.input.1.png",
+        "119.input.2.png",
+        "119.input.3.png",
+        "119.input.4.png",
+        "119.input.5.png",
+        "119.input.6.png"
+      ],
+      "prompt": "Combine these images into one appropriately arranged cinematic image in 16:9 format and change the\r\ndress on the mannequin to the dress in the image.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Cinematic Image of a Mannequin in a New Dress",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 175,
+      "title": "Retro Wave Logo Design",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "120.output.1.png",
+      "alt_text": "A vibrant and playful typographic illustration of the word 'WAVE' arranged into the shape of a wave, featuring soft, rounded, and fluid letterforms in deep blue on a light blue background, embodying a nostalgic 1960s and 1970s aesthetic.",
+      "reference_images": [],
+      "prompt": "Create a smooth logo in a graphic style is a vibrant and playful form of typographic illustration, deeplyrooted in the retro aesthetics of the 1960s and 1970s loosely based on the sketch lts defining feature is a groovy,bsychedelic-inspired typeface characterized by soft, rounded, and fluid letterforms. Don't exactly follow the sketchget inspired from it. The letters are skilfully distorted, stretched, and compressed, abandoning rigid structure toflow together and form a cohesive, recognizable shape.This technique, known as a calligram, masterfully merges text and image, where the word's form visually embodiests meaning. The word \"WAVE\" is artfuly arranged into the fluid sihouette of a wave. The design is a clever visual punmaking the message instantly accessible and memorable.The color palette reinforces the vintage feel, employing a simple two-toned scheme with warm, often muted orearthy colors light blue background and deep blue logo. This choice enhances the nostalgic charm of the artwork.The overall effect is one of whimsical nostalgia and clever graphic design. lt's a bold yet approachable style thatcommunicates a simple, positive message through the seamless integration of shape and word, creating an\r\nimmediate and delightful visual impact.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Retro Wave Logo Design",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 176,
+      "title": "Comprehensive Identity System Mockups",
+      "author": "Bea Alessio",
+      "author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+      "source_links": [
+        {
+          "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+        }
+      ],
+      "image": "121.output.1.png",
+      "alt_text": "A series of high-quality mockups showcasing an identity system across various products, advertisements, and billboards, presented one by one in a 16:9 format.",
+      "reference_images": [
+        "121.input.1.png"
+      ],
+      "prompt": "Now create identity system one by one, use 10 high quality mockups with variety of relevant products,ads, billboards, bus stop, etc. generate one at a time, 16:9 each",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Comprehensive Identity System Mockups",
+        "prompt_author": "Bea Alessio",
+        "prompt_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "image_author": "Bea Alessio",
+        "image_author_link": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/",
+        "source_links": [
+          {
+            "url": "https://blog.google/products/gemini/prompting-tips-nano-banana-pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 177,
+      "title": "天气UI设计稿",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "122.output.1.png",
+      "alt_text": "展示2025年11月20日北京天气信息的用户界面设计",
+      "reference_images": [],
+      "prompt": "帮我搜索现在（20251120）北京的天气信息，并且将其放在一个天气UI设计稿中",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": "Image Editing",
+      "attribution": {
+        "title": "天气UI设计稿",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 178,
+      "title": "广西旅游手帐拼贴",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "123.output.1.jpg",
+      "alt_text": "一张拼贴手帐风格的广西旅游笔记，记录了旅行行程和多种语言的文字，包括中文、韩语和英语。",
+      "reference_images": [],
+      "prompt": "帮我生成一张拼贴手帐风格的广西旅游笔记，上面记录着自己的行程以及路上的照片等，文字有中文、韩语和英语。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "广西旅游手帐拼贴",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 179,
+      "title": "生动有趣的个人日记拼贴画",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "124.output.1.jpg",
+      "alt_text": "一页手写日记，包含关于今天的活动描述，吸引人的标语，图片，红色笔迹圈出的推荐地点和活动，简单涂鸦，以及北京的天气和日期。",
+      "reference_images": [],
+      "prompt": "模拟在一张略带纹理的纸张上（米黄色或者浅棕色）手写的关于今天的日记。所有的图片以拼贴画风格放在一页日记上，保证图片与原图一致包含以下元素：用手写字体描述今天做了什么，以及一两句吸引人的标语或简介，包含几张图片的介绍，用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动。穿插一些与图片特色相关的简单涂鸦式小图画，写着当前的日期和北京的天气，并添加一个图 4 手绘角色形象整体感觉要像一份由热爱生活的作者精心制作的、生动有趣的个人日记。\r\n",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "生动有趣的个人日记拼贴画",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 180,
+      "title": "昆仑煮雪香薰产品海报",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "125.output.1.png",
+      "alt_text": "两个香薰产品的超近景特写，米色背景，周围有棕色透明轻纱和蕨类植物，沉香枯木，两支铃兰，昏暗氛围，光线追踪，包含标题和小字说明。",
+      "reference_images": [
+        "125.input.1.png",
+        "125.input.2.png"
+      ],
+      "prompt": "为这两个香薰产品设计产品海报。两个香薰放在一起的超近景特写，质感清晰。米色背景，周围棕色透明轻纱，蕨类植物，沉香枯木，两支铃兰。4K超清画面质感。静物摄影，昏暗氛围，光线追踪。海报上方文案标题：“昆仑煮雪”，极细文字。页面下方小字：“沉香|铃兰|草本”。艺术签角标：“观夏|to summer”。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "昆仑煮雪香薰产品海报",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 181,
+      "title": "杰瑞鼠化身《大闹天宫》英雄",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "126.output.1.png",
+      "alt_text": "杰瑞鼠穿着鹅黄色虎皮裙和大红披风，手持金箍棒，背景为天宫亭台楼阁，展现经典动画风格",
+      "reference_images": [],
+      "prompt": "杰瑞鼠身披《大闹天宫》动画版标志性的鹅黄色虎皮裙、大红披风和金甲，头戴凤翅紫金冠，手持金箍棒，面部表情夸张而神气，背景是天宫的亭台楼阁或花果山水帘洞，整个画面都将严格遵循上海美术电影制片厂《大闹天宫》的经典画风，色彩浓烈，线条流畅，充满浓郁的中国传统水墨和工笔重彩韵味。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "杰瑞鼠化身《大闹天宫》英雄",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 182,
+      "title": "权力的游戏人物关系图",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "127.output.1.jpg",
+      "alt_text": "一张手帐风格的图片，展示电视剧权力的游戏中人物的关系和势力图，包含各个角色的头像",
+      "reference_images": [],
+      "prompt": "一张手帐风格图片，上面画着电视剧权力的游戏的人物关系和势力关系图，人物有头像",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C7",
+      "capability_type": "Maps Layout",
+      "attribution": {
+        "title": "权力的游戏人物关系图",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 183,
+      "title": "手办材质和上色",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "128.output.1.png",
+      "alt_text": "为手办完成材质添加和上色，周围环境符合角色设定",
+      "reference_images": [
+        "128.input.1.png"
+      ],
+      "prompt": "为这张手办完成材质添加和上色，同时将周围环境变为符合角色设定的环境",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "手办材质和上色",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 184,
+      "title": "现代风格平面设计海报",
+      "author": "歸藏(guizang.ai)",
+      "author_link": "https://x.com/op7418",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
+        }
+      ],
+      "image": "129.output.1.png",
+      "alt_text": "一张现代风格的平面设计海报，主体花朵从模糊的抽象背景中突出，背景呈现毛玻璃质感，配有醒目的色块和相关的文字，整体风格融合Y2K美学与酸性设计。",
+      "reference_images": [
+        "129.input.1.png"
+      ],
+      "prompt": "“请分析我上传的这张照片，并将其转换成一张现代风格的平面设计海报。请按以下步骤操作：主体处理：首先，将主体从原始背景中精确地抠出来，作为海报的核心主体。背景改造：将原始背景替换为一个抽象的、具有毛玻璃质感的背景。这个新背景应该保留原背景的色调倾向（比如绿色和棕色），但要完全模糊掉具体细节。核心构图：在主体的后面，添加一个醒目的纯色矩形色块。色块的颜色请从照片上最亮的颜色中提取。添加与照片主体内容相关的主标题文字，使用一种粗大的、有设计感的无衬线字体。最关键的是，将这个标题图层放置在主体的后面，形成主体遮挡文字的空间感。细节添加：在画面的不同位置，添加一些与画面内容相关的小号的、信息性的文字，以创造视觉层次。在花茎的底部，添加一些模拟透明胶带的素材，让花朵看起来像是被贴在海报上一样，增加真实感和拼贴感。风格统一：最后，确保整个海报的风格是Y2K美学或酸性设计，画面具有丰富的纹理和层次感。让标题和色块与背景的玻璃质感有一些透明度的融合，使整体看起来更协调。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": "Image Editing",
+      "attribution": {
+        "title": "现代风格平面设计海报",
+        "prompt_author": "歸藏(guizang.ai)",
+        "prompt_author_link": "https://x.com/op7418",
+        "image_author": "歸藏(guizang.ai)",
+        "image_author_link": "https://x.com/op7418",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/-7bHmqlWcTn_Sj7A1I_dFQ"
           }
         ],
         "license": "CC-BY-4.0",

@@ -1,0 +1,14 @@
+title: Adapting Image Aspect Ratio for Various Platforms
+author: Bea Alessio
+author_link: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+source_links:
+- url: https://blog.google/products/gemini/prompting-tips-nano-banana-pro/
+image: 118.output.1.png
+alt_text: An illustration showing different aspect ratios for an image, tailored for various digital platforms.
+reference_images:
+- 118.input.1.png
+prompt: Change the look and feel of an image for a range of platforms by adapting the aspect ratio.
+submitter: ''
+submitter_link: ''
+capability_code: C9
+capability_type: Image Editing
