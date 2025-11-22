@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T08:49:05.207Z",
+  "generated_at": "2025-11-22T09:06:11.236Z",
   "cases": [
     {
       "case_no": 1,
@@ -4288,6 +4288,1323 @@
         "source_links": [
           {
             "url": "https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 119,
+      "title": "Hand-Crocheted Yarn Doll Cradled in Gentle Hands",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "201.output.1.webp",
+      "alt_text": "A close-up photograph of a hand-crocheted yarn doll shaped like a cute chibi character, held gently by two hands. The background is softly blurred, featuring a warm wooden tabletop and natural light, enhancing the intimate and cozy atmosphere.",
+      "reference_images": [
+        "201.input.1.webp"
+      ],
+      "prompt": "A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Hand-Crocheted Yarn Doll Cradled in Gentle Hands",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 120,
+      "title": "大师级排版海报设计：荒原与落日",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "202.output.1.png",
+      "alt_text": "一幅展示广阔荒原的排版海报，公路延伸向远方，巨大的橙黄色落日映照天空与土地，营造出希望的氛围。画面中有一辆吉普车行驶，底部是潇洒手写风格的中文文字“即刻启程 奔赴山海”，以及英文装饰“begin”。",
+      "reference_images": [],
+      "prompt": "大师级排版海报设计，画面展现一片广阔的荒原，一条笔直的公路延伸向远方，尽头是一轮巨大的橙黄色落日，天空和荒原被落日染成暖橙与金黄的色调，整体氛围辽阔且充满希望，对称构图，一辆吉普车穿行在公路上，宏大场景。画面底部有白色潇洒灵动手写风格的文字“即刻启程 奔赴山海”，部分笔画连笔，粗细变化丰富，字迹错落分布。画面中还有黄色小字英文装饰“begin”，3:4比例。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "大师级排版海报设计：荒原与落日",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 121,
+      "title": "四时更替海报设计",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "203.output.1.png",
+      "alt_text": "四张海报分别代表春分、夏至、秋分和冬至，背景为白色，每张海报使用相应季节的色彩，风格和排版一致。",
+      "reference_images": [],
+      "prompt": "创作4张分别是春分、夏至、秋分、冬至的“四时更替”海报，白色背景，每张对应相应的季节色彩，整体风格保持一致，画面效果和排版方式一致。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "四时更替海报设计",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 122,
+      "title": "重庆旅游指南手账",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "204.output.1.png",
+      "alt_text": "一本手账形式的重庆旅游指南，内容为纯中文，展示重庆的旅游景点和文化信息。",
+      "reference_images": [],
+      "prompt": "生成重庆的旅游指南，手账形式，纯中文。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C7",
+      "capability_type": "Maps Layout",
+      "attribution": {
+        "title": "重庆旅游指南手账",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 123,
+      "title": "耄耋的词语解释",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "205.output.1.png",
+      "alt_text": "对“耄耋”一词的详细解释和定义",
+      "reference_images": [],
+      "prompt": "参照词典，生成“耄耋”的词语解释。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "耄耋的词语解释",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 124,
+      "title": "古诗《黄鹤楼》课文页",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "206.output.1.png",
+      "alt_text": "一页包含古诗《黄鹤楼》的课文，包含诗句、拼音和注释，适合中国语文学习使用。",
+      "reference_images": [],
+      "prompt": "参考中国语文课本，为古诗《黄鹤楼》生成一页课文，诗、拼音、注释一应俱全。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "古诗《黄鹤楼》课文页",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 125,
+      "title": "Windows XP Desktop Screenshot",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "207.output.1.png",
+      "alt_text": "A screenshot of a Windows XP desktop featuring the classic green meadow background, the 'Start' button in the bottom left corner, and an open 'My Computer' window displaying a file list in the traditional Windows XP style.",
+      "reference_images": [],
+      "prompt": "生成一张Windows XP的桌面截图。要求包含：经典草原背景、左下角“开始”按钮、一个打开着“我的电脑”窗口，窗口内文件列表的字体和图标必须还原Windows XP风格。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Windows XP Desktop Screenshot",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 126,
+      "title": "橙色风格的用户界面设计",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "208.output.1.png",
+      "alt_text": "一张以橙色为主色调的用户界面设计，风格与参考图相似",
+      "reference_images": [
+        "208.input.1.png"
+      ],
+      "prompt": "参考这张图，生成一张类似风格的UI，主色调改为橙色。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C8",
+      "capability_type": "Pattern Design",
+      "attribution": {
+        "title": "橙色风格的用户界面设计",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 127,
+      "title": "詹姆斯与库里的总决赛对决",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "209.output.1.png",
+      "alt_text": "一幅描绘詹姆斯和库里在NBA总决赛中喷垃圾话的漫画风格分镜，包含中文对白、拟声词和动态镜头效果。",
+      "reference_images": [],
+      "prompt": "生成像《灌篮高手》那种专业分镜结构、漫画叙事节奏、对白气泡、拟声词、画格布局、视角变化、动态镜头，但主角换成 詹姆斯 和 库里 在NBA总决赛喷垃圾话的故事，中文对白。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C4",
+      "capability_type": "Multi Character",
+      "attribution": {
+        "title": "詹姆斯与库里的总决赛对决",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 128,
+      "title": "激战中的天命人和二郎神",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "210.output.1.png",
+      "alt_text": "天命人身着全套大圣套装与二郎神在激战，背景为《黑神话：悟空》的游戏界面",
+      "reference_images": [],
+      "prompt": "生成一个《黑神话：悟空》的游戏界面，天命人身着全套大圣套装，正在与二郎神激战。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C4",
+      "capability_type": "Multi Character",
+      "attribution": {
+        "title": "激战中的天命人和二郎神",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 129,
+      "title": "成都建设路漫步地图推荐",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "211.output.1.png",
+      "alt_text": "一张关于成都建设路的Citywalk路线推荐封面，展示咖啡店、书店和小众美术馆的元素，适合拍摄氛围感照片",
+      "reference_images": [],
+      "prompt": "生成周末Citywalk路线推荐主题的小红书笔记封面，尺寸3:4，内容：“成都建设路漫步地图🍃咖啡+书店+小众美术馆，一天拍出99张氛围感照片！”",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C7",
+      "capability_type": "Maps Layout",
+      "attribution": {
+        "title": "成都建设路漫步地图推荐",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 130,
+      "title": "手账风格咖啡制作过程",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "212.output..png",
+      "alt_text": "手账风格的插图，展示了咖啡制作的步骤，包含中文讲解，比例为4:3。",
+      "reference_images": [],
+      "prompt": "手账风格，中文讲解咖啡的制作过程，4:3尺寸。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C6",
+      "capability_type": "Surreal Concepts",
+      "attribution": {
+        "title": "手账风格咖啡制作过程",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 131,
+      "title": "李白的《蜀道难》石碑刻字",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "213.output.1.png",
+      "alt_text": "一块石碑上刻着李白的《蜀道难》，使用繁体字和行书风格",
+      "reference_images": [],
+      "prompt": "平平无奇的手机拍摄，在一个石碑上刻着李白的《蜀道难》，繁体，行书。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "李白的《蜀道难》石碑刻字",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 132,
+      "title": "传呼机屏幕上的警告信息",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "214.output.1.png",
+      "alt_text": "一个传呼机屏幕显示着：不好，香蕉来了。",
+      "reference_images": [],
+      "prompt": "写实风格，一个传呼机屏幕写着：不好，香蕉来了。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C6",
+      "capability_type": "Surreal Concepts",
+      "attribution": {
+        "title": "传呼机屏幕上的警告信息",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 133,
+      "title": "Transformer架构图",
+      "author": "沃垠AI",
+      "author_link": "",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+        }
+      ],
+      "image": "215.output.1.png",
+      "alt_text": "一幅展示Transformer模型架构的图示，包含输入层、编码器、解码器及输出层的结构",
+      "reference_images": [],
+      "prompt": "画一个Transformer的架构图。",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C7",
+      "capability_type": "Maps Layout",
+      "attribution": {
+        "title": "Transformer架构图",
+        "prompt_author": "沃垠AI",
+        "prompt_author_link": "",
+        "image_author": "沃垠AI",
+        "image_author_link": "",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 134,
+      "title": "High-Contrast Black-and-White Side-Profile Portrait",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1989802091682926775"
+        }
+      ],
+      "image": "216.output.1.jpg",
+      "alt_text": "A powerful side-profile portrait of a person in black-and-white, emerging from darkness with a strong, contemplative expression. The subject is illuminated by a narrow rim light that highlights the contours of their face, neck, and shoulder against an absolute black background, creating a minimalist and introspective mood.",
+      "reference_images": [],
+      "prompt": "A powerful, high-contrast black-and-white side-profile portrait of a person (use reference photo,  Keep face of person 100% accurate from the reference image), with distinctly human yet timeless features emerging from complete darkness.\r\n\r\nThe composition is minimalist and sculptural, where form, light, and shadow define the subject rather than color or texture.\r\n\r\n(Subject is the person in the attached reference image)\r\n\r\nThe subject’s profile is clean and strong, contemplative expression  as if caught between thought and transcendence. They wear a dark, form-fitting turtleneck sweater that merges seamlessly into the black void, erasing all detail except the glowing edge of their silhouette.\r\n\r\nA single, narrow rim light  bright, sharp, and directional  carves out the shape of the head, neck, and shoulder, tracing the contours with precision. The light originates from directly behind and slightly above the subject, creating a thin, luminous halo along the jawline and curve of the skull, while the rest dissolves into pure black.\r\n\r\nThe background is absolute darkness, a void without texture or depth, emphasizing the luminous boundary between shadow and light.\r\n\r\nThere are no midtones, only the purest black and deliberate contrast with the brightest whites  heightening drama and abstraction.\r\n\r\nMood & Aesthetic: Minimalist, conceptual, and deeply introspective. Evokes solitude, contemplation, and timeless elegance. Feels cinematic yet intimate  an exploration of identity through light.\r\n\r\nTechnical details:\r\n\r\nShot with a telephoto lens for compressed perspective\r\n\r\nAperture: wide open (f/1.8–2.8) to achieve glowing contour and shallow depth of field\r\n\r\nLighting: front face with good highlight balance\r\n\r\nRendering: ultra-realistic 8K cinematic quality, true lens physics, depth of field, subtle film grain",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "High-Contrast Black-and-White Side-Profile Portrait",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1989802091682926775"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 135,
+      "title": "Chibi Character with Playful Expressions",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "217.output.1.webp",
+      "alt_text": "A cute chibi character making a peace sign with both hands and winking, displaying tearful eyes and trembling lips. They are lying on their side asleep with a tiny pillow, a warm smile on their face. The character is pointing confidently, surrounded by shining visual effects. Heart symbols float around as they blow a kiss. The background is vibrant red with colorful confetti elements, and there is clean white space around the character.",
+      "reference_images": [
+        "217.input.1.webp"
+      ],
+      "prompt": "Making a playful peace sign with both hands and winking. Tearful eyes and slightly trembling lips, showing a cute crying expression. Arms wide open in a warm, enthusiastic hug pose. Lying on their side asleep, resting on a tiny pillow with a sweet smile. Pointing forward with confidence, surrounded by shining visual effects. Blowing a kiss, with heart symbols floating around. Maintain the chibi aesthetic. Exaggerated, expressive big eyes. Soft facial lines. Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker. Aspect ratio: 9:16",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "Chibi Character with Playful Expressions",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 136,
+      "title": "Vibrant Rhythm Dance Game Screenshot",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "218.output.1.webp",
+      "alt_text": "A dynamic 3D animated character in a confident dance pose on a glossy reflective dance floor, illuminated by neon pink and purple lights. The screenshot features an immersive rhythm game interface with a score meter, colorful music waveform animations, stage timer countdown, and floating combo numbers, all set in a highly detailed arcade atmosphere.",
+      "reference_images": [
+        "218.input.1.webp"
+      ],
+      "prompt": "A vibrant rhythm dance game screenshot featuring the 3D animated character from the reference photo, keeping its unique style, hat, outfit, and confident dance pose. Immersive cinematic lighting with neon pink and purple glow, glossy reflective dance floor shining under spotlights, and dynamic 3D cartoon style. Rhythm game interface with immersive UI: score meter at the top, colorful music waveform animations synced to the beat, stage timer countdown, and floating combo numbers. Highly detailed, game-like atmosphere with energy bars, neon particle effects, and immersive arcade rhythm game HUD elements. Ultra-detailed, cinematic, immersive, 3D animation.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Vibrant Rhythm Dance Game Screenshot",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 137,
+      "title": "Gashapon Capsule Diorama of [NAME] in [ICONIC POSE / STYLE]",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "301.output.1.webp",
+      "alt_text": "A transparent gashapon capsule diorama held between fingers, showcasing [NAME] in their [ICONIC POSE / STYLE]. The figure features [short description of figure’s look, clothing, and accessories], set against a dramatic background of [relevant setting]. The capsule has a transparent top and a [fitting color] base, adorned with [motifs related to the person], and labeled with [NAME or NICKNAME] in a matching font style. The composition is photorealistic with soft bokeh effects.",
+      "reference_images": [
+        "301.input.1.webp"
+      ],
+      "prompt": "A detailed transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme. The capsule has a transparent top and a colored base [choose fitting color: e.g., royal blue, gold, black, red], decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail, soft bokeh, and a square 1080x1080 composition.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Gashapon Capsule Diorama of [NAME] in [ICONIC POSE / STYLE]",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 138,
+      "title": "Detailed Whiteboard Photo of The Llama 3 Herd of Models",
+      "author": "Pietro Schirano",
+      "author_link": "https://x.com/skirano",
+      "source_links": [
+        {
+          "url": "https://x.com/skirano/status/1991527921316773931?s=46"
+        }
+      ],
+      "image": "304.output.1.JPG",
+      "alt_text": "A detailed whiteboard illustration depicting the models from 'The Llama 3 Herd of Models', showcasing various features and characteristics.",
+      "reference_images": [],
+      "prompt": "turn the pdf \"The Llama 3 Herd of Models” into a detailed whiteboard photo.\r\n",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Detailed Whiteboard Photo of The Llama 3 Herd of Models",
+        "prompt_author": "Pietro Schirano",
+        "prompt_author_link": "https://x.com/skirano",
+        "image_author": "Pietro Schirano",
+        "image_author_link": "https://x.com/skirano",
+        "source_links": [
+          {
+            "url": "https://x.com/skirano/status/1991527921316773931?s=46"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 139,
+      "title": "Detailed Whiteboard Photo of Gemini 3 Pro Announcement",
+      "author": "Pietro Schirano",
+      "author_link": "https://x.com/skirano",
+      "source_links": [
+        {
+          "url": "https://x.com/skirano/status/1991527921316773931?s=46"
+        }
+      ],
+      "image": "305.output.1.JPG",
+      "alt_text": "A whiteboard illustration depicting the key features and announcements of the Gemini 3 Pro.",
+      "reference_images": [],
+      "prompt": "Turn the pdf \"The Gemini 3 Pro announcement\" into a detailed whiteboard photo.\r\n",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Detailed Whiteboard Photo of Gemini 3 Pro Announcement",
+        "prompt_author": "Pietro Schirano",
+        "prompt_author_link": "https://x.com/skirano",
+        "image_author": "Pietro Schirano",
+        "image_author_link": "https://x.com/skirano",
+        "source_links": [
+          {
+            "url": "https://x.com/skirano/status/1991527921316773931?s=46"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 140,
+      "title": "Fingerprint Map of a Finger",
+      "author": "Higgsfield AI",
+      "author_link": "https://x.com/higgsfield_ai",
+      "source_links": [
+        {
+          "url": "https://x.com/higgsfield_ai/status/1991532530881950031"
+        }
+      ],
+      "image": "306.output.1.JPG",
+      "alt_text": "A detailed fingerprint map showcasing the unique patterns and ridges of a finger.",
+      "reference_images": [
+        "306.input.1.jpg"
+      ],
+      "prompt": "Create a fingerprint map of this finger",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C7",
+      "capability_type": "Maps Layout",
+      "attribution": {
+        "title": "Fingerprint Map of a Finger",
+        "prompt_author": "Higgsfield AI",
+        "prompt_author_link": "https://x.com/higgsfield_ai",
+        "image_author": "Higgsfield AI",
+        "image_author_link": "https://x.com/higgsfield_ai",
+        "source_links": [
+          {
+            "url": "https://x.com/higgsfield_ai/status/1991532530881950031"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 141,
+      "title": "Ingredients for the Dish",
+      "author": "Higgsfield AI",
+      "author_link": "https://x.com/higgsfield_ai",
+      "source_links": [
+        {
+          "url": "https://x.com/higgsfield_ai/status/1991600367138926697"
+        }
+      ],
+      "image": "307.output.1.JPG",
+      "alt_text": "A photo displaying all the ingredients for a dish, each labeled with its name and quantity.",
+      "reference_images": [
+        "307.input.1.JPG"
+      ],
+      "prompt": "Show me a photo of all the ingredients for this dish, labeled with names and quantities.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Ingredients for the Dish",
+        "prompt_author": "Higgsfield AI",
+        "prompt_author_link": "https://x.com/higgsfield_ai",
+        "image_author": "Higgsfield AI",
+        "image_author_link": "https://x.com/higgsfield_ai",
+        "source_links": [
+          {
+            "url": "https://x.com/higgsfield_ai/status/1991600367138926697"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 142,
+      "title": "Lifecycle of a Handsome Man Celebrating Holidays",
+      "author": "Nano Banana Labs\r\n",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1991765684297035867"
+        }
+      ],
+      "image": "308.output.1.JPG",
+      "alt_text": "A photorealistic 3x3 grid collage depicting the lifecycle of a handsome man with dark wavy hair and warm eyes, celebrating various holidays from age 5 to 85. Each panel showcases different ages and festive moments, with labels at the bottom indicating the age.",
+      "reference_images": [],
+      "prompt": "A photorealistic 3x3 grid collage showing the lifecycle of a handsome man with dark wavy hair and warm eyes, celebrating various holidays throughout his life.\r\nTop Left (Age 5): A cute young boy in a knitted Christmas sweater holding a toy truck in front of a decorated tree.\r\nTop Middle (Age 15): A teenage boy with longer hair sitting at a festive dinner table, smiling.\r\nTop Right (Age 25): A young adult male in a suit wearing a Santa hat, holding a drink at a holiday party.\r\nMiddle Left (Age 35): A stylish portrait of the man with a beard, wearing a burgundy velvet shirt, looking confident.\r\nMiddle Center (Age 45): The man carving a turkey at a family Thanksgiving dinner.\r\nMiddle Right (Age 55): The man with greying hair lighting a Menorah, looking dignified.\r\nBottom Left (Age 65): The man with silver hair holding a grandchild in front of a Christmas tree.\r\nBottom Center (Age 75): The elderly man outdoors in a spring setting, perhaps looking for Easter eggs, wearing a beige sweater.\r\nBottom Right (Age 85): The very old man sitting in an armchair by a fireplace, holding a wrapped gift, looking happy.\r\nStyle: Cinematic lighting, high resolution, 8k, highly detailed, ensuring the facial features remain recognizable as the same person aging naturally across all panels. Label each panel with white text at the bottom: 'Age 5', 'Age 15', etc",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Lifecycle of a Handsome Man Celebrating Holidays",
+        "prompt_author": "Nano Banana Labs\r\n",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs\r\n",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1991765684297035867"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 143,
+      "title": "GTA: Vice City Inspired Character in Miami",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1991225716952743945"
+        }
+      ],
+      "image": "309.output.1.JPG",
+      "alt_text": "A man with a face identical to the uploaded selfie, dressed like the main character from GTA: Vice City, leans against a retro 1980s sports car on Ocean Drive. The background features art-deco buildings, palm trees, neon signs, and a pink-purple sunset reflecting on wet asphalt. The scene has a neon glow and a soft blur of nightlife, captured in a low-angle cinematic shot with dramatic shadows.",
+      "reference_images": [],
+      "prompt": "The man attached in the uploaded reference image with the exact face from the uploaded selfie — same features, same proportions, same expression, no changes. Dressed like the GTA: Vice City main character, leaning against a retro 1980s sports car  Ocean Drive. Background: art-deco buildings, palm trees, neon signs, and a pink-purple Miami sunset reflecting on wet asphalt. Neon glow on the car and pavement, soft blur of nightlife in motion. Low-angle cinematic shot, dramatic shadows, ultra-realistic look, strong 1980s Vice City vibe.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "GTA: Vice City Inspired Character in Miami",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1991225716952743945"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 144,
+      "title": "Drone Shot of a Man on a Cliff with Bulldog",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1990536869218546082"
+        }
+      ],
+      "image": "310.output.1.JPG",
+      "alt_text": "A hyper-realistic landscape image of a man sitting on a ledge off a cliff, wearing a black t-shirt with 'NANO BANANA', distressed blue jeans, and Oakley sunglasses. He holds a drone remote control, with his English bulldog beside him. The breathtaking view shows two mountainous gorges, a clear blue river, patches of autumn colors, and a sunny sky with scattered clouds. The scene is captured in 8K resolution, emphasizing natural lighting and realism.",
+      "reference_images": [],
+      "prompt": "Generate a hyper-realistic landscape image of a drone shot of a man (attached photo as reference,  Keep the face of the person 100% accurate from the reference image , full body shot, the drone shot was ten feet away from the woman) sitting on a ledge off a cliff. He is wearing a black t-shirt with a printed \"NANO BANANA\" on it, a fitted distressed blue jeans and Oakley with orange lens. His two legs dangling from the ledge while his expression is calm and looking directly at the drone while he is holding the remote control of the drone. Beside him sits his English bulldog. The drone cam also captures the the stunning and breath-taking view of the surroundings. The view from the drone camera is nothing sort of ordinary since its overlooking the epic grandeur of the scenery below which is a like a detailed landscape of two mountainous gorge with a clear blue river or lake that passes between the two mountains. There are also a flock of white seagulls flying from the distance. The epic landscapes' are showing patches of different colors such as red, orange and yellow of autumn originating from the leaves of the trees that grew from it but the dominant color is still green. There are also patches of snow showing on the riverbank. The sky is sunny and clear blue with lots of scattered clouds that completes the epic scenery. Render this shot in 8K DSLR high resolution. Natural lightings, Create a realistic, lifelike image that captures the essence of the picture. Make sure the lighting, expressions, and details look as natural as possible, with a sense of realism. Ensure the background and foreground blend seamlessly for a cohesive and genuine look.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Drone Shot of a Man on a Cliff with Bulldog",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1990536869218546082"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 145,
+      "title": "Anime Girl Joins the Conversation",
+      "author": "ニケちゃん（@tegnike）",
+      "author_link": "https://x.com/tegnike",
+      "source_links": [
+        {
+          "url": "https://x.com/tegnike/status/1991557599519728113"
+        }
+      ],
+      "image": "311.output.1.JPG",
+      "alt_text": "An anime girl replaces the second person from the right in a group conversation, maintaining the same pose as the original character.",
+      "reference_images": [
+        "311.input.1.JPG"
+      ],
+      "prompt": "Please replace the second person from the right in the conversation with the attached anime girl, keeping the pose exactly the same",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C4",
+      "capability_type": "Multi Character",
+      "attribution": {
+        "title": "Anime Girl Joins the Conversation",
+        "prompt_author": "ニケちゃん（@tegnike）",
+        "prompt_author_link": "https://x.com/tegnike",
+        "image_author": "ニケちゃん（@tegnike）",
+        "image_author_link": "https://x.com/tegnike",
+        "source_links": [
+          {
+            "url": "https://x.com/tegnike/status/1991557599519728113"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 146,
+      "title": "Sesame Street Character Poster",
+      "author": "\r\nFirat Bilal",
+      "author_link": "https://x.com/firatbilal",
+      "source_links": [
+        {
+          "url": "https://x.com/firatbilal/status/1991604414243872932"
+        }
+      ],
+      "image": "312.output.1.JPG",
+      "alt_text": "A colorful poster featuring all the beloved Sesame Street characters with the text 'Sesame Street' prominently displayed.",
+      "reference_images": [],
+      "prompt": "Create an image featuring all the Sesame Street characters shown in the attachment and turn it into a poster that says \"Sesame Street.\"",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C4",
+      "capability_type": "Multi Character",
+      "attribution": {
+        "title": "Sesame Street Character Poster",
+        "prompt_author": "\r\nFirat Bilal",
+        "prompt_author_link": "https://x.com/firatbilal",
+        "image_author": "\r\nFirat Bilal",
+        "image_author_link": "https://x.com/firatbilal",
+        "source_links": [
+          {
+            "url": "https://x.com/firatbilal/status/1991604414243872932"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 147,
+      "title": "Glossy Magazine Article with Beautiful Typography Design",
+      "author": "fofr",
+      "author_link": "https://x.com/fofrAI",
+      "source_links": [
+        {
+          "url": "https://x.com/fofrai/status/1991530971800182929?s=46"
+        }
+      ],
+      "image": "313.output.1.JPG",
+      "alt_text": "A photo of a glossy magazine article displayed on a desk, featuring beautifully designed typography, pull quotes, and images, showcasing the unformatted article text.",
+      "reference_images": [],
+      "prompt": "Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C3",
+      "capability_type": "Typography",
+      "attribution": {
+        "title": "Glossy Magazine Article with Beautiful Typography Design",
+        "prompt_author": "fofr",
+        "prompt_author_link": "https://x.com/fofrAI",
+        "image_author": "fofr",
+        "image_author_link": "https://x.com/fofrAI",
+        "source_links": [
+          {
+            "url": "https://x.com/fofrai/status/1991530971800182929?s=46"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 148,
+      "title": "Cinematic Portrait in a Desert Landscape",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1991736924285943839"
+        }
+      ],
+      "image": "314.output.1.JPG",
+      "alt_text": "A hyper-realistic cinematic portrait of a kneeling person in a harsh desert environment, covered in dust and wearing tribal-style clothing. Two lions, an adult male and a cub, sit behind them, looking into the camera. A bleached animal skull is in the foreground, slightly out of focus, with sunlight creating highlights and shadows. The scene has a warm, earthy color tone under a clear blue sky.",
+      "reference_images": [],
+      "prompt": "A hyper-realistic cinematic portrait of the person from the uploaded reference image (keep the face 100% accurate with the same expression, skin tone, and proportions). The person is kneeling in a harsh desert environment under a clear blue sky. Their body is covered in dry dust and sand, with worn tribal-style clothing made of torn fabric, rope, and rugged layers that look sun-beaten and weathered. Braided hair with loose strands falls around the face, and bold dark-blue war paint streaks run across the eyes and forehead.\r\n\r\nTwo lions sit behind the person — one adult male with a thick golden mane and one young lion cub. Both lions look straight into the camera with calm but alert expressions. Their fur has warm sandy tones that match the desert light. Soft shadows form under their bodies on the dry cracked ground.\r\n\r\nA large bleached animal skull lies in the foreground, slightly out of focus, creating a strong depth-of-field effect. The skull has rough textures, cracks, and sand collected in the cavities. Sunlight creates crisp highlights on the edges and soft diffused shadows inside the hollow areas.\r\n\r\nLighting is bright and natural, coming from the high midday sun, casting short shadows. The overall color tone is warm, earthy, and dusty. The camera angle is low, close to the skull, with the focus on the person and lions while the foreground remains blurred. Background is a simple clear sky with no clouds, giving a stark open-desert feeling.\r\n\r\nImage style: ultra-realistic, high detail, documentary style, sharp textures, natural shadows, cinematic depth, 8k quality.\"",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Cinematic Portrait in a Desert Landscape",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1991736924285943839"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 149,
+      "title": "Bold Abstract Portrait of a Confident Man",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1989915848329339371"
+        }
+      ],
+      "image": "315.output.2.JPG",
+      "alt_text": "An abstract portrait of a confident man with accurate facial features from a reference image, wearing vibrant red rectangular sunglasses and an orange jacket. The background features a textured beige canvas with chaotic red and black linear patterns. The lighting is dramatic, emphasizing the subject's face with deep shadows, symbolizing strength and individuality. Includes a stylish signature 'POSTER CREATED BY NANOBANANA_LABS' in the bottom-left corner.",
+      "reference_images": [],
+      "prompt": "A bold abstract portrait of a confident man attached in the uploaded reference image ( Keep face of person 100% accurate from the reference image. ) wearing vibrant red rectangular sunglasses and an orange jacket. The artwork combines sketch-like pencil lines with expressive paint strokes, blending realism and abstraction. The background is a textured beige canvas filled with chaotic red and black linear patterns, giving a sense of artistic energy and rebellion. The lighting is dramatic, highlighting the subject’s face with deep shadows and a strong upward perspective, symbolizing strength and individuality. Modern art style, mixed media illustration, grunge aesthetic, poster design, high detail, cinematic composition.\r\nSignature & Branding:\r\nStylish painted signature “POSTER CREATED BY” in bold letters, and under that “NANOBANANA_LABS”, subtly integrated in the bottom-left corner, blending with the textures of the scene.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Bold Abstract Portrait of a Confident Man",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1989915848329339371"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 150,
+      "title": "Timeless Contemplation in Black and White",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1989802091682926775"
+        }
+      ],
+      "image": "316.output.1.JPG",
+      "alt_text": "A high-contrast black-and-white side-profile portrait of a person, with a strong and clean profile against a dark background. The subject's face is illuminated by a narrow rim light, creating a luminous halo around the jawline while the rest of the image dissolves into darkness. The composition emphasizes the contours and silhouette, evoking a sense of solitude and introspection.",
+      "reference_images": [],
+      "prompt": "A powerful, high-contrast black-and-white side-profile portrait of a person (use reference photo,  Keep face of person 100% accurate from the reference image), with distinctly human yet timeless features emerging from complete darkness.\r\n\r\nThe composition is minimalist and sculptural, where form, light, and shadow define the subject rather than color or texture.\r\n\r\n(Subject is the person in the attached reference image)\r\n\r\nThe subject’s profile is clean and strong, contemplative expression  as if caught between thought and transcendence. They wear a dark, form-fitting turtleneck sweater that merges seamlessly into the black void, erasing all detail except the glowing edge of their silhouette.\r\n\r\nA single, narrow rim light  bright, sharp, and directional  carves out the shape of the head, neck, and shoulder, tracing the contours with precision. The light originates from directly behind and slightly above the subject, creating a thin, luminous halo along the jawline and curve of the skull, while the rest dissolves into pure black.\r\n\r\nThe background is absolute darkness, a void without texture or depth, emphasizing the luminous boundary between shadow and light.\r\n\r\nThere are no midtones, only the purest black and deliberate contrast with the brightest whites  heightening drama and abstraction.\r\n\r\nMood & Aesthetic: Minimalist, conceptual, and deeply introspective. Evokes solitude, contemplation, and timeless elegance. Feels cinematic yet intimate  an exploration of identity through light.\r\n\r\nTechnical details:\r\n\r\nShot with a telephoto lens for compressed perspective\r\n\r\nAperture: wide open (f/1.8–2.8) to achieve glowing contour and shallow depth of field\r\n\r\nLighting: front face with good highlight balance\r\n\r\nRendering: ultra-realistic 8K cinematic quality, true lens physics, depth of field, subtle film grain",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Timeless Contemplation in Black and White",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1989802091682926775"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 151,
+      "title": "Candid Moment Between Friends at a Restaurant",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1989721233513197584"
+        }
+      ],
+      "image": "317.output.1.JPG",
+      "alt_text": "Two men seated at a table in a warm, inviting restaurant setting. The man on the left, Dwayne 'The Rock' Johnson, is wearing a dark top and focused on his food. The man on the right, wearing a dark green shirt, is smiling and engaging in conversation. The table is adorned with glasses and a small dish of food, with a blurred background featuring a colorful mural and foliage.",
+      "reference_images": [],
+      "prompt": "Create an indoor candid photo capturing a moment between two person enjoying a meal together at what appears to be a restaurant or a social gathering.\r\nPeople: In the center, two men are seated facing each other at a table.\r\nThe person on the left is dwane the rock johnson and is wearing a dark top. He is focused on his food or drink, possibly taking a bite or sip with a thin utensil or straw.\r\nThe person on the right me (uploaded photo for 100.999% facial reference, Keep face of person 100% accurate from the reference image.) and I'm wearing a dark green or olive button-up shirt.  I've a warm smile and is gesturing or talking, looking towards the man on the left. Both appear to be enjoying the conversation and the atmosphere.\r\nSetting & Atmosphere:\r\nThe setting is warm and inviting. The background is slightly blurred but shows a brick wall with what looks like a colorful, perhaps geometric, pattern or mural on it, adding visual interest.\r\nThe table is set with multiple wine glasses (some filled with a light, sparkling drink, possibly Champagne or white wine), water bottles, and other glassware. There is a small plate or dish of food between the two men.\r\nThe foreground is blurred by out-of-focus foliage or branches (possibly from a decorative indoor tree or large plant) with yellow and green leaves/decorations, creating a sense of depth and framing the central subjects.\r\nThe lighting is bright and warm, likely coming from a nearby window (visible on the far left) and indoor fixtures, giving the scene a cozy, lively feel.\r\nThe overall impression is one of a relaxed, friendly, and convivial social occasion.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Candid Moment Between Friends at a Restaurant",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1989721233513197584"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 152,
+      "title": "Ultra-Realistic Portrait with Jack Daniel’s Bottle",
+      "author": "Nano Banana Labs",
+      "author_link": "https://x.com/NanoBanana_labs",
+      "source_links": [
+        {
+          "url": "https://x.com/NanoBanana_labs/status/1989468669995360271"
+        }
+      ],
+      "image": "318.output.1.JPG",
+      "alt_text": "A person in a black suit and white shirt stands indoors beside a giant Jack Daniel’s Tennessee Whiskey bottle prop, holding a glass of whiskey. The background features a premium wooden bar with liquor bottles and warm ambient lighting. The scene is photorealistic with attention to detail in textures and lighting.",
+      "reference_images": [],
+      "prompt": "Create an ultra-realistic portrait of the uploaded person standing indoors beside a giant Jack Daniel’s Tennessee Whiskey bottle prop. The person should keep their exact face, hairstyle, skin tone, and body shape from the uploaded photo. They wear a black suit, white shirt, no tie, and black shoes. They hold a glass of whiskey in one hand while resting the other arm on the oversized whiskey bottle.\r\n\r\nShow a premium wooden bar interior in the background, with dark brown shelves filled with neatly arranged liquor bottles of different shapes, colors, and labels. Add warm ambient lighting from small ceiling spotlights that create soft highlights on the bottle shelves. Use a clean marble countertop edge behind them.\r\n\r\nThe giant Jack Daniel’s bottle must look highly realistic: transparent glass with warm amber whiskey inside, clear reflections, crisp highlights, and accurate bottle contours. The front label should follow the Jack Daniel’s style (white text on black background), but avoid exact real-world text; use stylized placeholder lettering similar in style. Make the bottle much taller than the person’s waist and almost reach shoulder height.\r\n\r\nUse a clean full-body framing, straight-on camera angle at eye level, with natural depth of field so the person and bottle are in sharp focus while the background has slight soft blur. Maintain even, warm-toned lighting with gentle shadows under the person’s shoes and subtle reflections on the polished floor. The mood should feel classy, calm, and premium, like a professional event photo.\r\n\r\nKeep the final output photorealistic with clear skin texture, crisp suit fabric details, realistic glass reflections, and accurate color balance.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C2",
+      "capability_type": "Cinematic Photo",
+      "attribution": {
+        "title": "Ultra-Realistic Portrait with Jack Daniel’s Bottle",
+        "prompt_author": "Nano Banana Labs",
+        "prompt_author_link": "https://x.com/NanoBanana_labs",
+        "image_author": "Nano Banana Labs",
+        "image_author_link": "https://x.com/NanoBanana_labs",
+        "source_links": [
+          {
+            "url": "https://x.com/NanoBanana_labs/status/1989468669995360271"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 153,
+      "title": "Chibi Funko Pop Figure Render",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "319.output.1.WEBP",
+      "alt_text": "A detailed 3D render of a chibi Funko Pop figure, showcasing accurate features, hairstyle, and attire based on a reference photo, with high detail and photorealistic texture against a pure white background.",
+      "reference_images": [
+        "319.input.1.WEBP"
+      ],
+      "prompt": "Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the provided reference photo. The figure should accurately reflect the person's appearance, hairstyle, attire, and characteristic style from the photo. High detail, studio lighting, photorealistic texture, pure white background.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C5",
+      "capability_type": "Stylized Characters",
+      "attribution": {
+        "title": "Chibi Funko Pop Figure Render",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 154,
+      "title": "Seamless Image Integration",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "320.output.1.WEBP",
+      "alt_text": "A photorealistic composite image combining multiple subjects while maintaining their proportions and details, with consistent lighting and shadows.",
+      "reference_images": [
+        "320.input.1.WEBP"
+      ],
+      "prompt": "Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesive image. Keep all key subjects recognizable and maintain their proportions and details. Blend the images naturally with consistent lighting, shadows, perspective, and style. Photorealistic, high-resolution, seamless integration.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": "Image Editing",
+      "attribution": {
+        "title": "Seamless Image Integration",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 155,
+      "title": "Two Men in Photorealistic Poses",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
+        }
+      ],
+      "image": "321.output.1.WEBP",
+      "alt_text": "A photorealistic image of two men positioned as one man carries another in a natural and realistic pose, maintaining their identities and clothing details, with consistent lighting and perspective.",
+      "reference_images": [
+        "321.input.1.WEBP"
+      ],
+      "prompt": "Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result.",
+      "submitter": "",
+      "submitter_link": "",
+      "capability_code": "C4",
+      "capability_type": "Multi Character",
+      "attribution": {
+        "title": "Two Men in Photorealistic Poses",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/"
           }
         ],
         "license": "CC-BY-4.0",

@@ -168,6 +168,45 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 *   [No. 116: 斗地主游戏UI界面 (by AIGC 创意猎人)](#cases-116)
 *   [No. 117: Gemini 3 Pro 主要功能亮点介绍 (by AIGC 创意猎人)](#cases-117)
 *   [No. 118: Nano Banana 2的优势与Bento Grid视觉风格 (by AIGC 创意猎人)](#cases-118)
+*   [No. 119: Hand-Crocheted Yarn Doll Cradled in Gentle Hands (by Marvin)](#cases-119)
+*   [No. 120: 大师级排版海报设计：荒原与落日 (by 沃垠AI)](#cases-120)
+*   [No. 121: 四时更替海报设计 (by 沃垠AI)](#cases-121)
+*   [No. 122: 重庆旅游指南手账 (by 沃垠AI)](#cases-122)
+*   [No. 123: 耄耋的词语解释 (by 沃垠AI)](#cases-123)
+*   [No. 124: 古诗《黄鹤楼》课文页 (by 沃垠AI)](#cases-124)
+*   [No. 125: Windows XP Desktop Screenshot (by 沃垠AI)](#cases-125)
+*   [No. 126: 橙色风格的用户界面设计 (by 沃垠AI)](#cases-126)
+*   [No. 127: 詹姆斯与库里的总决赛对决 (by 沃垠AI)](#cases-127)
+*   [No. 128: 激战中的天命人和二郎神 (by 沃垠AI)](#cases-128)
+*   [No. 129: 成都建设路漫步地图推荐 (by 沃垠AI)](#cases-129)
+*   [No. 130: 手账风格咖啡制作过程 (by 沃垠AI)](#cases-130)
+*   [No. 131: 李白的《蜀道难》石碑刻字 (by 沃垠AI)](#cases-131)
+*   [No. 132: 传呼机屏幕上的警告信息 (by 沃垠AI)](#cases-132)
+*   [No. 133: Transformer架构图 (by 沃垠AI)](#cases-133)
+*   [No. 134: High-Contrast Black-and-White Side-Profile Portrait (by Nano Banana Labs)](#cases-134)
+*   [No. 135: Chibi Character with Playful Expressions (by Marvin)](#cases-135)
+*   [No. 136: Vibrant Rhythm Dance Game Screenshot (by Marvin)](#cases-136)
+*   [No. 137: Gashapon Capsule Diorama of [NAME] in [ICONIC POSE / STYLE] (by Marvin)](#cases-137)
+*   [No. 138: Detailed Whiteboard Photo of The Llama 3 Herd of Models (by Pietro Schirano)](#cases-138)
+*   [No. 139: Detailed Whiteboard Photo of Gemini 3 Pro Announcement (by Pietro Schirano)](#cases-139)
+*   [No. 140: Fingerprint Map of a Finger (by Higgsfield AI)](#cases-140)
+*   [No. 141: Ingredients for the Dish (by Higgsfield AI)](#cases-141)
+*   [No. 142: Lifecycle of a Handsome Man Celebrating Holidays (by Nano Banana Labs
+)](#cases-142)
+*   [No. 143: GTA: Vice City Inspired Character in Miami (by Nano Banana Labs)](#cases-143)
+*   [No. 144: Drone Shot of a Man on a Cliff with Bulldog (by Nano Banana Labs)](#cases-144)
+*   [No. 145: Anime Girl Joins the Conversation (by ニケちゃん（@tegnike）)](#cases-145)
+*   [No. 146: Sesame Street Character Poster (by 
+Firat Bilal)](#cases-146)
+*   [No. 147: Glossy Magazine Article with Beautiful Typography Design (by fofr)](#cases-147)
+*   [No. 148: Cinematic Portrait in a Desert Landscape (by Nano Banana Labs)](#cases-148)
+*   [No. 149: Bold Abstract Portrait of a Confident Man (by Nano Banana Labs)](#cases-149)
+*   [No. 150: Timeless Contemplation in Black and White (by Nano Banana Labs)](#cases-150)
+*   [No. 151: Candid Moment Between Friends at a Restaurant (by Nano Banana Labs)](#cases-151)
+*   [No. 152: Ultra-Realistic Portrait with Jack Daniel’s Bottle (by Nano Banana Labs)](#cases-152)
+*   [No. 153: Chibi Funko Pop Figure Render (by Marvin)](#cases-153)
+*   [No. 154: Seamless Image Integration (by Marvin)](#cases-154)
+*   [No. 155: Two Men in Photorealistic Poses (by Marvin)](#cases-155)
 
 ---
 
@@ -3258,6 +3297,990 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 
 ```
 生成一页PPT，详细解释Nano Banana 2的优势，Bento Grid的视觉风格，深色，中文
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-119"></a>
+### No. 119: Hand-Crocheted Yarn Doll Cradled in Gentle Hands
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/119/201.output.1.webp" width="300" alt="A close-up photograph of a hand-crocheted yarn doll shaped like a cute chibi character, held gently by two hands. The background is softly blurred, featuring a warm wooden tabletop and natural light, enhancing the intimate and cozy atmosphere."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/119/201.input.1.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-120"></a>
+### No. 120: 大师级排版海报设计：荒原与落日
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/120/202.output.1.png" width="300" alt="一幅展示广阔荒原的排版海报，公路延伸向远方，巨大的橙黄色落日映照天空与土地，营造出希望的氛围。画面中有一辆吉普车行驶，底部是潇洒手写风格的中文文字“即刻启程 奔赴山海”，以及英文装饰“begin”。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+大师级排版海报设计，画面展现一片广阔的荒原，一条笔直的公路延伸向远方，尽头是一轮巨大的橙黄色落日，天空和荒原被落日染成暖橙与金黄的色调，整体氛围辽阔且充满希望，对称构图，一辆吉普车穿行在公路上，宏大场景。画面底部有白色潇洒灵动手写风格的文字“即刻启程 奔赴山海”，部分笔画连笔，粗细变化丰富，字迹错落分布。画面中还有黄色小字英文装饰“begin”，3:4比例。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-121"></a>
+### No. 121: 四时更替海报设计
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/121/203.output.1.png" width="300" alt="四张海报分别代表春分、夏至、秋分和冬至，背景为白色，每张海报使用相应季节的色彩，风格和排版一致。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+创作4张分别是春分、夏至、秋分、冬至的“四时更替”海报，白色背景，每张对应相应的季节色彩，整体风格保持一致，画面效果和排版方式一致。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-122"></a>
+### No. 122: 重庆旅游指南手账
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
+
+<img src="cases/122/204.output.1.png" width="300" alt="一本手账形式的重庆旅游指南，内容为纯中文，展示重庆的旅游景点和文化信息。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+生成重庆的旅游指南，手账形式，纯中文。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-123"></a>
+### No. 123: 耄耋的词语解释
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/123/205.output.1.png" width="300" alt="对“耄耋”一词的详细解释和定义"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+参照词典，生成“耄耋”的词语解释。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-124"></a>
+### No. 124: 古诗《黄鹤楼》课文页
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/124/206.output.1.png" width="300" alt="一页包含古诗《黄鹤楼》的课文，包含诗句、拼音和注释，适合中国语文学习使用。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+参考中国语文课本，为古诗《黄鹤楼》生成一页课文，诗、拼音、注释一应俱全。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-125"></a>
+### No. 125: Windows XP Desktop Screenshot
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/125/207.output.1.png" width="300" alt="A screenshot of a Windows XP desktop featuring the classic green meadow background, the 'Start' button in the bottom left corner, and an open 'My Computer' window displaying a file list in the traditional Windows XP style."><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+生成一张Windows XP的桌面截图。要求包含：经典草原背景、左下角“开始”按钮、一个打开着“我的电脑”窗口，窗口内文件列表的字体和图标必须还原Windows XP风格。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-126"></a>
+### No. 126: 橙色风格的用户界面设计
+
+<p>
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
+
+<img src="cases/126/208.output.1.png" width="300" alt="一张以橙色为主色调的用户界面设计，风格与参考图相似"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+**Reference Images:**
+
+<img src="cases/126/208.input.1.png" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+参考这张图，生成一张类似风格的UI，主色调改为橙色。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-127"></a>
+### No. 127: 詹姆斯与库里的总决赛对决
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
+<img src="cases/127/209.output.1.png" width="300" alt="一幅描绘詹姆斯和库里在NBA总决赛中喷垃圾话的漫画风格分镜，包含中文对白、拟声词和动态镜头效果。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+生成像《灌篮高手》那种专业分镜结构、漫画叙事节奏、对白气泡、拟声词、画格布局、视角变化、动态镜头，但主角换成 詹姆斯 和 库里 在NBA总决赛喷垃圾话的故事，中文对白。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-128"></a>
+### No. 128: 激战中的天命人和二郎神
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
+<img src="cases/128/210.output.1.png" width="300" alt="天命人身着全套大圣套装与二郎神在激战，背景为《黑神话：悟空》的游戏界面"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+生成一个《黑神话：悟空》的游戏界面，天命人身着全套大圣套装，正在与二郎神激战。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-129"></a>
+### No. 129: 成都建设路漫步地图推荐
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
+
+<img src="cases/129/211.output.1.png" width="300" alt="一张关于成都建设路的Citywalk路线推荐封面，展示咖啡店、书店和小众美术馆的元素，适合拍摄氛围感照片"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+生成周末Citywalk路线推荐主题的小红书笔记封面，尺寸3:4，内容：“成都建设路漫步地图🍃咖啡+书店+小众美术馆，一天拍出99张氛围感照片！”
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-130"></a>
+### No. 130: 手账风格咖啡制作过程
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
+
+<img src="cases/130/212.output..png" width="300" alt="手账风格的插图，展示了咖啡制作的步骤，包含中文讲解，比例为4:3。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+手账风格，中文讲解咖啡的制作过程，4:3尺寸。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-131"></a>
+### No. 131: 李白的《蜀道难》石碑刻字
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/131/213.output.1.png" width="300" alt="一块石碑上刻着李白的《蜀道难》，使用繁体字和行书风格"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+平平无奇的手机拍摄，在一个石碑上刻着李白的《蜀道难》，繁体，行书。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-132"></a>
+### No. 132: 传呼机屏幕上的警告信息
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
+
+<img src="cases/132/214.output.1.png" width="300" alt="一个传呼机屏幕显示着：不好，香蕉来了。"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+写实风格，一个传呼机屏幕写着：不好，香蕉来了。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-133"></a>
+### No. 133: Transformer架构图
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
+
+<img src="cases/133/215.output.1.png" width="300" alt="一幅展示Transformer模型架构的图示，包含输入层、编码器、解码器及输出层的结构"><br>
+<sub>Image © 2025 <a href="">沃垠AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">沃垠AI</a> • [Source](https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ)</sub>
+
+
+**Prompt**
+
+```
+画一个Transformer的架构图。
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-134"></a>
+### No. 134: High-Contrast Black-and-White Side-Profile Portrait
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/134/216.output.1.jpg" width="300" alt="A powerful side-profile portrait of a person in black-and-white, emerging from darkness with a strong, contemplative expression. The subject is illuminated by a narrow rim light that highlights the contours of their face, neck, and shoulder against an absolute black background, creating a minimalist and introspective mood."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1989802091682926775)</sub>
+
+
+**Prompt**
+
+```
+A powerful, high-contrast black-and-white side-profile portrait of a person (use reference photo,  Keep face of person 100% accurate from the reference image), with distinctly human yet timeless features emerging from complete darkness.
+
+The composition is minimalist and sculptural, where form, light, and shadow define the subject rather than color or texture.
+
+(Subject is the person in the attached reference image)
+
+The subject’s profile is clean and strong, contemplative expression  as if caught between thought and transcendence. They wear a dark, form-fitting turtleneck sweater that merges seamlessly into the black void, erasing all detail except the glowing edge of their silhouette.
+
+A single, narrow rim light  bright, sharp, and directional  carves out the shape of the head, neck, and shoulder, tracing the contours with precision. The light originates from directly behind and slightly above the subject, creating a thin, luminous halo along the jawline and curve of the skull, while the rest dissolves into pure black.
+
+The background is absolute darkness, a void without texture or depth, emphasizing the luminous boundary between shadow and light.
+
+There are no midtones, only the purest black and deliberate contrast with the brightest whites  heightening drama and abstraction.
+
+Mood & Aesthetic: Minimalist, conceptual, and deeply introspective. Evokes solitude, contemplation, and timeless elegance. Feels cinematic yet intimate  an exploration of identity through light.
+
+Technical details:
+
+Shot with a telephoto lens for compressed perspective
+
+Aperture: wide open (f/1.8–2.8) to achieve glowing contour and shallow depth of field
+
+Lighting: front face with good highlight balance
+
+Rendering: ultra-realistic 8K cinematic quality, true lens physics, depth of field, subtle film grain
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-135"></a>
+### No. 135: Chibi Character with Playful Expressions
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/135/217.output.1.webp" width="300" alt="A cute chibi character making a peace sign with both hands and winking, displaying tearful eyes and trembling lips. They are lying on their side asleep with a tiny pillow, a warm smile on their face. The character is pointing confidently, surrounded by shining visual effects. Heart symbols float around as they blow a kiss. The background is vibrant red with colorful confetti elements, and there is clean white space around the character."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/135/217.input.1.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Making a playful peace sign with both hands and winking. Tearful eyes and slightly trembling lips, showing a cute crying expression. Arms wide open in a warm, enthusiastic hug pose. Lying on their side asleep, resting on a tiny pillow with a sweet smile. Pointing forward with confidence, surrounded by shining visual effects. Blowing a kiss, with heart symbols floating around. Maintain the chibi aesthetic. Exaggerated, expressive big eyes. Soft facial lines. Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker. Aspect ratio: 9:16
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-136"></a>
+### No. 136: Vibrant Rhythm Dance Game Screenshot
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/136/218.output.1.webp" width="300" alt="A dynamic 3D animated character in a confident dance pose on a glossy reflective dance floor, illuminated by neon pink and purple lights. The screenshot features an immersive rhythm game interface with a score meter, colorful music waveform animations, stage timer countdown, and floating combo numbers, all set in a highly detailed arcade atmosphere."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/136/218.input.1.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+A vibrant rhythm dance game screenshot featuring the 3D animated character from the reference photo, keeping its unique style, hat, outfit, and confident dance pose. Immersive cinematic lighting with neon pink and purple glow, glossy reflective dance floor shining under spotlights, and dynamic 3D cartoon style. Rhythm game interface with immersive UI: score meter at the top, colorful music waveform animations synced to the beat, stage timer countdown, and floating combo numbers. Highly detailed, game-like atmosphere with energy bars, neon particle effects, and immersive arcade rhythm game HUD elements. Ultra-detailed, cinematic, immersive, 3D animation.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-137"></a>
+### No. 137: Gashapon Capsule Diorama of [NAME] in [ICONIC POSE / STYLE]
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/137/301.output.1.webp" width="300" alt="A transparent gashapon capsule diorama held between fingers, showcasing [NAME] in their [ICONIC POSE / STYLE]. The figure features [short description of figure’s look, clothing, and accessories], set against a dramatic background of [relevant setting]. The capsule has a transparent top and a [fitting color] base, adorned with [motifs related to the person], and labeled with [NAME or NICKNAME] in a matching font style. The composition is photorealistic with soft bokeh effects."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/137/301.input.1.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+A detailed transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme. The capsule has a transparent top and a colored base [choose fitting color: e.g., royal blue, gold, black, red], decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail, soft bokeh, and a square 1080x1080 composition.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-138"></a>
+### No. 138: Detailed Whiteboard Photo of The Llama 3 Herd of Models
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/138/304.output.1.JPG" width="300" alt="A detailed whiteboard illustration depicting the models from 'The Llama 3 Herd of Models', showcasing various features and characteristics."><br>
+<sub>Image © 2025 <a href="https://x.com/skirano">Pietro Schirano</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/skirano">Pietro Schirano</a> • [Source](https://x.com/skirano/status/1991527921316773931?s=46)</sub>
+
+
+**Prompt**
+
+```
+turn the pdf "The Llama 3 Herd of Models” into a detailed whiteboard photo.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-139"></a>
+### No. 139: Detailed Whiteboard Photo of Gemini 3 Pro Announcement
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/139/305.output.1.JPG" width="300" alt="A whiteboard illustration depicting the key features and announcements of the Gemini 3 Pro."><br>
+<sub>Image © 2025 <a href="https://x.com/skirano">Pietro Schirano</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/skirano">Pietro Schirano</a> • [Source](https://x.com/skirano/status/1991527921316773931?s=46)</sub>
+
+
+**Prompt**
+
+```
+Turn the pdf "The Gemini 3 Pro announcement" into a detailed whiteboard photo.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-140"></a>
+### No. 140: Fingerprint Map of a Finger
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
+
+<img src="cases/140/306.output.1.JPG" width="300" alt="A detailed fingerprint map showcasing the unique patterns and ridges of a finger."><br>
+<sub>Image © 2025 <a href="https://x.com/higgsfield_ai">Higgsfield AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/higgsfield_ai">Higgsfield AI</a> • [Source](https://x.com/higgsfield_ai/status/1991532530881950031)</sub>
+
+**Reference Images:**
+
+<img src="cases/140/306.input.1.jpg" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Create a fingerprint map of this finger
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-141"></a>
+### No. 141: Ingredients for the Dish
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/141/307.output.1.JPG" width="300" alt="A photo displaying all the ingredients for a dish, each labeled with its name and quantity."><br>
+<sub>Image © 2025 <a href="https://x.com/higgsfield_ai">Higgsfield AI</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/higgsfield_ai">Higgsfield AI</a> • [Source](https://x.com/higgsfield_ai/status/1991600367138926697)</sub>
+
+**Reference Images:**
+
+<img src="cases/141/307.input.1.JPG" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Show me a photo of all the ingredients for this dish, labeled with names and quantities.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-142"></a>
+### No. 142: Lifecycle of a Handsome Man Celebrating Holidays
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/142/308.output.1.JPG" width="300" alt="A photorealistic 3x3 grid collage depicting the lifecycle of a handsome man with dark wavy hair and warm eyes, celebrating various holidays from age 5 to 85. Each panel showcases different ages and festive moments, with labels at the bottom indicating the age."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs
+</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs
+</a> • [Source](https://x.com/NanoBanana_labs/status/1991765684297035867)</sub>
+
+
+**Prompt**
+
+```
+A photorealistic 3x3 grid collage showing the lifecycle of a handsome man with dark wavy hair and warm eyes, celebrating various holidays throughout his life.
+Top Left (Age 5): A cute young boy in a knitted Christmas sweater holding a toy truck in front of a decorated tree.
+Top Middle (Age 15): A teenage boy with longer hair sitting at a festive dinner table, smiling.
+Top Right (Age 25): A young adult male in a suit wearing a Santa hat, holding a drink at a holiday party.
+Middle Left (Age 35): A stylish portrait of the man with a beard, wearing a burgundy velvet shirt, looking confident.
+Middle Center (Age 45): The man carving a turkey at a family Thanksgiving dinner.
+Middle Right (Age 55): The man with greying hair lighting a Menorah, looking dignified.
+Bottom Left (Age 65): The man with silver hair holding a grandchild in front of a Christmas tree.
+Bottom Center (Age 75): The elderly man outdoors in a spring setting, perhaps looking for Easter eggs, wearing a beige sweater.
+Bottom Right (Age 85): The very old man sitting in an armchair by a fireplace, holding a wrapped gift, looking happy.
+Style: Cinematic lighting, high resolution, 8k, highly detailed, ensuring the facial features remain recognizable as the same person aging naturally across all panels. Label each panel with white text at the bottom: 'Age 5', 'Age 15', etc
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-143"></a>
+### No. 143: GTA: Vice City Inspired Character in Miami
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/143/309.output.1.JPG" width="300" alt="A man with a face identical to the uploaded selfie, dressed like the main character from GTA: Vice City, leans against a retro 1980s sports car on Ocean Drive. The background features art-deco buildings, palm trees, neon signs, and a pink-purple sunset reflecting on wet asphalt. The scene has a neon glow and a soft blur of nightlife, captured in a low-angle cinematic shot with dramatic shadows."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1991225716952743945)</sub>
+
+
+**Prompt**
+
+```
+The man attached in the uploaded reference image with the exact face from the uploaded selfie — same features, same proportions, same expression, no changes. Dressed like the GTA: Vice City main character, leaning against a retro 1980s sports car  Ocean Drive. Background: art-deco buildings, palm trees, neon signs, and a pink-purple Miami sunset reflecting on wet asphalt. Neon glow on the car and pavement, soft blur of nightlife in motion. Low-angle cinematic shot, dramatic shadows, ultra-realistic look, strong 1980s Vice City vibe.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-144"></a>
+### No. 144: Drone Shot of a Man on a Cliff with Bulldog
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/144/310.output.1.JPG" width="300" alt="A hyper-realistic landscape image of a man sitting on a ledge off a cliff, wearing a black t-shirt with 'NANO BANANA', distressed blue jeans, and Oakley sunglasses. He holds a drone remote control, with his English bulldog beside him. The breathtaking view shows two mountainous gorges, a clear blue river, patches of autumn colors, and a sunny sky with scattered clouds. The scene is captured in 8K resolution, emphasizing natural lighting and realism."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1990536869218546082)</sub>
+
+
+**Prompt**
+
+```
+Generate a hyper-realistic landscape image of a drone shot of a man (attached photo as reference,  Keep the face of the person 100% accurate from the reference image , full body shot, the drone shot was ten feet away from the woman) sitting on a ledge off a cliff. He is wearing a black t-shirt with a printed "NANO BANANA" on it, a fitted distressed blue jeans and Oakley with orange lens. His two legs dangling from the ledge while his expression is calm and looking directly at the drone while he is holding the remote control of the drone. Beside him sits his English bulldog. The drone cam also captures the the stunning and breath-taking view of the surroundings. The view from the drone camera is nothing sort of ordinary since its overlooking the epic grandeur of the scenery below which is a like a detailed landscape of two mountainous gorge with a clear blue river or lake that passes between the two mountains. There are also a flock of white seagulls flying from the distance. The epic landscapes' are showing patches of different colors such as red, orange and yellow of autumn originating from the leaves of the trees that grew from it but the dominant color is still green. There are also patches of snow showing on the riverbank. The sky is sunny and clear blue with lots of scattered clouds that completes the epic scenery. Render this shot in 8K DSLR high resolution. Natural lightings, Create a realistic, lifelike image that captures the essence of the picture. Make sure the lighting, expressions, and details look as natural as possible, with a sense of realism. Ensure the background and foreground blend seamlessly for a cohesive and genuine look.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-145"></a>
+### No. 145: Anime Girl Joins the Conversation
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
+<img src="cases/145/311.output.1.JPG" width="300" alt="An anime girl replaces the second person from the right in a group conversation, maintaining the same pose as the original character."><br>
+<sub>Image © 2025 <a href="https://x.com/tegnike">ニケちゃん（@tegnike）</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/tegnike">ニケちゃん（@tegnike）</a> • [Source](https://x.com/tegnike/status/1991557599519728113)</sub>
+
+**Reference Images:**
+
+<img src="cases/145/311.input.1.JPG" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Please replace the second person from the right in the conversation with the attached anime girl, keeping the pose exactly the same
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-146"></a>
+### No. 146: Sesame Street Character Poster
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
+<img src="cases/146/312.output.1.JPG" width="300" alt="A colorful poster featuring all the beloved Sesame Street characters with the text 'Sesame Street' prominently displayed."><br>
+<sub>Image © 2025 <a href="https://x.com/firatbilal">
+Firat Bilal</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/firatbilal">
+Firat Bilal</a> • [Source](https://x.com/firatbilal/status/1991604414243872932)</sub>
+
+
+**Prompt**
+
+```
+Create an image featuring all the Sesame Street characters shown in the attachment and turn it into a poster that says "Sesame Street."
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-147"></a>
+### No. 147: Glossy Magazine Article with Beautiful Typography Design
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
+<img src="cases/147/313.output.1.JPG" width="300" alt="A photo of a glossy magazine article displayed on a desk, featuring beautifully designed typography, pull quotes, and images, showcasing the unformatted article text."><br>
+<sub>Image © 2025 <a href="https://x.com/fofrAI">fofr</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/fofrAI">fofr</a> • [Source](https://x.com/fofrai/status/1991530971800182929?s=46)</sub>
+
+
+**Prompt**
+
+```
+Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-148"></a>
+### No. 148: Cinematic Portrait in a Desert Landscape
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/148/314.output.1.JPG" width="300" alt="A hyper-realistic cinematic portrait of a kneeling person in a harsh desert environment, covered in dust and wearing tribal-style clothing. Two lions, an adult male and a cub, sit behind them, looking into the camera. A bleached animal skull is in the foreground, slightly out of focus, with sunlight creating highlights and shadows. The scene has a warm, earthy color tone under a clear blue sky."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1991736924285943839)</sub>
+
+
+**Prompt**
+
+```
+A hyper-realistic cinematic portrait of the person from the uploaded reference image (keep the face 100% accurate with the same expression, skin tone, and proportions). The person is kneeling in a harsh desert environment under a clear blue sky. Their body is covered in dry dust and sand, with worn tribal-style clothing made of torn fabric, rope, and rugged layers that look sun-beaten and weathered. Braided hair with loose strands falls around the face, and bold dark-blue war paint streaks run across the eyes and forehead.
+
+Two lions sit behind the person — one adult male with a thick golden mane and one young lion cub. Both lions look straight into the camera with calm but alert expressions. Their fur has warm sandy tones that match the desert light. Soft shadows form under their bodies on the dry cracked ground.
+
+A large bleached animal skull lies in the foreground, slightly out of focus, creating a strong depth-of-field effect. The skull has rough textures, cracks, and sand collected in the cavities. Sunlight creates crisp highlights on the edges and soft diffused shadows inside the hollow areas.
+
+Lighting is bright and natural, coming from the high midday sun, casting short shadows. The overall color tone is warm, earthy, and dusty. The camera angle is low, close to the skull, with the focus on the person and lions while the foreground remains blurred. Background is a simple clear sky with no clouds, giving a stark open-desert feeling.
+
+Image style: ultra-realistic, high detail, documentary style, sharp textures, natural shadows, cinematic depth, 8k quality."
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-149"></a>
+### No. 149: Bold Abstract Portrait of a Confident Man
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/149/315.output.2.JPG" width="300" alt="An abstract portrait of a confident man with accurate facial features from a reference image, wearing vibrant red rectangular sunglasses and an orange jacket. The background features a textured beige canvas with chaotic red and black linear patterns. The lighting is dramatic, emphasizing the subject's face with deep shadows, symbolizing strength and individuality. Includes a stylish signature 'POSTER CREATED BY NANOBANANA_LABS' in the bottom-left corner."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1989915848329339371)</sub>
+
+
+**Prompt**
+
+```
+A bold abstract portrait of a confident man attached in the uploaded reference image ( Keep face of person 100% accurate from the reference image. ) wearing vibrant red rectangular sunglasses and an orange jacket. The artwork combines sketch-like pencil lines with expressive paint strokes, blending realism and abstraction. The background is a textured beige canvas filled with chaotic red and black linear patterns, giving a sense of artistic energy and rebellion. The lighting is dramatic, highlighting the subject’s face with deep shadows and a strong upward perspective, symbolizing strength and individuality. Modern art style, mixed media illustration, grunge aesthetic, poster design, high detail, cinematic composition.
+Signature & Branding:
+Stylish painted signature “POSTER CREATED BY” in bold letters, and under that “NANOBANANA_LABS”, subtly integrated in the bottom-left corner, blending with the textures of the scene.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-150"></a>
+### No. 150: Timeless Contemplation in Black and White
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/150/316.output.1.JPG" width="300" alt="A high-contrast black-and-white side-profile portrait of a person, with a strong and clean profile against a dark background. The subject's face is illuminated by a narrow rim light, creating a luminous halo around the jawline while the rest of the image dissolves into darkness. The composition emphasizes the contours and silhouette, evoking a sense of solitude and introspection."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1989802091682926775)</sub>
+
+
+**Prompt**
+
+```
+A powerful, high-contrast black-and-white side-profile portrait of a person (use reference photo,  Keep face of person 100% accurate from the reference image), with distinctly human yet timeless features emerging from complete darkness.
+
+The composition is minimalist and sculptural, where form, light, and shadow define the subject rather than color or texture.
+
+(Subject is the person in the attached reference image)
+
+The subject’s profile is clean and strong, contemplative expression  as if caught between thought and transcendence. They wear a dark, form-fitting turtleneck sweater that merges seamlessly into the black void, erasing all detail except the glowing edge of their silhouette.
+
+A single, narrow rim light  bright, sharp, and directional  carves out the shape of the head, neck, and shoulder, tracing the contours with precision. The light originates from directly behind and slightly above the subject, creating a thin, luminous halo along the jawline and curve of the skull, while the rest dissolves into pure black.
+
+The background is absolute darkness, a void without texture or depth, emphasizing the luminous boundary between shadow and light.
+
+There are no midtones, only the purest black and deliberate contrast with the brightest whites  heightening drama and abstraction.
+
+Mood & Aesthetic: Minimalist, conceptual, and deeply introspective. Evokes solitude, contemplation, and timeless elegance. Feels cinematic yet intimate  an exploration of identity through light.
+
+Technical details:
+
+Shot with a telephoto lens for compressed perspective
+
+Aperture: wide open (f/1.8–2.8) to achieve glowing contour and shallow depth of field
+
+Lighting: front face with good highlight balance
+
+Rendering: ultra-realistic 8K cinematic quality, true lens physics, depth of field, subtle film grain
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-151"></a>
+### No. 151: Candid Moment Between Friends at a Restaurant
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/151/317.output.1.JPG" width="300" alt="Two men seated at a table in a warm, inviting restaurant setting. The man on the left, Dwayne 'The Rock' Johnson, is wearing a dark top and focused on his food. The man on the right, wearing a dark green shirt, is smiling and engaging in conversation. The table is adorned with glasses and a small dish of food, with a blurred background featuring a colorful mural and foliage."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1989721233513197584)</sub>
+
+
+**Prompt**
+
+```
+Create an indoor candid photo capturing a moment between two person enjoying a meal together at what appears to be a restaurant or a social gathering.
+People: In the center, two men are seated facing each other at a table.
+The person on the left is dwane the rock johnson and is wearing a dark top. He is focused on his food or drink, possibly taking a bite or sip with a thin utensil or straw.
+The person on the right me (uploaded photo for 100.999% facial reference, Keep face of person 100% accurate from the reference image.) and I'm wearing a dark green or olive button-up shirt.  I've a warm smile and is gesturing or talking, looking towards the man on the left. Both appear to be enjoying the conversation and the atmosphere.
+Setting & Atmosphere:
+The setting is warm and inviting. The background is slightly blurred but shows a brick wall with what looks like a colorful, perhaps geometric, pattern or mural on it, adding visual interest.
+The table is set with multiple wine glasses (some filled with a light, sparkling drink, possibly Champagne or white wine), water bottles, and other glassware. There is a small plate or dish of food between the two men.
+The foreground is blurred by out-of-focus foliage or branches (possibly from a decorative indoor tree or large plant) with yellow and green leaves/decorations, creating a sense of depth and framing the central subjects.
+The lighting is bright and warm, likely coming from a nearby window (visible on the far left) and indoor fixtures, giving the scene a cozy, lively feel.
+The overall impression is one of a relaxed, friendly, and convivial social occasion.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-152"></a>
+### No. 152: Ultra-Realistic Portrait with Jack Daniel’s Bottle
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
+<img src="cases/152/318.output.1.JPG" width="300" alt="A person in a black suit and white shirt stands indoors beside a giant Jack Daniel’s Tennessee Whiskey bottle prop, holding a glass of whiskey. The background features a premium wooden bar with liquor bottles and warm ambient lighting. The scene is photorealistic with attention to detail in textures and lighting."><br>
+<sub>Image © 2025 <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/NanoBanana_labs">Nano Banana Labs</a> • [Source](https://x.com/NanoBanana_labs/status/1989468669995360271)</sub>
+
+
+**Prompt**
+
+```
+Create an ultra-realistic portrait of the uploaded person standing indoors beside a giant Jack Daniel’s Tennessee Whiskey bottle prop. The person should keep their exact face, hairstyle, skin tone, and body shape from the uploaded photo. They wear a black suit, white shirt, no tie, and black shoes. They hold a glass of whiskey in one hand while resting the other arm on the oversized whiskey bottle.
+
+Show a premium wooden bar interior in the background, with dark brown shelves filled with neatly arranged liquor bottles of different shapes, colors, and labels. Add warm ambient lighting from small ceiling spotlights that create soft highlights on the bottle shelves. Use a clean marble countertop edge behind them.
+
+The giant Jack Daniel’s bottle must look highly realistic: transparent glass with warm amber whiskey inside, clear reflections, crisp highlights, and accurate bottle contours. The front label should follow the Jack Daniel’s style (white text on black background), but avoid exact real-world text; use stylized placeholder lettering similar in style. Make the bottle much taller than the person’s waist and almost reach shoulder height.
+
+Use a clean full-body framing, straight-on camera angle at eye level, with natural depth of field so the person and bottle are in sharp focus while the background has slight soft blur. Maintain even, warm-toned lighting with gentle shadows under the person’s shoes and subtle reflections on the polished floor. The mood should feel classy, calm, and premium, like a professional event photo.
+
+Keep the final output photorealistic with clear skin texture, crisp suit fabric details, realistic glass reflections, and accurate color balance.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-153"></a>
+### No. 153: Chibi Funko Pop Figure Render
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
+<img src="cases/153/319.output.1.WEBP" width="300" alt="A detailed 3D render of a chibi Funko Pop figure, showcasing accurate features, hairstyle, and attire based on a reference photo, with high detail and photorealistic texture against a pure white background."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/153/319.input.1.WEBP" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the provided reference photo. The figure should accurately reflect the person's appearance, hairstyle, attire, and characteristic style from the photo. High detail, studio lighting, photorealistic texture, pure white background.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-154"></a>
+### No. 154: Seamless Image Integration
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
+
+<img src="cases/154/320.output.1.WEBP" width="300" alt="A photorealistic composite image combining multiple subjects while maintaining their proportions and details, with consistent lighting and shadows."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/154/320.input.1.WEBP" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesive image. Keep all key subjects recognizable and maintain their proportions and details. Blend the images naturally with consistent lighting, shadows, perspective, and style. Photorealistic, high-resolution, seamless integration.
+```
+
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+---
+
+
+<a id="cases-155"></a>
+### No. 155: Two Men in Photorealistic Poses
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
+<img src="cases/155/321.output.1.WEBP" width="300" alt="A photorealistic image of two men positioned as one man carries another in a natural and realistic pose, maintaining their identities and clothing details, with consistent lighting and perspective."><br>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/)</sub>
+
+**Reference Images:**
+
+<img src="cases/155/321.input.1.WEBP" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result.
 ```
 
 
