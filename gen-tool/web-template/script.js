@@ -15,6 +15,50 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
+            // Generate Filters
+            const types = new Set();
+            data.cases.forEach(c => {
+                if (c.capability_type) {
+                    types.add(c.capability_type);
+                }
+            });
+
+            const filtersContainer = document.getElementById('filters');
+            Array.from(types).sort().forEach(type => {
+                const btn = document.createElement('button');
+                btn.className = 'filter-btn';
+                btn.dataset.filter = type;
+                btn.textContent = type;
+                filtersContainer.appendChild(btn);
+            });
+
+            // Filter Logic
+            const filterBtns = document.querySelectorAll('.filter-btn');
+            filterBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    // Remove active class from all
+                    filterBtns.forEach(b => b.classList.remove('active'));
+                    // Add active to clicked
+                    btn.classList.add('active');
+
+                    const filterValue = btn.dataset.filter;
+                    const cards = document.querySelectorAll('.case-card');
+
+                    cards.forEach(card => {
+                        if (filterValue === 'all') {
+                            card.style.display = 'grid';
+                        } else {
+                            const cardType = card.dataset.type;
+                            if (cardType === filterValue) {
+                                card.style.display = 'grid';
+                            } else {
+                                card.style.display = 'none';
+                            }
+                        }
+                    });
+                });
+            });
+
             data.cases.forEach(item => {
                 const card = createCaseCard(item);
                 gallery.appendChild(card);
@@ -63,15 +107,37 @@ function createCaseCard(c) {
     const card = document.createElement('article');
     card.className = 'case-card';
     card.id = `case-${c.case_no}`;
+    if (c.capability_type) {
+        card.dataset.type = c.capability_type;
+    }
 
     // 1. Info Column (Prompt & Meta)
     const infoCol = document.createElement('div');
     infoCol.className = 'case-info';
 
+    let typeBadgeHTML = '';
+    if (c.capability_type) {
+        // Map types to CSS classes
+        const typeMap = {
+            'Physics': 'type-physics',
+            'Cinematic Photo': 'type-cinematic',
+            'Typography': 'type-typography',
+            'Multi Character': 'type-multi',
+            'Stylized Characters': 'type-stylized',
+            'Surreal Concepts': 'type-surreal',
+            'Maps Layout': 'type-maps',
+            'Pattern Design': 'type-pattern',
+            'Image Editing': 'type-editing'
+        };
+        const badgeClass = typeMap[c.capability_type] || 'type-editing';
+        typeBadgeHTML = `<span class="type-badge ${badgeClass}">${c.capability_type}</span>`;
+    }
+
     const headerHTML = `
         <div class="case-header">
             <span class="case-id">#${c.case_no}</span>
             <h2 class="case-title">${c.title}</h2>
+            ${typeBadgeHTML}
         </div>
     `;
 
