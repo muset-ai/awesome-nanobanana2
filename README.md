@@ -25,8 +25,6 @@ Most examples come from Twitter/X 🐦 and Nano-Banana Studio 🎬. May they spa
 
 - [🎨 What is Nano‑Banana-Pro](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
-- [🛠️ Tools Introduction](#tools-intro)
-- [💡 Prompting Tips](#prompting-tips)
 - [🤝 How to Contribute](#how-to-contribute)
 - [🙏 Acknowledgements](#acknowledgements)
 - [🌟 Star History](#star-history)
@@ -150,14 +148,6 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 
 <p>
 <img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
-
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/1/case.jpg" width="300" alt="A cozy dining table, wall clock showing exactly 11:15, and a crystal wine glass filled to the rim."><br>
@@ -180,15 +170,7 @@ A cozy dining table scene. On the wall, a clock showing exactly 11:15 with corre
 ### No. 2: Math/Formula Boards & Logical Layouts
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/2/case.jpeg" width="300" alt="Professor in a classroom with a blackboard full of multi-line mathematical derivations."><br>
@@ -211,15 +193,7 @@ A professor teaching in a classroom. Large blackboard behind them filled with a 
 ### No. 3: CCTV Footage
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/3/case.webp" width="300" alt="Security camera style frame with scanlines, timestamp, and documentary feel."><br>
@@ -242,15 +216,7 @@ cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talki
 ### No. 4: CNN Election Results TV Broadcast
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/4/case.webp" width="300" alt="CNN television screen displaying U.S. election results with two candidates and a news anchor."><br>
@@ -273,15 +239,7 @@ A realistic close-up of a television screen displaying CNN U.S. election results
 ### No. 5: Five Adventurers in a Luminous Cave
 
 <p>
-
-
-
 <img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
-
-
-
-
-
 </p>
 
 <img src="cases/5/case.png" width="300" alt="Animated fantasy party of five adventurers exploring a glowing cave corridor."><br>
@@ -304,15 +262,7 @@ an animated illustration of a party of five adventurers navigating a cave system
 ### No. 6: A Motorbike Made of Sharks
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/6/case.png" width="300" alt="A motorbike made of sharks"><br>
@@ -336,14 +286,6 @@ A motorbike made of sharks
 
 <p>
 <img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
-
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/7/case.png" width="300" alt="Biden’s pet dog stands on a skateboard holding a newspaper with an October 1, 2018 headline."><br>
@@ -366,15 +308,7 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ### No. 8: Elderly Couple Watching a B-2 Bomber
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/8/case.png" width="300" alt="Grainy film photo of an elderly couple on a vast tarmac facing a distant B-2 stealth bomber."><br>
@@ -397,15 +331,7 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ### No. 9: Stylized 3D Zombie Character
 
 <p>
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
-
-
-
-
 </p>
 
 <img src="cases/9/case.png" width="300" alt="Graphic 3D zombie with decaying flesh and bold, saturated colors."><br>
@@ -428,15 +354,7 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ### No. 10: Man Drinking Sushi Water Under Surreal Skies
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/10/case.png" width="300" alt="Smirking man drinks a bottle of sushi water while gazing at strangely shaped skies."><br>
@@ -459,15 +377,7 @@ A man drinking bottle of sushi water and looking at beautiful-shaped skies, smir
 ### No. 11: Grizzly Bear Showing a Meme to a Hiker
 
 <p>
-
-
-
 <img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
-
-
-
-
-
 </p>
 
 <img src="cases/11/case.png" width="300" alt="A grizzly bear holds a meme photo of another bear in front of a real hiker in the forest."><br>
@@ -490,15 +400,7 @@ A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in
 ### No. 12: Floral Calculus Blackboard
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/12/case.png" width="300" alt="Blackboard with a solved calculus integral whose colorful chalk lines form a flower-like artwork."><br>
@@ -521,15 +423,7 @@ A hard calculus integration problem written and solved on a blackboard, but the 
 ### No. 13: Lightning Radar Browser UI
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/13/case.png" width="300" alt="Weather-style radar interface in a browser visualizing lightning strikes on a map."><br>
@@ -552,15 +446,7 @@ Lightning Radar: A copy of the browser version of Lightning Radar.
 ### No. 14: Duck, Chicken and Parrot Riding a Scooter
 
 <p>
-
-
-
 <img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
-
-
-
-
-
 </p>
 
 <img src="cases/14/case.png" width="300" alt="A parrot drives an electric scooter while a chicken rides on its shoulders and a duck rides on the chicken through a theme park."><br>
@@ -583,15 +469,7 @@ A duck riding a chicken that sits in the shoulders of a parrot that drives and e
 ### No. 15: One-Eyed Whippet on a Moped
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/15/case.png" width="300" alt="A whippet wearing an eye patch rides a moped down a UK street lined with boarded-up shops."><br>
@@ -614,15 +492,7 @@ A whippet with an eye patch riding a moped through a UK street filled with shops
 ### No. 16: Gemini Solves Cancer and World Peace
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/16/case.png" width="300" alt="Futuristic AI Gemini is depicted discovering a cure for cancer and ushering in world peace."><br>
@@ -645,15 +515,7 @@ Gemini finding cure to cancer and establishing world peace
 ### No. 17: Big-Headed Superhero Sprite Sheet
 
 <p>
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
-
-
-
-
 </p>
 
 <img src="cases/17/case.png" width="300" alt="2D sprite sheet of a big-headed blue-and-red superhero in multiple animation poses."><br>
@@ -676,15 +538,7 @@ a sprite sheet for various animation for a single character for a 2d game. The h
 ### No. 18: Sun Exploding into Pigeons
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/18/case.png" width="300" alt="Photorealistic doomsday scene where the Sun erupts into flocks of pigeons as an old lady exclaims 'oh, crikey!'."><br>
@@ -707,15 +561,7 @@ A very photorealistic image of the Sun vigorously exploding into a bunch of pige
 ### No. 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty
 
 <p>
-
-
-
 <img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
-
-
-
-
-
 </p>
 
 <img src="cases/19/case.png" width="300" alt="Cartoony scene of an old lady atop the Statue of Liberty balancing three stacked sumo wrestlers on her pinky."><br>
@@ -738,15 +584,7 @@ An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler b
 ### No. 20: Soviet Manual on Human-Wolf Hybrids
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/20/case.png" width="300" alt="Retro Technicolor-style frame of a werewolf reading a Soviet biology textbook about human-wolf hybrids with a sparkly vampire in a glass cage behind."><br>
@@ -769,15 +607,7 @@ A soviet biology textbook open to the page describing how to hybridize a human a
 ### No. 21: Business Conversation Film Still
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/21/case.png" width="300" alt="Movie-style shot of a red-haired woman in a black blazer talking with a man in a blue suit indoors."><br>
@@ -800,15 +630,7 @@ A redhead woman in a black blazer talks with a man in a blue business suit. Indo
 ### No. 22: Orchestra Playing 'Baby Got Back' in Vienna
 
 <p>
-
-
-
 <img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
-
-
-
-
-
 </p>
 
 <img src="cases/22/case.png" width="300" alt="Conductor’s-eye view of a Viennese orchestra at a Christmas concert performing an arrangement of 'Baby Got Back'."><br>
@@ -831,15 +653,7 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 ### No. 23: Cats Boxing in the Ring
 
 <p>
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
-
-
-
-
 </p>
 
 <img src="cases/23/case.png" width="300" alt="Two cats wearing boxing gloves fight in a boxing ring."><br>
@@ -862,15 +676,7 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 ### No. 24: Volcanic Werewolf Camo Pattern
 
 <p>
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
-
 </p>
 
 <img src="cases/24/case.png" width="300" alt="Seamless ember-orange and charcoal-black camouflage pattern hiding snarling wolf faces."><br>
@@ -893,15 +699,7 @@ Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and 
 ### No. 25: Sveavägen Street in Stockholm
 
 <p>
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
-
-
 </p>
 
 <img src="cases/25/case.png" width="300" alt="Street-level view of Sveavägen in Stockholm with cars, buildings and Nordic city atmosphere."><br>
@@ -924,15 +722,7 @@ Sveavägen, Stockholm
 ### No. 26: Web App UI with QR Code
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/26/case.png" width="300" alt="Modern web app mockup UI featuring a prominent scannable QR code linking to google.com."><br>
@@ -955,15 +745,7 @@ Generate a mock UI for a web application with modern styling and CSS. Place a QR
 ### No. 27: CT5-V Blackwing and Purple Hellcat at Dusk
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/27/case.png" width="300" alt="Radiant red CT5-V Blackwing and gloss purple Hellcat parked side by side in an empty lot at evening."><br>
@@ -986,15 +768,7 @@ A ct5 v black wing radiant red and a gloss purple hellcat parked together in a e
 ### No. 28: Brazilian Zouk Demo at Warsaw Zouk Festival
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/28/case.png" width="300" alt="Photorealistic couple dancing Brazilian Zouk while a crowd watches and a videographer films at a festival."><br>
@@ -1017,15 +791,7 @@ A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd
 ### No. 29: Wind Turbine over the Swiss Alps
 
 <p>
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
-
-
 </p>
 
 <img src="cases/29/case.png" width="300" alt="Drone close-up of a wind turbine spinning above snowy Swiss Alps on a clear sunny day."><br>
@@ -1048,15 +814,7 @@ Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day,
 ### No. 30: Anne Boleyn Actress iPhone Selfie
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/30/case.png" width="300" alt="Casual iPhone selfie of a smiling young actress dressed as Anne Boleyn on an outdoor film set."><br>
@@ -1080,14 +838,6 @@ Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn.
 
 <p>
 <img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
-
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/31/case.png" width="300" alt="Surreal view from inside an acoustic guitar with a tiny person standing among its inner bracing."><br>
@@ -1110,15 +860,7 @@ a tiny human standing in the inside of an accoustic guitar revealing all the inn
 ### No. 32: Blue Oranges and a Purple Apple
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/32/case.png" width="300" alt="White bowl filled with vivid blue oranges and a single purple apple in the center."><br>
@@ -1141,15 +883,7 @@ Photo of a white bowl filled with blue oranges and a singular purple apple in th
 ### No. 33: A Burger, but not
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/33/case.png" width="300" alt="A Burger, but not."><br>
@@ -1172,15 +906,7 @@ A Burger, but not.
 ### No. 34: Space-Age 60s Living Room at Golden Hour
 
 <p>
-
 <img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/34/case.png" width="300" alt="Retro space-age 1960s style living room bathed in warm golden-hour light."><br>
@@ -1203,15 +929,7 @@ Space age 60’s style living room. Golden hour. Nostalgic feeling.
 ### No. 35: Comic-Book Ouroboros with Ben Day Dots
 
 <p>
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
-
-
-
-
 </p>
 
 <img src="cases/35/case.png" width="300" alt="Ouroboros drawn in bold comic-book style with Ben Day dots suggesting motion."><br>
@@ -1234,15 +952,7 @@ an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look lik
 ### No. 36: Prompt Overload Dystopian Desert
 
 <p>
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
-
-
-
 </p>
 
 <img src="cases/36/case.png" width="300" alt="Highly detailed dystopian desert landscape with a glowing digital monolith reading 'PROMPT OVERLOAD' amid neon-lit cyberpunk ruins."><br>
@@ -1265,15 +975,7 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ### No. 37: 绝区零 × 喜茶 霓虹联动海报
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/37/case.webp" width="300" alt="四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。"><br>
@@ -1307,15 +1009,7 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ### No. 38: 美团 赛博黄历 复古符箓海报
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/38/case.webp" width="300" alt="仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。"><br>
@@ -1346,15 +1040,7 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ### No. 39: 奈斯派索 上海装饰艺术海报
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/39/case.webp" width="300" alt="摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。"><br>
@@ -1396,15 +1082,7 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ### No. 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/40/case.webp" width="300" alt="父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。"><br>
@@ -1448,15 +1126,7 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ### No. 41: 成都慢行图 手绘旅游地图
 
 <p>
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
-
-
 </p>
 
 <img src="cases/41/case.webp" width="300" alt="羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。"><br>
@@ -1500,15 +1170,7 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ### No. 42: 大唐长安 插画长卷地图
 
 <p>
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
-
-
 </p>
 
 <img src="cases/42/case.webp" width="300" alt="唐代仕女画风散点透视长卷，朱雀大街为中轴，宫市池等微型场景与小篆坊名印章构成华丽城市织锦。"><br>
@@ -1558,15 +1220,7 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ### No. 43: 老北京航拍：光影显形的“衚”字
 
 <p>
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
-
-
 </p>
 
 <img src="cases/43/case.webp" width="300" alt="胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。"><br>
@@ -1606,14 +1260,6 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 
 <p>
 <img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
-
-
-
-
-
-
-
-
 </p>
 
 <img src="cases/44/case.webp" width="300" alt="文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。"><br>
@@ -1658,15 +1304,7 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ### No. 45: 蜜雪冰城商业海报
 
 <p>
-
-
 <img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
-
-
-
-
-
-
 </p>
 
 <img src="cases/45/case.webp" width="300" alt="古代敦煌壁画风格蜜雪冰城商业海报"><br>
@@ -1708,14 +1346,6 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ### No. 46: Chibi Sticker Sheet with Expressive Poses
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1743,14 +1373,6 @@ Making a playful peace sign with both hands and winking. Tearful eyes and slight
 ### No. 47: Chibi Funko Pop 3D Character Render
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1778,14 +1400,6 @@ Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the p
 ### No. 48: Ghibli-Style Redraw of Reference Photo
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1813,14 +1427,6 @@ Redraw this photo in Ghibli style
 ### No. 49: Rhythm Dance Game Scene with 3D Character
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1848,14 +1454,6 @@ A vibrant rhythm dance game screenshot featuring the 3D animated character from 
 ### No. 50: Photorealistic Multi-Image Composite
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1883,14 +1481,6 @@ Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesi
 ### No. 51: Image Style Transfer Between Two Photos
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1918,14 +1508,6 @@ Transform this image [Image1] into the artistic style of [Image2]. Keep the main
 ### No. 52: Outfit Swap with New Pants from Reference
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1953,14 +1535,6 @@ Keep the character in [Image1] unchanged, but replace her pant with the outfit i
 ### No. 53: Facial Expression Editing of the Same Person
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -1988,14 +1562,6 @@ Keep the person from [Image1] unchanged, but change their facial expression to [
 ### No. 54: Pose Transfer Between Two Men
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2023,14 +1589,6 @@ Take the two men and place them in the exact poses of the man in green carrying 
 ### No. 55: Body Reshaping While Preserving Identity
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2058,14 +1616,6 @@ Reshape the body of the person in [Image1] into a [target body type]. Keep the f
 ### No. 56: Nine Half-Length Portraits in Natural Environments
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2093,14 +1643,6 @@ Using the uploaded photo as a reference, generate a set of 9 vibrant half-length
 ### No. 57: Background Replacement for a Subject
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2128,14 +1670,6 @@ Replace the background of [Image1] with [desired background description, e.g., a
 ### No. 58: Adding a New Element into a Photo
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2163,14 +1697,6 @@ Add [desired element, e.g., a tree, a lamp, a dog] to [Image1]. Place it natural
 ### No. 59: Object Removal and Clean Background Fill
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2198,14 +1724,6 @@ Remove [element to remove, e.g., a person, a car, a sign] from [Image1]. Fill th
 ### No. 60: Four Camera Angles of the Same Scene
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2238,14 +1756,6 @@ Close-up portrait view.
 ### No. 61: Seamless Text Editing in an Image
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2273,14 +1783,6 @@ Edit the text in [Image1]. Replace the existing text with “[your new text]” 
 ### No. 62: Ten-Minute-Later Version of the Same Scene
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2308,14 +1810,6 @@ Generate an image of the same scene as [Image1], but showing how it looks 10 min
 ### No. 63: Clothing Extraction for E-Commerce Photo
 
 <p>
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
 </p>
 
@@ -2342,6 +1836,11 @@ Extract the clothing from [Image1] and present it as a clean e-commerce product 
 <a id="cases-64"></a>
 ### No. 64: High-Quality Photo Enhancement from Reference Image
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/64/case.webp" width="300" alt="An enhanced version of the original reference photo with improved resolution, sharpness, texture clarity, and realistic lighting while preserving the original composition and colors."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2364,6 +1863,11 @@ Enhance [Image1] to improve overall quality and detail. Keep the original compos
 
 <a id="cases-65"></a>
 ### No. 65: Weather Transformation Based on Reference Image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/65/case.webp" width="300" alt="A transformed version of the original photo where the weather has been changed while keeping the main subject and scene intact, with lighting, shadows, and colors adjusted to match the new weather in a photorealistic way."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2388,6 +1892,11 @@ Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, s
 <a id="cases-66"></a>
 ### No. 66: Color Grading and Palette Adjustment from Reference Image
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/66/case.webp" width="300" alt="A recolored version of the reference image where the overall color scheme, lighting, and shadows are adjusted to a new palette while preserving the original subject and composition."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2410,6 +1919,11 @@ Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool bl
 
 <a id="cases-67"></a>
 ### No. 67: Targeted content replacement in a reference image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/67/case.webp" width="300" alt="A photorealistic image where a specific target element from the reference image has been replaced with a new subject, seamlessly blended with the original lighting, perspective, and style."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2434,6 +1948,11 @@ Replace [target element or area] in [Image1] with [new element or reference, e.g
 <a id="cases-68"></a>
 ### No. 68: Image Outpainting Extension from Reference Photo
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/68/case.webp" width="300" alt="An extended version of the original reference photo where new content has been generated beyond the original borders, seamlessly matching the style, colors, lighting, and perspective."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2456,6 +1975,11 @@ Extend [Image1] beyond its original borders using outpainting. Keep the main sub
 
 <a id="cases-69"></a>
 ### No. 69: Dual-Image Redraw and Aspect Ratio Transfer
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/69/case.webp" width="300" alt="Two combined reference images where the content of the first image has been redrawn to fill the aspect ratio of the second, with the original content of the second image cleared and only its aspect ratio preserved."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2481,6 +2005,11 @@ Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figur
 <a id="cases-70"></a>
 ### No. 70: 3x3 Studio-Style Photo Strip Grid
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
+
 <img src="cases/70/case.webp" width="300" alt="A 3x3 grid of photo strips derived from the original image, each panel showing different studio-style poses and facial expressions in a cohesive layout."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2503,6 +2032,11 @@ Turn the photo into a 3x3 grid of photo strips with different studio-style poses
 
 <a id="cases-71"></a>
 ### No. 71: Line Art to Fully Colored Illustration
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/71/case.webp" width="300" alt="A fully colored and detailed illustration generated from the original line art, preserving all outlines and composition while adding realistic lighting, shadows, and textures."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2527,6 +2061,11 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 <a id="cases-72"></a>
 ### No. 72: Line Art Colorization with Detailed Rendering
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
 <img src="cases/72/case.webp" width="300" alt="A richly colored, fully rendered version of the original line art, keeping all line work intact while adding detailed lighting, shadows, and textures in the chosen style."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2549,6 +2088,11 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 
 <a id="cases-73"></a>
 ### No. 73: Two-Step Living Room Redesign from Reference Photos
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/73/case.webp" width="300" alt="A living room scene evolved in two steps from the reference images, first adding a gray sofa and wooden coffee table, then enriching the space with more furniture, daily items, and warmer wallpaper."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2576,6 +2120,11 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 <a id="cases-74"></a>
 ### No. 74: Object or Scene Creation from Listed Items
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
+
 <img src="cases/74/case.webp" width="300" alt="An image of a logically composed object or scene constructed from the provided list of items, with clear placement, appropriate proportions, and a coherent visual style."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2598,6 +2147,11 @@ Here are the items available: [List of items]. Based on these items, create an i
 
 <a id="cases-75"></a>
 ### No. 75: Anatomical Infographic of a Fictional Character
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/75/case.webp" width="300" alt="A bilaterally symmetrical frontal anatomical illustration of a fictional character, showing external features and partially exposed internal anatomy with explanatory infographic-style labels."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2622,6 +2176,11 @@ Draw a bilaterally symmetrical frontal anatomical illustration of the [Character
 <a id="cases-76"></a>
 ### No. 76: 16-Bit Video Game Character Recreation
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
+
 <img src="cases/76/case.webp" width="300" alt="A 16-bit pixel art version of the original character placed in a side-scrolling 2D platformer level, retaining the character’s key features within a retro game environment."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2644,6 +2203,11 @@ Recreate this [Character] as a 16-bit video game character, and place the charac
 
 <a id="cases-77"></a>
 ### No. 77: Polaroid-Style Snapshot with Curtain Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/77/case.webp" width="300" alt="A slightly blurred Polaroid-style photograph with two people in front of a plain white curtain background, natural flash lighting, and unchanged faces."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2668,6 +2232,11 @@ Take a picture with a Polaroid camera. The photo should look like a normal photo
 <a id="cases-78"></a>
 ### No. 78: Soft Sunlit Portrait in Yellow Saree
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/78/case.webp" width="300" alt="A soft, sunlit portrait of a person in a flowing sheer yellow saree with floral embroidery, seated against a plain wall with artistic sunlight, holding sunflowers and exuding a serene, romantic mood."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2690,6 +2259,11 @@ Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicat
 
 <a id="cases-79"></a>
 ### No. 79: Polaroid Hug Scene with White Curtain Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/79/case.webp" width="300" alt="A slightly blurred Polaroid-style photograph where two people from the reference image appear to be hugging each other in front of white curtains, with consistent flash lighting and unchanged faces."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2714,6 +2288,11 @@ Take a photo taken with a Polaroid camera. The photo should look like an ordinar
 <a id="cases-80"></a>
 ### No. 80: Top-Angle Black-and-White Portrait
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/80/case.webp" width="300" alt="A high-resolution black-and-white close-up portrait shot from a high angle, focusing on the face, upper chest, and shoulders against a deep black shadow background."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2736,6 +2315,11 @@ Please generate a top-angle and close-up black and white portrait of my face, fo
 
 <a id="cases-81"></a>
 ### No. 81: Vertical Cinematic Portrait with Red Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/81/case.webp" width="300" alt="A vertical portrait of the same face captured from a slightly low angle with stark cinematic lighting, intense contrast, and a deep crimson red background contrasting with luminous skin and dark clothing."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2760,6 +2344,11 @@ Create a vertical potrait shot using the exact same face features, characterized
 <a id="cases-82"></a>
 ### No. 82: Exploded Technical View of a Product
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
+
 <img src="cases/82/case.webp" width="300" alt="An ultra-detailed exploded view of a product with metallic parts and electronic components floating in mid-air, perfectly aligned to reveal the internal structure with cinematic lighting."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2782,6 +2371,11 @@ Ultra-detailed exploded view of a product, metallic parts and electronic compone
 
 <a id="cases-83"></a>
 ### No. 83: 100x Zoom Detail View of a Scene
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/83/case.webp" width="300" alt="An extremely close 100x zoomed-in view of the original image, preserving aspect ratio, sharp details, intricate textures, and natural colors without distortion."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2806,6 +2400,11 @@ Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that t
 <a id="cases-84"></a>
 ### No. 84: Storyboard Generated from a Single Image
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/84/case.jpg" width="300" alt="A storyboard derived from the uploaded image, showing key moments and transitions with cinematic framing, camera movements, and angles that convey the scene’s narrative flow."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2828,6 +2427,11 @@ Create a storyboard from the uploaded image, highlighting key moments and transi
 
 <a id="cases-85"></a>
 ### No. 85: Tom Yum Goong Soup Recipe Infographic
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/85/case.jpg" width="300" alt="An infographic that visually explains how to make Thai Tom Yum Goong Soup, including ingredients and step-by-step recipe elements."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2852,6 +2456,11 @@ Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingre
 <a id="cases-86"></a>
 ### No. 86: Background and Blanket Focus with Blurred Child
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/86/case.jpg" width="300" alt="A photograph where the trees and blanket in the background are sharp and emphasized, while the child in the foreground is intentionally blurred."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
@@ -2874,6 +2483,11 @@ Focus on the background trees and blanket of this image, blur this kid.
 
 <a id="cases-87"></a>
 ### No. 87: Minimal Food Letter Logos on White Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/87/case.jpg" width="300" alt="A set of eight sophisticated minimalistic logos arranged on a solid white background, each logo forming letters made from realistic food to express the meaning of the word."><br>
 <sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
@@ -2898,20 +2512,6 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 
 ---
-
-<a id="tools-intro"></a>
-## 🛠️ Tools Introduction
-
-*Information about tools and platforms will be updated soon.*
-
-
-
-<a id="prompting-tips"></a>
-## 💡 Prompting Tips
-
-*Prompting tips and best practices will be added as the community grows.*
-
-
 
 <a id="how-to-contribute"></a>
 ## 🤝 How to Contribute

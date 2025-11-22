@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T03:08:24.914Z",
+  "generated_at": "2025-11-22T03:57:32.862Z",
   "cases": [
     {
       "case_no": 1,
@@ -2260,6 +2260,11 @@
       "prompt": "Enhance [Image1] to improve overall quality and detail. Keep the original composition, colors, and style intact. Increase resolution, sharpness, texture clarity, and lighting realism. Output as a photorealistic, high-resolution image.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "High-Quality Photo Enhancement from Reference Image",
         "prompt_author": "Marvin",
@@ -2295,6 +2300,11 @@
       "prompt": "Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, sunny]. Keep the main subject and overall scene intact. Adjust lighting, shadows, colors, and environmental effects to match the new weather. Photorealistic, seamless integration, high-resolution.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Weather Transformation Based on Reference Image",
         "prompt_author": "Marvin",
@@ -2330,6 +2340,11 @@
       "prompt": "Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool blue tones, pastel colors]. Keep the main subject and composition intact. Adjust lighting, shadows, and overall color balance to match the new color scheme. Photorealistic, high-resolution, natural-looking result.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Color Grading and Palette Adjustment from Reference Image",
         "prompt_author": "Marvin",
@@ -2365,6 +2380,11 @@
       "prompt": "Replace [target element or area] in [Image1] with [new element or reference, e.g., a different person, object, or scene]. Keep all other parts of the image unchanged. Ensure the replacement blends naturally with lighting, perspective, and overall style. Photorealistic, high-resolution, seamless integration.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Targeted content replacement in a reference image",
         "prompt_author": "Marvin",
@@ -2400,6 +2420,11 @@
       "prompt": "Extend [Image1] beyond its original borders using outpainting. Keep the main subject and composition intact. Generate new content around the edges that matches the style, colors, lighting, and perspective of the original image. Photorealistic, high-resolution, seamless integration.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Image Outpainting Extension from Reference Photo",
         "prompt_author": "Marvin",
@@ -2436,6 +2461,11 @@
       "prompt": "Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figure 1 to fit the aspect ratio of Figure 2, completely clear the content of Figure 2, and only retain the aspect ratio of Figure 2.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Dual-Image Redraw and Aspect Ratio Transfer",
         "prompt_author": "Marvin",
@@ -2471,6 +2501,11 @@
       "prompt": "Turn the photo into a 3x3 grid of photo strips with different studio-style poses and expressions.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Pattern Design"
+      ],
       "attribution": {
         "title": "3x3 Studio-Style Photo Strip Grid",
         "prompt_author": "Marvin",
@@ -2506,6 +2541,11 @@
       "prompt": "Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Stylized Characters"
+      ],
       "attribution": {
         "title": "Line Art to Fully Colored Illustration",
         "prompt_author": "Marvin",
@@ -2541,6 +2581,11 @@
       "prompt": "Convert the line art in [Image1] into a fully colored and detailed image. Preserve all original outlines and compositions. Apply [desired style, e.g., photorealistic, anime, cartoon, digital painting] with realistic lighting, shadows, and textures. High-resolution, natural, seamless rendering.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Stylized Characters"
+      ],
       "attribution": {
         "title": "Line Art Colorization with Detailed Rendering",
         "prompt_author": "Marvin",
@@ -2577,6 +2622,11 @@
       "prompt": "1️⃣ Step one: Add a comfortable gray sofa and a wooden coffee table in the center, matching the room’s contemporary style, photorealistic render.\n\n2️⃣ Step two: Add more furniture-like items to the foreground and more daily necessities on the table. Also, change the wallpaper to something warmer.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Two-Step Living Room Redesign from Reference Photos",
         "prompt_author": "Marvin",
@@ -2612,6 +2662,11 @@
       "prompt": "Here are the items available: [List of items]. Based on these items, create an image of a [type of object/scene] that can be made or represented by combining them. The composition should make logical sense, considering the relationship between the items. Ensure the image is [visual style]. It should be with appropriate proportions and clear placement of each item.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Surreal Concepts"
+      ],
       "attribution": {
         "title": "Object or Scene Creation from Listed Items",
         "prompt_author": "Marvin",
@@ -2647,6 +2702,11 @@
       "prompt": "Draw a bilaterally symmetrical frontal anatomical illustration of the [Character], styled similarly to an infographic. The image should show the creature's external features on both sides, with its internal anatomy partially exposed. Detailed text should flank the image, explaining the creature's biology, abilities, behavior, habitat, and the specific functions of its anatomical structures. The overall design should be clear, informative, and in the style of a scientific illustration.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Typography"
+      ],
       "attribution": {
         "title": "Anatomical Infographic of a Fictional Character",
         "prompt_author": "Marvin",
@@ -2682,6 +2742,11 @@
       "prompt": "Recreate this [Character] as a 16-bit video game character, and place the character in a level of a 2D 16-bit platform video game.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Stylized Characters"
+      ],
       "attribution": {
         "title": "16-Bit Video Game Character Recreation",
         "prompt_author": "Marvin",
@@ -2717,6 +2782,11 @@
       "prompt": "Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Polaroid-Style Snapshot with Curtain Background",
         "prompt_author": "Marvin",
@@ -2752,6 +2822,11 @@
       "prompt": "Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicate floral embroidery. Sit gracefully against a plain wall, bathed in warm natural light with a triangular patch of sunlight casting artistic shadows. Hold a vibrant bouquet of sunflowers close to the chest, and a small white flower is tucked behind he ear. Gentle expression, loose hair strands moving slightly, and the dreamy golden glow create a serene, poetic, and romantic.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Soft Sunlit Portrait in Yellow Saree",
         "prompt_author": "Marvin",
@@ -2787,6 +2862,11 @@
       "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don’t change the face. Change the background behind those two people with white curtains. Make it look like both people in the reference picture are hugging each other.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Polaroid Hug Scene with White Curtain Background",
         "prompt_author": "Marvin",
@@ -2822,6 +2902,11 @@
       "prompt": "Please generate a top-angle and close-up black and white portrait of my face, focused on the head facing forward. Use a 35mm lens look, 10.7K 4HD quality. Proud expression. Deep black shadow background - only the face, the upper chest, and the shoulder.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Top-Angle Black-and-White Portrait",
         "prompt_author": "Marvin",
@@ -2857,6 +2942,11 @@
       "prompt": "Create a vertical potrait shot using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Vertical Cinematic Portrait with Red Background",
         "prompt_author": "Marvin",
@@ -2892,6 +2982,11 @@
       "prompt": "Ultra-detailed exploded view of a product, metallic parts and electronic components floating in mid-air, perfectly aligned, revealing inner structure, futuristic technology aesthetic, 8K resolution, soft cinematic lighting, highly realistic.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Pattern Design"
+      ],
       "attribution": {
         "title": "Exploded Technical View of a Product",
         "prompt_author": "Marvin",
@@ -2927,6 +3022,11 @@
       "prompt": "Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that the image details remain sharp and clear, revealing intricate textures, patterns, and elements without distortion, while preserving the natural colors and quality.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "100x Zoom Detail View of a Scene",
         "prompt_author": "Marvin",
@@ -2962,6 +3062,11 @@
       "prompt": "Create a storyboard from the uploaded image, highlighting key moments and transitions with cinematic angles, camera movements, and framing that capture the scene's mood and narrative flow.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Storyboard Generated from a Single Image",
         "prompt_author": "Marvin",
@@ -2997,6 +3102,11 @@
       "prompt": "Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingredients and recipe in it.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Typography"
+      ],
       "attribution": {
         "title": "Tom Yum Goong Soup Recipe Infographic",
         "prompt_author": "Marvin",
@@ -3032,6 +3142,11 @@
       "prompt": "Focus on the background trees and blanket of this image, blur this kid.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Cinematic Photo"
+      ],
       "attribution": {
         "title": "Background and Blanket Focus with Blurred Child",
         "prompt_author": "Marvin",
@@ -3067,6 +3182,11 @@
       "prompt": "Turn these 8 Logos into sophisticated minimalistic logos to make letters from realistic food to express the meaning of this word. Composition: rendering of all logos on a single solid white background.\n",
       "submitter": "",
       "submitter_link": "",
+      "capability_code": "C9",
+      "capability_type": [
+        "Image Editing",
+        "Typography"
+      ],
       "attribution": {
         "title": "Minimal Food Letter Logos on White Background",
         "prompt_author": "Marvin",
