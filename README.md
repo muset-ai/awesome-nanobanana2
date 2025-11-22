@@ -139,6 +139,37 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 *   [Case 85: Tom Yum Goong Soup Recipe Infographic (by Marvin)](#cases-85)
 *   [Case 86: Background and Blanket Focus with Blurred Child (by Marvin)](#cases-86)
 *   [Case 87: Minimal Food Letter Logos on White Background (by Marvin)](#cases-87)
+*   [Case 88: 水调歌头 词意与意境 (by AIGC 创意猎人)](#cases-88)
+*   [Case 89: 古老石碑上的《青玉案·元夕》 (by AIGC 创意猎人)](#cases-89)
+*   [Case 90: 感恩节主题黑板报 (by AIGC 创意猎人)](#cases-90)
+*   [Case 91: 90年代情书：春娇写给志明 (by AIGC 创意猎人)](#cases-91)
+*   [Case 92: 三天两晚北京旅游攻略手帐风格 (by AIGC 创意猎人)](#cases-92)
+*   [Case 93: 猎人野味湘菜餐馆经典菜单 (by AIGC 创意猎人)](#cases-93)
+*   [Case 94: 宇称不守恒原理科普图 (by AIGC 创意猎人)](#cases-94)
+*   [Case 95: 《红楼梦》主要人物关系图谱 (by AIGC 创意猎人)](#cases-95)
+*   [Case 96: 黑板上的高考解答过程 (by AIGC 创意猎人)](#cases-96)
+*   [Case 97: MBTI 16型人格图（中文版） (by AIGC 创意猎人)](#cases-97)
+*   [Case 98: 航空发动机3D结构透视图 (by AIGC 创意猎人)](#cases-98)
+*   [Case 99: 黑金立体3D文字与传统印章设计 (by AIGC 创意猎人)](#cases-99)
+*   [Case 100: 创意猎人 - 街头涂鸦风格字体设计 (by AIGC 创意猎人)](#cases-100)
+*   [Case 101: 苍劲有力的北京书法艺术 (by AIGC 创意猎人)](#cases-101)
+*   [Case 102: 夏日傍晚的浪漫海边情感海报 (by AIGC 创意猎人)](#cases-102)
+*   [Case 103: 梦幻唐代荔枝海报 (by AIGC 创意猎人)](#cases-103)
+*   [Case 104: HUNTER 高端品牌鞋靴广告 (by AIGC 创意猎人)](#cases-104)
+*   [Case 105: 搞怪创意海报：牛马注意警示标识 (by AIGC 创意猎人)](#cases-105)
+*   [Case 106: 时尚电影肖像：年轻女性坐在现代椅子上 (by AIGC 创意猎人)](#cases-106)
+*   [Case 107: 工作室肖像照片 (by AIGC 创意猎人)](#cases-107)
+*   [Case 108: 米色工作室中的极简主义肖像系列 (by AIGC 创意猎人)](#cases-108)
+*   [Case 109: 高端洗发水广告：Nano Banana 2 (by AIGC 创意猎人)](#cases-109)
+*   [Case 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比 (by AIGC 创意猎人)](#cases-110)
+*   [Case 111: 真人风格的漫画翻译 (by AIGC 创意猎人)](#cases-111)
+*   [Case 112: 简约高级AI产品商店设计 (by AIGC 创意猎人)](#cases-112)
+*   [Case 113: Nano Banana 2 - Fictional Pharmaceutical Product (by AIGC 创意猎人)](#cases-113)
+*   [Case 114: 微信聊天截图：Nano Banana 2发布警告 (by AIGC 创意猎人)](#cases-114)
+*   [Case 115: 爱因斯坦发布相对论后的微信朋友圈 (by AIGC 创意猎人)](#cases-115)
+*   [Case 116: 斗地主游戏UI界面 (by AIGC 创意猎人)](#cases-116)
+*   [Case 117: Gemini 3 Pro 主要功能亮点介绍 (by AIGC 创意猎人)](#cases-117)
+*   [Case 118: Nano Banana 2的优势与Bento Grid视觉风格 (by AIGC 创意猎人)](#cases-118)
 
 ---
 
@@ -2219,6 +2250,639 @@ Focus on the background trees and blanket of this image, blur this kid.
 
 ```
 Turn these 8 Logos into sophisticated minimalistic logos to make letters from realistic food to express the meaning of this word. Composition: rendering of all logos on a single solid white background.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-88"></a>
+### Case 88: 水调歌头 词意与意境 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/88/407.output.1.webp" width="300" alt="展示《水调歌头》全文的艺术插图，展现明月、青天和人们的思绪与情感，体现古典诗词的意境与美感。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+把《水调歌头》这首词全文：明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。 全部写出来，配上合适画面
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-89"></a>
+### Case 89: 古老石碑上的《青玉案·元夕》 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/89/408.output.1.webp" width="300" alt="一块破旧的石碑，上面用行书字体刻着《青玉案·元夕》全文，背景是荒郊野外，传达出沧桑感。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+荒郊野外的一块石碑上，写着《青玉案·元夕》这首词的全文：东风夜放花千树，更吹落、星如雨。宝马雕车香满路。凤箫声动，玉壶光转，一夜鱼龙舞。蛾儿雪柳黄金缕，笑语盈盈暗香去。众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。 行书字体，画面破旧，有沧桑感~~
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-90"></a>
+### Case 90: 感恩节主题黑板报 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/90/409.output.1.webp" width="300" alt="教室后面装饰的黑板报，展示了丰富的感恩节主题内容，包括感恩的图案和文字。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+教室后面黑板报，主题是“感恩节”，内容自行设计，整体内容饱满、丰富
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-91"></a>
+### Case 91: 90年代情书：春娇写给志明 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/91/410.output.1.webp" width="300" alt="一封90年代风格的情书，使用钢笔书写，内容深情感人，传达春娇对志明的情感，纸张呈现出老旧感和年代感。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+90年代钢笔写的情书，春娇写给志明的，有老旧感年代感。情书内容自行设计，深请，感人
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-92"></a>
+### Case 92: 三天两晚北京旅游攻略手帐风格 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/92/411.output.1.webp" width="300" alt="手帐风格的北京旅游攻略图，包含三天两晚的详细行程安排，呈现出丰富的旅游信息和视觉元素。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+做一张三天2晚在北京旅游的攻略图，需要详细的行程，手帐风格
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-93"></a>
+### Case 93: 猎人野味湘菜餐馆经典菜单 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/93/412.output.1.webp" width="300" alt="一份包含16道经典湘菜的实拍菜单，展示多样的湘菜美食，色彩鲜艳，诱人食欲。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+我开一家湘菜餐馆“猎人野味”，请帮我生成一份常见经典的湘菜菜单，选16道菜，菜品的照片用实拍图
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-94"></a>
+### Case 94: 宇称不守恒原理科普图 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/94/413.output.1.webp" width="300" alt="一张中文科普图，详细解释宇称不守恒原理，包括相关图示和文字说明。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+画一张中文科普图，详细解释“宇称不守恒”原理
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-95"></a>
+### Case 95: 《红楼梦》主要人物关系图谱 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/95/414.output.1.webp" width="300" alt="一幅展示《红楼梦》主要人物及其关系的图谱，包含人物名称和相互关系的连线，使用中文标注。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+生成《红楼梦》里面主要人物的关系图谱，中文版
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-96"></a>
+### Case 96: 黑板上的高考解答过程 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/96/415.output.1.webp" width="300" alt="黑板上清晰地写出2025年全国高考题的解答过程，答案正确，字迹工整。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+**Reference Images:**
+
+<img src="cases/96/415.input.1.jpg" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+在黑板上写出道题的解答过程。（2025全国卷高考题，答案正确！）
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-97"></a>
+### Case 97: MBTI 16型人格图（中文版） (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/97/416.output.1.webp" width="300" alt="一幅展示16种MBTI人格类型的图表，标注中文名称和特征"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+一图画出MBTI 16型人格图，中文版
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-98"></a>
+### Case 98: 航空发动机3D结构透视图 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/98/417.output.1.webp" width="300" alt="一幅航空发动机的3D结构渲染透视图，图中标注了各个部位的名称，展示了发动机的内部构造和设计细节。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+画出航空发动机的3D结构渲染透视图，并用中文标出各个部位的名字
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-99"></a>
+### Case 99: 黑金立体3D文字与传统印章设计 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/99/418.output.1.webp" width="300" alt="一幅立体设计的图像，展示了黑金色的3D行书文字，内容为‘生活给你的不是标准答案，而是思考题。重要的不是发生了什么，而是你从中领悟到了什么？’并带有一枚横写的传统印章，印文为‘创意猎人’"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+立体设计，黑金立体3D文字行书“生活给你的不是标准答案，而是思考题。重要的不是发生了什么，而是你从中领悟到了什么？”根据文字，创意，有一枚随形传统印章朱砂印文“创意猎人”横写。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-100"></a>
+### Case 100: 创意猎人 - 街头涂鸦风格字体设计 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/100/419.output.1.webp" width="300" alt="一幅展示街头涂鸦风格的字体设计，大字‘创意猎人’与小字‘AIGCreativeHunter’，字体夸张变形，具有强烈的粗细对比和不规则切割效果，背景为纯黑色，装饰有蓝色渐变线条和开学季元素的抽象点缀。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+标题字体设计，大文字“创意猎人”，小字英文“AIGCreativeHunter”，街头涂鸦风格，笔画夸张变形，粗细对比强烈，不规则切割效果，字体流动跳跃，白色带多彩内色，蓝渐变线条装饰，暗蓝色双层厚度，多层描边，开学季元素抽象点缀，纯黑背景
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-101"></a>
+### Case 101: 苍劲有力的北京书法艺术 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/101/420.output.1.webp" width="300" alt="一幅在纯白背景上用毛笔书法书写的'北京'，字形结合了北京地标建筑和著名景点，展现极繁主义风格，颜色鲜艳，带有3D效果，红色结印作为点缀，底部有极小字'AIGCreativeHunter'"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+纯白背景，“北京”，苍劲有力的毛笔书法风格，真实笔触质感，字体笔画包含北京地标建筑，著名景点完美结合填充，极繁主义 ，颜色鲜艳，3D效果，红色结印印章点缀，底部居中极小字“AIGCreativeHunter ”
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-102"></a>
+### Case 102: 夏日傍晚的浪漫海边情感海报 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/102/421.output.1.webp" width="300" alt="一幅海边情感海报，背景为橙红色的落日渐变，海面与地面反射光影，两个黑色剪影行人与路灯相映衬，手写体中文文案表达浪漫的感觉，英文字体补充说明，整体氛围温暖而艺术感十足。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+夏日傍晚海边情感海报，橙红色落日渐变背景，海面与地面带反光效果，两个行人黑色剪影搭配海边路灯，自由手写体中文文案“浪漫是一种感觉，它写在夏日里的晚风”文艺风手写体，拉长的笔划，字体笔触自由，字形错落分布，流畅,部分字的笔画拉长，形成一个优美的弧线，整个标题显得艺术而富有动感，衬线英文小字“You are a feeling, written in the summer evening breeze”补充，整体营造温暖
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-103"></a>
+### Case 103: 梦幻唐代荔枝海报 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/103/422.output.1.webp" width="300" alt="一幅高级感插画，描绘了一名唐代青衣中年男子骑马奔腾于金粉飞溅的地面上，背景是天空和荔枝树，顶部有红色隆起表面，诗句‘一骑红尘妃子笑，无人知是荔枝来’隐约可见，整体呈现出史诗感和梦幻的氛围。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+高级感插画，电影海报，天空背景，画面顶部是红色的隆起的表面呈现荔枝表皮的纹理，有压迫感，有一个唐代青衣中年男子正在下面策马奔腾，地面金粉飞溅。背景有关于荔枝的暗淡诗句“一骑红尘妃子笑，无人知是荔枝来”，有岭南荔枝树，有唐代宫殿投影。右上角，金色岩彩竖版字体，艺术草书，“长安的荔枝”，暖色调，史诗感的构图，景深效果，画风柔美，细节丰富，神秘氛围，梦幻朦胧。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-104"></a>
+### Case 104: HUNTER 高端品牌鞋靴广告 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/104/423.output.1.webp" width="300" alt="一双高端鞋靴以动态透视形式展示在方格纸背景上，旁边附有技术草图和手写注释。角落里是一张运动中的品牌服装的真实照片，搭配街头时尚。产品口号以粗体排版突出显示，布局中包含产品规格标签和品牌色彩参考。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+以 1：1 的比例创建图片 [HUNTER] 的品牌鞋靴广告，使用品牌技术和纹理展示高端品牌鞋靴。（虚构一种基于品牌DNA的技术和质感）。这双鞋以动态浮动透视形式显示在方格纸背景布局上，并附有技术草图和手写注释。角落里贴着一张随机的生活方式真实照片，照片中展示了运动中的品牌服装，与街头服饰时尚相得益彰。用粗体排版强调产品的口号。布局功能包括产品规格标签，如工程样式的 Project a fiction brand title、Date、Size 和 fiction model name。带有品牌 pantone 调色板和代码编号的背景参考
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-105"></a>
+### Case 105: 搞怪创意海报：牛马注意警示标识 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/105/424.output.1.webp" width="300" alt="一张搞怪风格的海报，展示了带有牛图案的黄色警示标识和 '牛馬注意' 文字牌，背景为户外草地和蓝天，营造出轻松诙谐的氛围，配有多个幽默的文字说明，整体色调明亮活泼。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+搞怪创意风格的海报，主体展示带有牛图案的黄色警示标识与 “牛馬注意” 文字牌，搭配 “你們爲什麼那麼多時間做海報” 等文字；场景设定为户外草地与蓝天，营造出轻松诙谐的氛围；风格融合搞怪创意与户外场景，色调以亮黄（标识）、青绿（草地）、湛蓝（天空）为主，传递出活泼吸睛的感觉；构图采用户外标识的中景视角，突出创意元素与自然场景的结合；细节补充有 “REFUSE TO BE LIKE A COW OR HORSE 10.01”“牛馬請做好牛馬的分內工作”“拒絕內捲 請勿做海報” 等文字，以及 “POSTER Design”“LOGO Design” 等设计类别标识，整体传递出搞怪调侃做海报的创意氛围，兼具趣味与设计感。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-106"></a>
+### Case 106: 时尚电影肖像：年轻女性坐在现代椅子上 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/106/425.output.1.webp" width="300" alt="一位年轻女性穿着全黑服装，坐在现代椅子上，3/4视角，身体微微向后倾斜，一只手臂搭在椅子上，背景是深色墙壁，窗户投射出几何光影，整体光线柔和且富有戏剧性。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+一位年轻女性的时尚、电影肖像，她坐在一张现代椅子上，在室内。她以 3/4 视角构图，身体微微向后倾斜，一只手臂随意地搭在椅子上，散发出平静而自信的氛围。这位女士拥有一张瓜子脸，线条分明的下颌，发型与参考图片完全一致。她穿着一套时尚的全黑服装，包括深色高领毛衣和结构感强的西装外套，展现出高端时尚的编辑造型。背景是一堵光滑的深色墙壁，窗户投射出引人注目的几何光影图案，散发出柔和的粉紫色光芒，与阴影形成鲜明对比。彩色的光线落在墙壁上，并 subtly 照亮她的头发和肩膀边缘，增强了戏剧性的氛围。整体照明 moody 而艺术，具有柔和的阴影和电影般的对比度。色彩分级强调深黑色、柔和的肤色和鲜艳的粉色高光，营造出杂志封面般的审美效果。主体略微偏离中心。最终图像中不应出现任何文字、徽标或水印。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-107"></a>
+### Case 107: 工作室肖像照片 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/107/426.output.1.webp" width="300" alt="一位穿着黑色T恤的人物在黑色背景前拍摄的半身肖像，采用侧光照明。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+**Reference Images:**
+
+<img src="cases/107/426.input.1.jpg" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+给图里的人物生成工作室拍摄肖像照片,黑色背景,黑色T恤,采用侧光和半身像的构图
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-108"></a>
+### Case 108: 米色工作室中的极简主义肖像系列 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/108/427.output.1.webp" width="300" alt="一组在干净柔和的米色工作室拍摄的极简主义肖像，展示不同角度和特写的面部细节，模特穿着深蓝色衬衫和象牙色裤子，营造亲密且内省的氛围。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+干净柔和的米色工作室中的编辑 3x3 照片网格。人物（与参考 100 %)相匹配）身穿轻薄的深蓝色海军蓝衬衫、象牙色裤子，赤脚，呈现原始简约风格。灯光：右前方直接有大型漫射主光，左侧有银色反光板，顶部有微妙的边缘。拍摄内容包括：1. 嘴唇 + 颧骨的极端特写，手模糊部分遮盖（85mm，f/1.8，极薄景深）；2. 紧密裁剪眼睛，看着镜头，可见光带反射（85mm，f/2。 0) ；3. 黑白近距离肖像，下巴靠在拳头上，脸部充满画面（50mm，f/2.2）；4. 过肩镜头，模糊的前景织物窗帘框住半张脸（85mm，f/2。 0) ；5. 非常近的正面，双手重叠在脸上，光线穿过眼睛（50mm，f/2.5）；6. 紧密角度的肖像，显示头发落入眼睛，柔焦背景（85mm，f/2.2）；7. 裁剪至触及下颌线的手，眼睛被裁剪掉（50mm，f/3.2，注重细节）；8. 半身侧坐在矮柜上，头部急剧转向别处，前景模糊（35mm，f/4.5）；9. 侧面特写，一滴泪珠状水滴，电影般的光片划过（85mm，f/1.9）。角度：大多为近距离头像，略微高/低倾斜，保持变化。拍摄 RAW 格式，专业柔和等级，平滑的色调对比度，微妙的电影颗粒感。氛围：亲密、内省、以人物为主导的编辑极简主义，巧妙地使用织物作为道具。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-109"></a>
+### Case 109: 高端洗发水广告：Nano Banana 2 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/109/428.output.1.webp" width="300" alt="一瓶透明质感的洗发水，瓶身印有品牌英文'Nano Banana 2'和slogan'AIGCreativeHunter'，深色按压泵头，液体从顶部流动滴落，背景为浅色渐变，营造出高端、轻奢的产品广告氛围。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+高级摄影，大牌既视感，主体为1瓶洗发水，瓶身印有品牌英文"Nano Banana 2"和slogan"AIGCreativeHunter"，瓶身透明质感，搭配深色按压泵头，液体呈流动滴落状，从顶部流到产品；浅色调渐变背景，采用悬浮式构图，营造立体空间感；色彩色调以暖棕为主莫兰迪色系风格；画面风格偏向高端产品摄影，注重光影的细腻表现，突出产品的质感与精致感；背景要素为单一纯色，无多余装饰，让产品成为视觉焦点，整体传递出轻奢、专业的洗护产品广告质感。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-110"></a>
+### Case 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/110/429.output.1.webp" width="300" alt="一组老夫子风格的漫画，讽刺俞敏洪在南极度假时给加班员工发周年祝贺信，展示两者之间的鲜明对比。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+以老夫子漫画的风格，画一组漫画，讽刺俞敏洪南极游玩，却给公司正在加班的员工发周年祝贺信，形成鲜明对比，文案请自行设计
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-111"></a>
+### Case 111: 真人风格的漫画翻译 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/111/430.output.1.webp" width="300" alt="一幅将漫画角色转化为真人风格的插图，包含中文翻译的文字"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+**Reference Images:**
+
+<img src="cases/111/430.input.1.jpg" width="150" alt="Reference image">
+<img src="cases/111/430.input.2.webp" width="150" alt="Reference image">
+
+
+**Prompt**
+
+```
+把图片中的文字翻译成中文，其他的保持不变   给这个漫画变成真人风格的
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-112"></a>
+### Case 112: 简约高级AI产品商店设计 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/112/431.output.1.webp" width="300" alt="一个简约而高级的线下商店内景，展示了多款AI产品的外包装，包括ChatGPT、Gemini、Claude、Midjourney、Lovart和TapNow等。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+我是AI自媒体博主，名字叫做“AIGC创意猎人”，帮我设计一个简约高级的线下商店，商店里面售卖的产品是ChatGPT、Gemini，Claude，Midjourney，Lovart，TapNow等等之类的AI产品，给他们设计好外包装。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-113"></a>
+### Case 113: Nano Banana 2 - Fictional Pharmaceutical Product (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/113/432.output.1.webp" width="300" alt="A digital photograph of a fictional pharmaceutical product called 'Nano Banana 2'. The minimalist box on the left features bold text and a tagline 'Take one 1 daily'. Beside it is a silver blister pack containing banana-shaped pills. The image has a neutral background and soft lighting."><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+A square-format digital photograph showing a fictional pharmaceutical-style product from Google Pharmacy. The box is on the left, clean and minimalist, featuring bold text with the product name "Nano Banana 2" and a witty line like "Take one 1 daily." Next to the box is a silver blister pack containing 6–10 themed pills or capsules shaped like Banana. Neutral background, soft lighting, sharp focus, modern packaging aesthetic.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-114"></a>
+### Case 114: 微信聊天截图：Nano Banana 2发布警告 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/114/433.output.1.webp" width="300" alt="一张微信聊天截图，显示用户讨论Nano Banana 2的发布，内容提醒大家注意可能的虚假信息，配有真人头像。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+生成一张微信聊天截图，对话内容为Nano Banana 2发布了，什么都可以造假，大家小心。具体文案请自行设计，用真人头像
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-115"></a>
+### Case 115: 爱因斯坦发布相对论后的微信朋友圈 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/115/434.output.1.webp" width="300" alt="一张超写实风格的微信截图，爱因斯坦在朋友圈中分享自拍，背景有粉笔板和潦草的公式，尼古拉·特斯拉点赞了该内容。"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+微信截图，爱因斯坦刚刚完成相对论后发布的一条超写实风格的微信朋友圈。包含一张自拍照，照片中清晰可见背景中的粉笔板和潦草的公式。朋友圈下方显示尼古拉·特斯拉点赞了该内容。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-116"></a>
+### Case 116: 斗地主游戏UI界面 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/116/435.output.1.webp" width="300" alt="一个斗地主游戏的用户界面，显示牌桌、玩家手牌和游戏操作按钮"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+生成一个正在斗地主的游戏UI界面
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-117"></a>
+### Case 117: Gemini 3 Pro 主要功能亮点介绍 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/117/436.output.1.webp" width="300" alt="一页PPT展示Gemini 3 Pro的主要功能亮点，采用谷歌的视觉风格，包含图表和文本信息"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+生成一页PPT，介绍Gemini 3 Pro主要功能亮点，谷歌的视觉风格
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-118"></a>
+### Case 118: Nano Banana 2的优势与Bento Grid视觉风格 (by [AIGC 创意猎人]())
+
+[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<img src="cases/118/438.output.1.webp" width="300" alt="一页PPT展示Nano Banana 2的优势以及Bento Grid的深色视觉风格，内容为中文"><br>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+
+
+**Prompt**
+
+```
+生成一页PPT，详细解释Nano Banana 2的优势，Bento Grid的视觉风格，深色，中文
 ```
 
 

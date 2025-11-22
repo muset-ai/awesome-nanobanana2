@@ -1,0 +1,13 @@
+title: 真人风格的漫画翻译
+author: AIGC 创意猎人
+author_link: ''
+source_links:
+- url: https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew
+image: 430.output.1.webp
+alt_text: 一幅将漫画角色转化为真人风格的插图，包含中文翻译的文字
+reference_images:
+- 430.input.1.jpg
+- 430.input.2.webp
+prompt: 把图片中的文字翻译成中文，其他的保持不变   给这个漫画变成真人风格的
+submitter: ''
+submitter_link: ''
