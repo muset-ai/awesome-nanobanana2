@@ -148,7 +148,17 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 <a id="cases-1"></a>
 ### Case 1: Clock 11:15 + Wine Glass Filled to Rim (by []())
 
-> **Type:** `Physics`
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://aidisruption.ai/p/nano-banana-2-pulled-in-1-hour-aced)
 
@@ -170,7 +180,17 @@ A cozy dining table scene. On the wall, a clock showing exactly 11:15 with corre
 <a id="cases-2"></a>
 ### Case 2: Math/Formula Boards & Logical Layouts (by []())
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://x.com/EHuanglu/status/1988007355070451975)
 
@@ -192,7 +212,17 @@ A professor teaching in a classroom. Large blackboard behind them filled with a 
 <a id="cases-3"></a>
 ### Case 3: CCTV Footage (by []())
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/singularity/comments/1otuefg/nano_banana_2_crazy_image_outputs/)
 
@@ -214,7 +244,17 @@ cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talki
 <a id="cases-4"></a>
 ### Case 4: CNN Election Results TV Broadcast (by [vladislavkochergin01](https://www.reddit.com/user/vladislavkochergin01/))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -236,7 +276,17 @@ A realistic close-up of a television screen displaying CNN U.S. election results
 <a id="cases-5"></a>
 ### Case 5: Five Adventurers in a Luminous Cave (by [Kiitani](https://www.reddit.com/user/Kiitani/))
 
-> **Type:** `Multi Character`
+<p>
+
+
+
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -258,7 +308,17 @@ an animated illustration of a party of five adventurers navigating a cave system
 <a id="cases-6"></a>
 ### Case 6: A Motorbike Made of Sharks (by [Dependent_Piece_5781](https://www.reddit.com/user/Dependent_Piece_5781/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -280,7 +340,17 @@ A motorbike made of sharks
 <a id="cases-7"></a>
 ### Case 7: Biden’s Dog Holding a 2018 Newspaper (by [Healthy_Razzmatazz38](https://www.reddit.com/user/Healthy_Razzmatazz38/))
 
-> **Type:** `Physics`
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -302,7 +372,17 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 <a id="cases-8"></a>
 ### Case 8: Elderly Couple Watching a B-2 Bomber (by [Snoo26837](https://www.reddit.com/user/Snoo26837/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -324,7 +404,17 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 <a id="cases-9"></a>
 ### Case 9: Stylized 3D Zombie Character (by [Fysikz](https://www.reddit.com/user/Fysikz/))
 
-> **Type:** `Stylized Characters`
+<p>
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -346,7 +436,17 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 <a id="cases-10"></a>
 ### Case 10: Man Drinking Sushi Water Under Surreal Skies (by [Rare-Belt-9644](https://www.reddit.com/user/Rare-Belt-9644/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -368,7 +468,17 @@ A man drinking bottle of sushi water and looking at beautiful-shaped skies, smir
 <a id="cases-11"></a>
 ### Case 11: Grizzly Bear Showing a Meme to a Hiker (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
 
-> **Type:** `Multi Character`
+<p>
+
+
+
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -390,7 +500,17 @@ A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in
 <a id="cases-12"></a>
 ### Case 12: Floral Calculus Blackboard (by [Longjumping_Spot5843](https://www.reddit.com/user/Longjumping_Spot5843/))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -412,7 +532,17 @@ A hard calculus integration problem written and solved on a blackboard, but the 
 <a id="cases-13"></a>
 ### Case 13: Lightning Radar Browser UI (by [BasketFar667](https://www.reddit.com/user/BasketFar667/))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -434,7 +564,17 @@ Lightning Radar: A copy of the browser version of Lightning Radar.
 <a id="cases-14"></a>
 ### Case 14: Duck, Chicken and Parrot Riding a Scooter (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
 
-> **Type:** `Multi Character`
+<p>
+
+
+
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -456,7 +596,17 @@ A duck riding a chicken that sits in the shoulders of a parrot that drives and e
 <a id="cases-15"></a>
 ### Case 15: One-Eyed Whippet on a Moped (by [douggieball1312](https://www.reddit.com/user/douggieball1312/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -478,7 +628,17 @@ A whippet with an eye patch riding a moped through a UK street filled with shops
 <a id="cases-16"></a>
 ### Case 16: Gemini Solves Cancer and World Peace (by [Feisty_Test_9388](https://www.reddit.com/user/Feisty_Test_9388/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -500,7 +660,17 @@ Gemini finding cure to cancer and establishing world peace
 <a id="cases-17"></a>
 ### Case 17: Big-Headed Superhero Sprite Sheet (by [hydrangers](https://www.reddit.com/user/hydrangers/))
 
-> **Type:** `Stylized Characters`
+<p>
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -522,7 +692,17 @@ a sprite sheet for various animation for a single character for a 2d game. The h
 <a id="cases-18"></a>
 ### Case 18: Sun Exploding into Pigeons (by [neoqueto](https://www.reddit.com/user/neoqueto/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -544,7 +724,17 @@ A very photorealistic image of the Sun vigorously exploding into a bunch of pige
 <a id="cases-19"></a>
 ### Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
 
-> **Type:** `Multi Character`
+<p>
+
+
+
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -566,7 +756,17 @@ An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler b
 <a id="cases-20"></a>
 ### Case 20: Soviet Manual on Human-Wolf Hybrids (by [ryebrye](https://www.reddit.com/user/ryebrye/))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -588,7 +788,17 @@ A soviet biology textbook open to the page describing how to hybridize a human a
 <a id="cases-21"></a>
 ### Case 21: Business Conversation Film Still (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -610,7 +820,17 @@ A redhead woman in a black blazer talks with a man in a blue business suit. Indo
 <a id="cases-22"></a>
 ### Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by [ryebrye](https://www.reddit.com/user/ryebrye/))
 
-> **Type:** `Multi Character`
+<p>
+
+
+
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -632,7 +852,17 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 <a id="cases-23"></a>
 ### Case 23: Cats Boxing in the Ring (by [Every_Ad_2705](https://www.reddit.com/user/Every_Ad_2705/))
 
-> **Type:** `Stylized Characters`
+<p>
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -654,7 +884,17 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 <a id="cases-24"></a>
 ### Case 24: Volcanic Werewolf Camo Pattern (by [SentinelHalo](https://www.reddit.com/user/SentinelHalo/))
 
-> **Type:** `Pattern Design`
+<p>
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -676,7 +916,17 @@ Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and 
 <a id="cases-25"></a>
 ### Case 25: Sveavägen Street in Stockholm (by [kyprianou](https://www.reddit.com/user/kyprianou/))
 
-> **Type:** `Maps Layout`
+<p>
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -698,7 +948,17 @@ Sveavägen, Stockholm
 <a id="cases-26"></a>
 ### Case 26: Web App UI with QR Code (by [Camaraderie](https://www.reddit.com/user/Camaraderie/))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -720,7 +980,17 @@ Generate a mock UI for a web application with modern styling and CSS. Place a QR
 <a id="cases-27"></a>
 ### Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by [InformalNatural1134](https://www.reddit.com/user/InformalNatural1134/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -742,7 +1012,17 @@ A ct5 v black wing radiant red and a gloss purple hellcat parked together in a e
 <a id="cases-28"></a>
 ### Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by [zactral](https://www.reddit.com/user/zactral/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -764,7 +1044,17 @@ A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd
 <a id="cases-29"></a>
 ### Case 29: Wind Turbine over the Swiss Alps (by [Kosmicce](https://www.reddit.com/user/Kosmicce/))
 
-> **Type:** `Maps Layout`
+<p>
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -786,7 +1076,17 @@ Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day,
 <a id="cases-30"></a>
 ### Case 30: Anne Boleyn Actress iPhone Selfie (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -808,7 +1108,17 @@ Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn.
 <a id="cases-31"></a>
 ### Case 31: Tiny Human Inside an Acoustic Guitar (by [xGRAPH1KSx](https://www.reddit.com/user/xGRAPH1KSx/))
 
-> **Type:** `Physics`
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -830,7 +1140,17 @@ a tiny human standing in the inside of an accoustic guitar revealing all the inn
 <a id="cases-32"></a>
 ### Case 32: Blue Oranges and a Purple Apple (by [Head_Phrase_7084](https://www.reddit.com/user/Head_Phrase_7084/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -852,7 +1172,17 @@ Photo of a white bowl filled with blue oranges and a singular purple apple in th
 <a id="cases-33"></a>
 ### Case 33: A Burger, but not (by [HeraclesLeftNipple](https://www.reddit.com/user/HeraclesLeftNipple/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -874,7 +1204,17 @@ A Burger, but not.
 <a id="cases-34"></a>
 ### Case 34: Space-Age 60s Living Room at Golden Hour (by [Polstick1971](https://www.reddit.com/user/Polstick1971/))
 
-> **Type:** `Cinematic Photo`
+<p>
+
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -896,7 +1236,17 @@ Space age 60’s style living room. Golden hour. Nostalgic feeling.
 <a id="cases-35"></a>
 ### Case 35: Comic-Book Ouroboros with Ben Day Dots (by [SupehCookie](https://www.reddit.com/user/SupehCookie/))
 
-> **Type:** `Stylized Characters`
+<p>
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -918,7 +1268,17 @@ an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look lik
 <a id="cases-36"></a>
 ### Case 36: Prompt Overload Dystopian Desert (by [ComprehensiveLead198](https://www.reddit.com/user/ComprehensiveLead198/))
 
-> **Type:** `Surreal Concepts`
+<p>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+
+
+
+</p>
 
 [Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
 
@@ -940,7 +1300,17 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 <a id="cases-37"></a>
 ### Case 37: 绝区零 × 喜茶 霓虹联动海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -973,7 +1343,17 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 <a id="cases-38"></a>
 ### Case 38: 美团 赛博黄历 复古符箓海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1003,7 +1383,17 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 <a id="cases-39"></a>
 ### Case 39: 奈斯派索 上海装饰艺术海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1044,7 +1434,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-40"></a>
 ### Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1087,7 +1487,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-41"></a>
 ### Case 41: 成都慢行图 手绘旅游地图 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Maps Layout`
+<p>
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1130,7 +1540,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-42"></a>
 ### Case 42: 大唐长安 插画长卷地图 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Maps Layout`
+<p>
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1179,7 +1599,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-43"></a>
 ### Case 43: 老北京航拍：光影显形的“衚”字 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Maps Layout`
+<p>
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1217,7 +1647,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-44"></a>
 ### Case 44: 过肩镜头：雨夜瘦金体书稿 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Physics`
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+
+
+
+
+
+
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1261,7 +1701,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-45"></a>
 ### Case 45: 蜜雪冰城商业海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
-> **Type:** `Typography`
+<p>
+
+
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+
+
+
+
+
+
+</p>
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
@@ -1302,7 +1752,17 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 <a id="cases-46"></a>
 ### Case 46: Chibi Sticker Sheet with Expressive Poses (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1328,7 +1788,17 @@ Making a playful peace sign with both hands and winking. Tearful eyes and slight
 <a id="cases-47"></a>
 ### Case 47: Chibi Funko Pop 3D Character Render (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1354,7 +1824,17 @@ Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the p
 <a id="cases-48"></a>
 ### Case 48: Ghibli-Style Redraw of Reference Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1380,7 +1860,17 @@ Redraw this photo in Ghibli style
 <a id="cases-49"></a>
 ### Case 49: Rhythm Dance Game Scene with 3D Character (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1406,7 +1896,17 @@ A vibrant rhythm dance game screenshot featuring the 3D animated character from 
 <a id="cases-50"></a>
 ### Case 50: Photorealistic Multi-Image Composite (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1432,7 +1932,17 @@ Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesi
 <a id="cases-51"></a>
 ### Case 51: Image Style Transfer Between Two Photos (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1458,7 +1968,17 @@ Transform this image [Image1] into the artistic style of [Image2]. Keep the main
 <a id="cases-52"></a>
 ### Case 52: Outfit Swap with New Pants from Reference (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1484,7 +2004,17 @@ Keep the character in [Image1] unchanged, but replace her pant with the outfit i
 <a id="cases-53"></a>
 ### Case 53: Facial Expression Editing of the Same Person (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1510,7 +2040,17 @@ Keep the person from [Image1] unchanged, but change their facial expression to [
 <a id="cases-54"></a>
 ### Case 54: Pose Transfer Between Two Men (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1536,7 +2076,17 @@ Take the two men and place them in the exact poses of the man in green carrying 
 <a id="cases-55"></a>
 ### Case 55: Body Reshaping While Preserving Identity (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1562,7 +2112,17 @@ Reshape the body of the person in [Image1] into a [target body type]. Keep the f
 <a id="cases-56"></a>
 ### Case 56: Nine Half-Length Portraits in Natural Environments (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1588,7 +2148,17 @@ Using the uploaded photo as a reference, generate a set of 9 vibrant half-length
 <a id="cases-57"></a>
 ### Case 57: Background Replacement for a Subject (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1614,7 +2184,17 @@ Replace the background of [Image1] with [desired background description, e.g., a
 <a id="cases-58"></a>
 ### Case 58: Adding a New Element into a Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1640,7 +2220,17 @@ Add [desired element, e.g., a tree, a lamp, a dog] to [Image1]. Place it natural
 <a id="cases-59"></a>
 ### Case 59: Object Removal and Clean Background Fill (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1666,7 +2256,17 @@ Remove [element to remove, e.g., a person, a car, a sign] from [Image1]. Fill th
 <a id="cases-60"></a>
 ### Case 60: Four Camera Angles of the Same Scene (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1697,7 +2297,17 @@ Close-up portrait view.
 <a id="cases-61"></a>
 ### Case 61: Seamless Text Editing in an Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1723,7 +2333,17 @@ Edit the text in [Image1]. Replace the existing text with “[your new text]” 
 <a id="cases-62"></a>
 ### Case 62: Ten-Minute-Later Version of the Same Scene (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1749,7 +2369,17 @@ Generate an image of the same scene as [Image1], but showing how it looks 10 min
 <a id="cases-63"></a>
 ### Case 63: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** `Image Editing`
+<p>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1775,8 +2405,6 @@ Extract the clothing from [Image1] and present it as a clean e-commerce product 
 <a id="cases-64"></a>
 ### Case 64: High-Quality Photo Enhancement from Reference Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/64/case.webp" width="300" alt="An enhanced version of the original reference photo with improved resolution, sharpness, texture clarity, and realistic lighting while preserving the original composition and colors."><br>
@@ -1800,8 +2428,6 @@ Enhance [Image1] to improve overall quality and detail. Keep the original compos
 
 <a id="cases-65"></a>
 ### Case 65: Weather Transformation Based on Reference Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1827,8 +2453,6 @@ Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, s
 <a id="cases-66"></a>
 ### Case 66: Color Grading and Palette Adjustment from Reference Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/66/case.webp" width="300" alt="A recolored version of the reference image where the overall color scheme, lighting, and shadows are adjusted to a new palette while preserving the original subject and composition."><br>
@@ -1852,8 +2476,6 @@ Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool bl
 
 <a id="cases-67"></a>
 ### Case 67: Targeted content replacement in a reference image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1879,8 +2501,6 @@ Replace [target element or area] in [Image1] with [new element or reference, e.g
 <a id="cases-68"></a>
 ### Case 68: Image Outpainting Extension from Reference Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/68/case.webp" width="300" alt="An extended version of the original reference photo where new content has been generated beyond the original borders, seamlessly matching the style, colors, lighting, and perspective."><br>
@@ -1904,8 +2524,6 @@ Extend [Image1] beyond its original borders using outpainting. Keep the main sub
 
 <a id="cases-69"></a>
 ### Case 69: Dual-Image Redraw and Aspect Ratio Transfer (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1932,8 +2550,6 @@ Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figur
 <a id="cases-70"></a>
 ### Case 70: 3x3 Studio-Style Photo Strip Grid (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/70/case.webp" width="300" alt="A 3x3 grid of photo strips derived from the original image, each panel showing different studio-style poses and facial expressions in a cohesive layout."><br>
@@ -1957,8 +2573,6 @@ Turn the photo into a 3x3 grid of photo strips with different studio-style poses
 
 <a id="cases-71"></a>
 ### Case 71: Line Art to Fully Colored Illustration (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -1984,8 +2598,6 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 <a id="cases-72"></a>
 ### Case 72: Line Art Colorization with Detailed Rendering (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/72/case.webp" width="300" alt="A richly colored, fully rendered version of the original line art, keeping all line work intact while adding detailed lighting, shadows, and textures in the chosen style."><br>
@@ -2009,8 +2621,6 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 
 <a id="cases-73"></a>
 ### Case 73: Two-Step Living Room Redesign from Reference Photos (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2039,8 +2649,6 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 <a id="cases-74"></a>
 ### Case 74: Object or Scene Creation from Listed Items (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/74/case.webp" width="300" alt="An image of a logically composed object or scene constructed from the provided list of items, with clear placement, appropriate proportions, and a coherent visual style."><br>
@@ -2064,8 +2672,6 @@ Here are the items available: [List of items]. Based on these items, create an i
 
 <a id="cases-75"></a>
 ### Case 75: Anatomical Infographic of a Fictional Character (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2091,8 +2697,6 @@ Draw a bilaterally symmetrical frontal anatomical illustration of the [Character
 <a id="cases-76"></a>
 ### Case 76: 16-Bit Video Game Character Recreation (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/76/case.webp" width="300" alt="A 16-bit pixel art version of the original character placed in a side-scrolling 2D platformer level, retaining the character’s key features within a retro game environment."><br>
@@ -2116,8 +2720,6 @@ Recreate this [Character] as a 16-bit video game character, and place the charac
 
 <a id="cases-77"></a>
 ### Case 77: Polaroid-Style Snapshot with Curtain Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2143,8 +2745,6 @@ Take a picture with a Polaroid camera. The photo should look like a normal photo
 <a id="cases-78"></a>
 ### Case 78: Soft Sunlit Portrait in Yellow Saree (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/78/case.webp" width="300" alt="A soft, sunlit portrait of a person in a flowing sheer yellow saree with floral embroidery, seated against a plain wall with artistic sunlight, holding sunflowers and exuding a serene, romantic mood."><br>
@@ -2168,8 +2768,6 @@ Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicat
 
 <a id="cases-79"></a>
 ### Case 79: Polaroid Hug Scene with White Curtain Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2195,8 +2793,6 @@ Take a photo taken with a Polaroid camera. The photo should look like an ordinar
 <a id="cases-80"></a>
 ### Case 80: Top-Angle Black-and-White Portrait (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/80/case.webp" width="300" alt="A high-resolution black-and-white close-up portrait shot from a high angle, focusing on the face, upper chest, and shoulders against a deep black shadow background."><br>
@@ -2220,8 +2816,6 @@ Please generate a top-angle and close-up black and white portrait of my face, fo
 
 <a id="cases-81"></a>
 ### Case 81: Vertical Cinematic Portrait with Red Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2247,8 +2841,6 @@ Create a vertical potrait shot using the exact same face features, characterized
 <a id="cases-82"></a>
 ### Case 82: Exploded Technical View of a Product (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/82/case.webp" width="300" alt="An ultra-detailed exploded view of a product with metallic parts and electronic components floating in mid-air, perfectly aligned to reveal the internal structure with cinematic lighting."><br>
@@ -2272,8 +2864,6 @@ Ultra-detailed exploded view of a product, metallic parts and electronic compone
 
 <a id="cases-83"></a>
 ### Case 83: 100x Zoom Detail View of a Scene (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2299,8 +2889,6 @@ Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that t
 <a id="cases-84"></a>
 ### Case 84: Storyboard Generated from a Single Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/84/case.jpg" width="300" alt="A storyboard derived from the uploaded image, showing key moments and transitions with cinematic framing, camera movements, and angles that convey the scene’s narrative flow."><br>
@@ -2324,8 +2912,6 @@ Create a storyboard from the uploaded image, highlighting key moments and transi
 
 <a id="cases-85"></a>
 ### Case 85: Tom Yum Goong Soup Recipe Infographic (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
@@ -2351,8 +2937,6 @@ Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingre
 <a id="cases-86"></a>
 ### Case 86: Background and Blanket Focus with Blurred Child (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
 
-> **Type:** ``
-
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
 <img src="cases/86/case.jpg" width="300" alt="A photograph where the trees and blanket in the background are sharp and emphasized, while the child in the foreground is intentionally blurred."><br>
@@ -2376,8 +2960,6 @@ Focus on the background trees and blanket of this image, blur this kid.
 
 <a id="cases-87"></a>
 ### Case 87: Minimal Food Letter Logos on White Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
-
-> **Type:** ``
 
 [Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
 
