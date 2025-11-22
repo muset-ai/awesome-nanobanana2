@@ -9,3 +9,5 @@ reference_images: []
 prompt: 生成《红楼梦》里面主要人物的关系图谱，中文版
 submitter: ''
 submitter_link: ''
+capability_code: C7
+capability_type: Maps Layout

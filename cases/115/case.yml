@@ -9,3 +9,5 @@ reference_images: []
 prompt: 微信截图，爱因斯坦刚刚完成相对论后发布的一条超写实风格的微信朋友圈。包含一张自拍照，照片中清晰可见背景中的粉笔板和潦草的公式。朋友圈下方显示尼古拉·特斯拉点赞了该内容。
 submitter: ''
 submitter_link: ''
+capability_code: C9
+capability_type: Image Editing

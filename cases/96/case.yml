@@ -10,3 +10,5 @@ reference_images:
 prompt: 在黑板上写出道题的解答过程。（2025全国卷高考题，答案正确！）
 submitter: ''
 submitter_link: ''
+capability_code: C3
+capability_type: Typography

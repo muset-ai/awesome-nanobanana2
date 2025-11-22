@@ -11,3 +11,5 @@ reference_images:
 prompt: 把图片中的文字翻译成中文，其他的保持不变   给这个漫画变成真人风格的
 submitter: ''
 submitter_link: ''
+capability_code: C9
+capability_type: Image Editing

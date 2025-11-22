@@ -10,3 +10,5 @@ reference_images:
 prompt: 给图里的人物生成工作室拍摄肖像照片,黑色背景,黑色T恤,采用侧光和半身像的构图
 submitter: ''
 submitter_link: ''
+capability_code: C9
+capability_type: Image Editing

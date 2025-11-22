@@ -9,3 +9,5 @@ reference_images: []
 prompt: 生成一页PPT，介绍Gemini 3 Pro主要功能亮点，谷歌的视觉风格
 submitter: ''
 submitter_link: ''
+capability_code: C3
+capability_type: Typography

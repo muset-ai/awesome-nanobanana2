@@ -9,3 +9,5 @@ reference_images: []
 prompt: 画一张中文科普图，详细解释“宇称不守恒”原理
 submitter: ''
 submitter_link: ''
+capability_code: C1
+capability_type: Physics

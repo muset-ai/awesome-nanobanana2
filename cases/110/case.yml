@@ -9,3 +9,5 @@ reference_images: []
 prompt: 以老夫子漫画的风格，画一组漫画，讽刺俞敏洪南极游玩，却给公司正在加班的员工发周年祝贺信，形成鲜明对比，文案请自行设计
 submitter: ''
 submitter_link: ''
+capability_code: C4
+capability_type: Multi Character

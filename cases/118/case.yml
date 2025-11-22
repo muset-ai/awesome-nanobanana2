@@ -9,3 +9,5 @@ reference_images: []
 prompt: 生成一页PPT，详细解释Nano Banana 2的优势，Bento Grid的视觉风格，深色，中文
 submitter: ''
 submitter_link: ''
+capability_code: C3
+capability_type: Typography

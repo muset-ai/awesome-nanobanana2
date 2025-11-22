@@ -9,3 +9,5 @@ reference_images: []
 prompt: 生成一张微信聊天截图，对话内容为Nano Banana 2发布了，什么都可以造假，大家小心。具体文案请自行设计，用真人头像
 submitter: ''
 submitter_link: ''
+capability_code: C9
+capability_type: Image Editing

@@ -9,3 +9,5 @@ reference_images: []
 prompt: 画出航空发动机的3D结构渲染透视图，并用中文标出各个部位的名字
 submitter: ''
 submitter_link: ''
+capability_code: C1
+capability_type: Physics
