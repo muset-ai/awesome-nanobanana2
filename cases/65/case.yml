@@ -1,0 +1,14 @@
+title: "Weather Transformation Based on Reference Image"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "A transformed version of the original photo where the weather has been changed while keeping the main subject and scene intact, with lighting, shadows, and colors adjusted to match the new weather in a photorealistic way."
+reference_images:
+  - input.webp
+prompt: |
+  Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, sunny]. Keep the main subject and overall scene intact. Adjust lighting, shadows, colors, and environmental effects to match the new weather. Photorealistic, seamless integration, high-resolution.
+submitter: ""
+submitter_link: ""
+

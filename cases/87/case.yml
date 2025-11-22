@@ -1,0 +1,14 @@
+title: "Minimal Food Letter Logos on White Background"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.jpg
+alt_text: "A set of eight sophisticated minimalistic logos arranged on a solid white background, each logo forming letters made from realistic food to express the meaning of the word."
+reference_images:
+  - input.jpg
+prompt: |
+  Turn these 8 Logos into sophisticated minimalistic logos to make letters from realistic food to express the meaning of this word. Composition: rendering of all logos on a single solid white background.
+submitter: ""
+submitter_link: ""
+

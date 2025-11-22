@@ -1,0 +1,14 @@
+title: "Targeted content replacement in a reference image"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "A photorealistic image where a specific target element from the reference image has been replaced with a new subject, seamlessly blended with the original lighting, perspective, and style."
+reference_images:
+  - input.webp
+prompt: |
+  Replace [target element or area] in [Image1] with [new element or reference, e.g., a different person, object, or scene]. Keep all other parts of the image unchanged. Ensure the replacement blends naturally with lighting, perspective, and overall style. Photorealistic, high-resolution, seamless integration.
+submitter: ""
+submitter_link: ""
+

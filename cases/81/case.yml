@@ -1,0 +1,14 @@
+title: "Vertical Cinematic Portrait with Red Background"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "A vertical portrait of the same face captured from a slightly low angle with stark cinematic lighting, intense contrast, and a deep crimson red background contrasting with luminous skin and dark clothing."
+reference_images:
+  - input.webp
+prompt: |
+  Create a vertical potrait shot using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.
+submitter: ""
+submitter_link: ""
+

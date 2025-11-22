@@ -1,0 +1,14 @@
+title: "16-Bit Video Game Character Recreation"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "A 16-bit pixel art version of the original character placed in a side-scrolling 2D platformer level, retaining the character’s key features within a retro game environment."
+reference_images:
+  - input.webp
+prompt: |
+  Recreate this [Character] as a 16-bit video game character, and place the character in a level of a 2D 16-bit platform video game.
+submitter: ""
+submitter_link: ""
+

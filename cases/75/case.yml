@@ -1,0 +1,14 @@
+title: "Anatomical Infographic of a Fictional Character"
+author: "Marvin"
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+  - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
+image: case.webp
+alt_text: "A bilaterally symmetrical frontal anatomical illustration of a fictional character, showing external features and partially exposed internal anatomy with explanatory infographic-style labels."
+reference_images:
+  - input.webp
+prompt: |
+  Draw a bilaterally symmetrical frontal anatomical illustration of the [Character], styled similarly to an infographic. The image should show the creature's external features on both sides, with its internal anatomy partially exposed. Detailed text should flank the image, explaining the creature's biology, abilities, behavior, habitat, and the specific functions of its anatomical structures. The overall design should be clear, informative, and in the style of a scientific illustration.
+submitter: ""
+submitter_link: ""
+
