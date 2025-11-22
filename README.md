@@ -2543,6 +2543,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-88"></a>
 ### No. 88: 水调歌头 词意与意境
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/88/407.output.1.webp" width="300" alt="展示《水调歌头》全文的艺术插图，展现明月、青天和人们的思绪与情感，体现古典诗词的意境与美感。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2561,6 +2565,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-89"></a>
 ### No. 89: 古老石碑上的《青玉案·元夕》
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/89/408.output.1.webp" width="300" alt="一块破旧的石碑，上面用行书字体刻着《青玉案·元夕》全文，背景是荒郊野外，传达出沧桑感。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2581,6 +2589,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-90"></a>
 ### No. 90: 感恩节主题黑板报
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/90/409.output.1.webp" width="300" alt="教室后面装饰的黑板报，展示了丰富的感恩节主题内容，包括感恩的图案和文字。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2599,6 +2611,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-91"></a>
 ### No. 91: 90年代情书：春娇写给志明
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/91/410.output.1.webp" width="300" alt="一封90年代风格的情书，使用钢笔书写，内容深情感人，传达春娇对志明的情感，纸张呈现出老旧感和年代感。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2619,6 +2635,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-92"></a>
 ### No. 92: 三天两晚北京旅游攻略手帐风格
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/92/411.output.1.webp" width="300" alt="手帐风格的北京旅游攻略图，包含三天两晚的详细行程安排，呈现出丰富的旅游信息和视觉元素。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2637,6 +2657,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-93"></a>
 ### No. 93: 猎人野味湘菜餐馆经典菜单
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/93/412.output.1.webp" width="300" alt="一份包含16道经典湘菜的实拍菜单，展示多样的湘菜美食，色彩鲜艳，诱人食欲。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2657,6 +2681,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-94"></a>
 ### No. 94: 宇称不守恒原理科普图
 
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
+
 <img src="cases/94/413.output.1.webp" width="300" alt="一张中文科普图，详细解释宇称不守恒原理，包括相关图示和文字说明。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2676,6 +2704,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-95"></a>
 ### No. 95: 《红楼梦》主要人物关系图谱
 
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
+
 <img src="cases/95/414.output.1.webp" width="300" alt="一幅展示《红楼梦》主要人物及其关系的图谱，包含人物名称和相互关系的连线，使用中文标注。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2694,6 +2726,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-96"></a>
 ### No. 96: 黑板上的高考解答过程
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/96/415.output.1.webp" width="300" alt="黑板上清晰地写出2025年全国高考题的解答过程，答案正确，字迹工整。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2718,6 +2754,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-97"></a>
 ### No. 97: MBTI 16型人格图（中文版）
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/97/416.output.1.webp" width="300" alt="一幅展示16种MBTI人格类型的图表，标注中文名称和特征"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2736,6 +2776,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-98"></a>
 ### No. 98: 航空发动机3D结构透视图
+
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
 
 <img src="cases/98/417.output.1.webp" width="300" alt="一幅航空发动机的3D结构渲染透视图，图中标注了各个部位的名称，展示了发动机的内部构造和设计细节。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2756,6 +2800,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-99"></a>
 ### No. 99: 黑金立体3D文字与传统印章设计
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/99/418.output.1.webp" width="300" alt="一幅立体设计的图像，展示了黑金色的3D行书文字，内容为‘生活给你的不是标准答案，而是思考题。重要的不是发生了什么，而是你从中领悟到了什么？’并带有一枚横写的传统印章，印文为‘创意猎人’"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2774,6 +2822,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-100"></a>
 ### No. 100: 创意猎人 - 街头涂鸦风格字体设计
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/100/419.output.1.webp" width="300" alt="一幅展示街头涂鸦风格的字体设计，大字‘创意猎人’与小字‘AIGCreativeHunter’，字体夸张变形，具有强烈的粗细对比和不规则切割效果，背景为纯黑色，装饰有蓝色渐变线条和开学季元素的抽象点缀。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2794,6 +2846,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-101"></a>
 ### No. 101: 苍劲有力的北京书法艺术
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/101/420.output.1.webp" width="300" alt="一幅在纯白背景上用毛笔书法书写的'北京'，字形结合了北京地标建筑和著名景点，展现极繁主义风格，颜色鲜艳，带有3D效果，红色结印作为点缀，底部有极小字'AIGCreativeHunter'"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2812,6 +2868,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-102"></a>
 ### No. 102: 夏日傍晚的浪漫海边情感海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/102/421.output.1.webp" width="300" alt="一幅海边情感海报，背景为橙红色的落日渐变，海面与地面反射光影，两个黑色剪影行人与路灯相映衬，手写体中文文案表达浪漫的感觉，英文字体补充说明，整体氛围温暖而艺术感十足。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2832,6 +2892,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-103"></a>
 ### No. 103: 梦幻唐代荔枝海报
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/103/422.output.1.webp" width="300" alt="一幅高级感插画，描绘了一名唐代青衣中年男子骑马奔腾于金粉飞溅的地面上，背景是天空和荔枝树，顶部有红色隆起表面，诗句‘一骑红尘妃子笑，无人知是荔枝来’隐约可见，整体呈现出史诗感和梦幻的氛围。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2850,6 +2914,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-104"></a>
 ### No. 104: HUNTER 高端品牌鞋靴广告
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/104/423.output.1.webp" width="300" alt="一双高端鞋靴以动态透视形式展示在方格纸背景上，旁边附有技术草图和手写注释。角落里是一张运动中的品牌服装的真实照片，搭配街头时尚。产品口号以粗体排版突出显示，布局中包含产品规格标签和品牌色彩参考。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2870,6 +2938,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-105"></a>
 ### No. 105: 搞怪创意海报：牛马注意警示标识
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/105/424.output.1.webp" width="300" alt="一张搞怪风格的海报，展示了带有牛图案的黄色警示标识和 '牛馬注意' 文字牌，背景为户外草地和蓝天，营造出轻松诙谐的氛围，配有多个幽默的文字说明，整体色调明亮活泼。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2889,6 +2961,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-106"></a>
 ### No. 106: 时尚电影肖像：年轻女性坐在现代椅子上
 
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/106/425.output.1.webp" width="300" alt="一位年轻女性穿着全黑服装，坐在现代椅子上，3/4视角，身体微微向后倾斜，一只手臂搭在椅子上，背景是深色墙壁，窗户投射出几何光影，整体光线柔和且富有戏剧性。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2907,6 +2983,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-107"></a>
 ### No. 107: 工作室肖像照片
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/107/426.output.1.webp" width="300" alt="一位穿着黑色T恤的人物在黑色背景前拍摄的半身肖像，采用侧光照明。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2931,6 +3011,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-108"></a>
 ### No. 108: 米色工作室中的极简主义肖像系列
 
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/108/427.output.1.webp" width="300" alt="一组在干净柔和的米色工作室拍摄的极简主义肖像，展示不同角度和特写的面部细节，模特穿着深蓝色衬衫和象牙色裤子，营造亲密且内省的氛围。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2949,6 +3033,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-109"></a>
 ### No. 109: 高端洗发水广告：Nano Banana 2
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/109/428.output.1.webp" width="300" alt="一瓶透明质感的洗发水，瓶身印有品牌英文'Nano Banana 2'和slogan'AIGCreativeHunter'，深色按压泵头，液体从顶部流动滴落，背景为浅色渐变，营造出高端、轻奢的产品广告氛围。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -2969,6 +3057,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-110"></a>
 ### No. 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比
 
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
+
 <img src="cases/110/429.output.1.webp" width="300" alt="一组老夫子风格的漫画，讽刺俞敏洪在南极度假时给加班员工发周年祝贺信，展示两者之间的鲜明对比。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -2987,6 +3079,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-111"></a>
 ### No. 111: 真人风格的漫画翻译
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/111/430.output.1.webp" width="300" alt="一幅将漫画角色转化为真人风格的插图，包含中文翻译的文字"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -3012,6 +3108,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 <a id="cases-112"></a>
 ### No. 112: 简约高级AI产品商店设计
 
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
+
 <img src="cases/112/431.output.1.webp" width="300" alt="一个简约而高级的线下商店内景，展示了多款AI产品的外包装，包括ChatGPT、Gemini、Claude、Midjourney、Lovart和TapNow等。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -3030,6 +3130,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 
 <a id="cases-113"></a>
 ### No. 113: Nano Banana 2 - Fictional Pharmaceutical Product
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/113/432.output.1.webp" width="300" alt="A digital photograph of a fictional pharmaceutical product called 'Nano Banana 2'. The minimalist box on the left features bold text and a tagline 'Take one 1 daily'. Beside it is a silver blister pack containing banana-shaped pills. The image has a neutral background and soft lighting."><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -3050,6 +3154,10 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 <a id="cases-114"></a>
 ### No. 114: 微信聊天截图：Nano Banana 2发布警告
 
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
+
 <img src="cases/114/433.output.1.webp" width="300" alt="一张微信聊天截图，显示用户讨论Nano Banana 2的发布，内容提醒大家注意可能的虚假信息，配有真人头像。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -3068,6 +3176,10 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 
 <a id="cases-115"></a>
 ### No. 115: 爱因斯坦发布相对论后的微信朋友圈
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/115/434.output.1.webp" width="300" alt="一张超写实风格的微信截图，爱因斯坦在朋友圈中分享自拍，背景有粉笔板和潦草的公式，尼古拉·特斯拉点赞了该内容。"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
@@ -3088,6 +3200,10 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 <a id="cases-116"></a>
 ### No. 116: 斗地主游戏UI界面
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/116/435.output.1.webp" width="300" alt="一个斗地主游戏的用户界面，显示牌桌、玩家手牌和游戏操作按钮"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -3107,6 +3223,10 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 <a id="cases-117"></a>
 ### No. 117: Gemini 3 Pro 主要功能亮点介绍
 
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
+
 <img src="cases/117/436.output.1.webp" width="300" alt="一页PPT展示Gemini 3 Pro的主要功能亮点，采用谷歌的视觉风格，包含图表和文本信息"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
@@ -3125,6 +3245,10 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 
 <a id="cases-118"></a>
 ### No. 118: Nano Banana 2的优势与Bento Grid视觉风格
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/118/438.output.1.webp" width="300" alt="一页PPT展示Nano Banana 2的优势以及Bento Grid的深色视觉风格，内容为中文"><br>
 <sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
