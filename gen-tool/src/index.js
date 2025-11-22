@@ -39,6 +39,35 @@ for (const c of cases) {
       ? `[${t.source_link_caption}](${c.source_links[0].url})`
     : c.source_links.map((link, i) => `[${t.source_link_caption}${i + 1}](${link.url})`).join(' | ');
 
+    // Process capability types
+    let capabilityTypes = [];
+    if (Array.isArray(c.capability_type)) {
+      capabilityTypes = c.capability_type;
+    } else if (c.capability_type) {
+      capabilityTypes = [c.capability_type];
+    }
+
+    const badgeMap = {
+      'Physics': { color: '3b82f6', name: 'Physics', key: 'physics' },
+      'Cinematic Photo': { color: '8b5cf6', name: 'Cinematic_Photo', key: 'cinematic' },
+      'Typography': { color: '10b981', name: 'Typography', key: 'typography' },
+      'Multi Character': { color: 'f59e0b', name: 'Multi_Character', key: 'multi_character' },
+      'Stylized Characters': { color: 'ec4899', name: 'Stylized_Characters', key: 'stylized' },
+      'Surreal Concepts': { color: '06b6d4', name: 'Surreal_Concepts', key: 'surreal' },
+      'Maps Layout': { color: 'eab308', name: 'Maps_Layout', key: 'maps' },
+      'Pattern Design': { color: 'ef4444', name: 'Pattern_Design', key: 'pattern' },
+      'Image Editing': { color: '6366f1', name: 'Image_Editing', key: 'editing' }
+    };
+
+    const badges = capabilityTypes.map(type => {
+      const info = badgeMap[type];
+      if (!info) return null;
+      return {
+        name: type,
+        url: `https://img.shields.io/badge/Type-${info.name}-${info.color}?style=flat-square`
+      };
+    }).filter(b => b !== null);
+
     cases_contents += Mustache.render(case_template, {
       case_no: c.case_no,
       t: t,
@@ -49,16 +78,9 @@ for (const c of cases) {
       image: c.image,
       alt_text: c.alt_text.trim(),
       capability_code: c.capability_code,
-      capability_type: c.capability_type,
-      capability_type_physics: c.capability_type === 'Physics',
-      capability_type_cinematic: c.capability_type === 'Cinematic Photo',
-      capability_type_typography: c.capability_type === 'Typography',
-      capability_type_multi_character: c.capability_type === 'Multi Character',
-      capability_type_stylized: c.capability_type === 'Stylized Characters',
-      capability_type_surreal: c.capability_type === 'Surreal Concepts',
-      capability_type_maps: c.capability_type === 'Maps Layout',
-      capability_type_pattern: c.capability_type === 'Pattern Design',
-      capability_type_editing: c.capability_type === 'Image Editing',
+      capability_type: capabilityTypes, // Pass array for web data
+      badges: badges,
+      has_badges: badges.length > 0,
       attribution: c.attribution,
       prompt: c.prompt.trim(),
       reference_images: c.reference_images || [],

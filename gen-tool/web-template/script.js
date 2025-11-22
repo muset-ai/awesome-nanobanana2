@@ -19,7 +19,11 @@ document.addEventListener('DOMContentLoaded', () => {
             const types = new Set();
             data.cases.forEach(c => {
                 if (c.capability_type) {
-                    types.add(c.capability_type);
+                    if (Array.isArray(c.capability_type)) {
+                        c.capability_type.forEach(t => types.add(t));
+                    } else {
+                        types.add(c.capability_type);
+                    }
                 }
             });
 
@@ -62,8 +66,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         if (filterValue === 'all') {
                             card.style.display = 'grid';
                         } else {
-                            const cardType = card.dataset.type;
-                            if (cardType === filterValue) {
+                            // Get types from dataset, split by comma
+                            const cardTypes = (card.dataset.types || '').split(',');
+                            if (cardTypes.includes(filterValue)) {
                                 card.style.display = 'grid';
                             } else {
                                 card.style.display = 'none';
@@ -121,8 +126,16 @@ function createCaseCard(c) {
     const card = document.createElement('article');
     card.className = 'case-card';
     card.id = `case-${c.case_no}`;
-    if (c.capability_type) {
-        card.dataset.type = c.capability_type;
+    
+    let capabilityTypes = [];
+    if (Array.isArray(c.capability_type)) {
+        capabilityTypes = c.capability_type;
+    } else if (c.capability_type) {
+        capabilityTypes = [c.capability_type];
+    }
+    
+    if (capabilityTypes.length > 0) {
+        card.dataset.types = capabilityTypes.join(',');
     }
 
     // 1. Info Column (Prompt & Meta)
@@ -130,7 +143,7 @@ function createCaseCard(c) {
     infoCol.className = 'case-info';
 
     let typeBadgeHTML = '';
-    if (c.capability_type) {
+    if (capabilityTypes.length > 0) {
         // Map types to CSS classes
         const typeMap = {
             'Physics': 'type-physics',
@@ -143,15 +156,18 @@ function createCaseCard(c) {
             'Pattern Design': 'type-pattern',
             'Image Editing': 'type-editing'
         };
-        const badgeClass = typeMap[c.capability_type] || 'type-editing';
-        typeBadgeHTML = `<span class="type-badge ${badgeClass}">${c.capability_type}</span>`;
+        
+        capabilityTypes.forEach(type => {
+            const badgeClass = typeMap[type] || 'type-editing';
+            typeBadgeHTML += `<span class="type-badge ${badgeClass}">${type}</span> `; // Added space for separation
+        });
     }
 
     const headerHTML = `
         <div class="case-header">
             <span class="case-id">#${c.case_no}</span>
             <h2 class="case-title">${c.title}</h2>
-            ${typeBadgeHTML}
+            <div class="type-badges">${typeBadgeHTML}</div>
         </div>
     `;
 

@@ -115,6 +115,13 @@ body {
 .filter-btn.type-editing:hover, .filter-btn.type-editing.active { background-color: rgba(99, 102, 241, 0.15); color: #818cf8; border-color: #818cf8; }
 
 /* Type Badge Colors */
+.type-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 12px;
+}
+
 .type-badge {
     display: inline-flex;
     align-items: center;
@@ -122,7 +129,6 @@ body {
     border-radius: 4px;
     font-size: 0.75rem;
     font-weight: 600;
-    margin-bottom: 12px;
     letter-spacing: 0.02em;
 }
 

@@ -171,9 +171,10 @@ A cozy dining table scene. On the wall, a clock showing exactly 11:15 with corre
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-2"></a>
 ### No. 2: Math/Formula Boards & Logical Layouts
@@ -201,9 +202,10 @@ A professor teaching in a classroom. Large blackboard behind them filled with a 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-3"></a>
 ### No. 3: CCTV Footage
@@ -231,9 +233,10 @@ cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talki
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-4"></a>
 ### No. 4: CNN Election Results TV Broadcast
@@ -261,9 +264,10 @@ A realistic close-up of a television screen displaying CNN U.S. election results
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-5"></a>
 ### No. 5: Five Adventurers in a Luminous Cave
@@ -291,9 +295,10 @@ an animated illustration of a party of five adventurers navigating a cave system
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-6"></a>
 ### No. 6: A Motorbike Made of Sharks
@@ -321,9 +326,10 @@ A motorbike made of sharks
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-7"></a>
 ### No. 7: Biden’s Dog Holding a 2018 Newspaper
@@ -351,9 +357,10 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-8"></a>
 ### No. 8: Elderly Couple Watching a B-2 Bomber
@@ -381,9 +388,10 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-9"></a>
 ### No. 9: Stylized 3D Zombie Character
@@ -411,9 +419,10 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-10"></a>
 ### No. 10: Man Drinking Sushi Water Under Surreal Skies
@@ -441,9 +450,10 @@ A man drinking bottle of sushi water and looking at beautiful-shaped skies, smir
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-11"></a>
 ### No. 11: Grizzly Bear Showing a Meme to a Hiker
@@ -471,9 +481,10 @@ A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-12"></a>
 ### No. 12: Floral Calculus Blackboard
@@ -501,9 +512,10 @@ A hard calculus integration problem written and solved on a blackboard, but the 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-13"></a>
 ### No. 13: Lightning Radar Browser UI
@@ -531,9 +543,10 @@ Lightning Radar: A copy of the browser version of Lightning Radar.
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-14"></a>
 ### No. 14: Duck, Chicken and Parrot Riding a Scooter
@@ -561,9 +574,10 @@ A duck riding a chicken that sits in the shoulders of a parrot that drives and e
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-15"></a>
 ### No. 15: One-Eyed Whippet on a Moped
@@ -591,9 +605,10 @@ A whippet with an eye patch riding a moped through a UK street filled with shops
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-16"></a>
 ### No. 16: Gemini Solves Cancer and World Peace
@@ -621,9 +636,10 @@ Gemini finding cure to cancer and establishing world peace
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-17"></a>
 ### No. 17: Big-Headed Superhero Sprite Sheet
@@ -651,9 +667,10 @@ a sprite sheet for various animation for a single character for a 2d game. The h
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-18"></a>
 ### No. 18: Sun Exploding into Pigeons
@@ -681,9 +698,10 @@ A very photorealistic image of the Sun vigorously exploding into a bunch of pige
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-19"></a>
 ### No. 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty
@@ -711,9 +729,10 @@ An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler b
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-20"></a>
 ### No. 20: Soviet Manual on Human-Wolf Hybrids
@@ -741,9 +760,10 @@ A soviet biology textbook open to the page describing how to hybridize a human a
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-21"></a>
 ### No. 21: Business Conversation Film Still
@@ -771,9 +791,10 @@ A redhead woman in a black blazer talks with a man in a blue business suit. Indo
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-22"></a>
 ### No. 22: Orchestra Playing 'Baby Got Back' in Vienna
@@ -801,9 +822,10 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-23"></a>
 ### No. 23: Cats Boxing in the Ring
@@ -831,9 +853,10 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-24"></a>
 ### No. 24: Volcanic Werewolf Camo Pattern
@@ -861,9 +884,10 @@ Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-25"></a>
 ### No. 25: Sveavägen Street in Stockholm
@@ -891,9 +915,10 @@ Sveavägen, Stockholm
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-26"></a>
 ### No. 26: Web App UI with QR Code
@@ -921,9 +946,10 @@ Generate a mock UI for a web application with modern styling and CSS. Place a QR
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-27"></a>
 ### No. 27: CT5-V Blackwing and Purple Hellcat at Dusk
@@ -951,9 +977,10 @@ A ct5 v black wing radiant red and a gloss purple hellcat parked together in a e
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-28"></a>
 ### No. 28: Brazilian Zouk Demo at Warsaw Zouk Festival
@@ -981,9 +1008,10 @@ A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-29"></a>
 ### No. 29: Wind Turbine over the Swiss Alps
@@ -1011,9 +1039,10 @@ Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day,
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-30"></a>
 ### No. 30: Anne Boleyn Actress iPhone Selfie
@@ -1041,9 +1070,10 @@ Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn.
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-31"></a>
 ### No. 31: Tiny Human Inside an Acoustic Guitar
@@ -1071,9 +1101,10 @@ a tiny human standing in the inside of an accoustic guitar revealing all the inn
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-32"></a>
 ### No. 32: Blue Oranges and a Purple Apple
@@ -1101,9 +1132,10 @@ Photo of a white bowl filled with blue oranges and a singular purple apple in th
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-33"></a>
 ### No. 33: A Burger, but not
@@ -1131,9 +1163,10 @@ A Burger, but not.
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-34"></a>
 ### No. 34: Space-Age 60s Living Room at Golden Hour
@@ -1161,9 +1194,10 @@ Space age 60’s style living room. Golden hour. Nostalgic feeling.
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-35"></a>
 ### No. 35: Comic-Book Ouroboros with Ben Day Dots
@@ -1191,9 +1225,10 @@ an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look lik
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-36"></a>
 ### No. 36: Prompt Overload Dystopian Desert
@@ -1221,9 +1256,10 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-37"></a>
 ### No. 37: 绝区零 × 喜茶 霓虹联动海报
@@ -1262,9 +1298,10 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-38"></a>
 ### No. 38: 美团 赛博黄历 复古符箓海报
@@ -1300,9 +1337,10 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-39"></a>
 ### No. 39: 奈斯派索 上海装饰艺术海报
@@ -1349,9 +1387,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-40"></a>
 ### No. 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告
@@ -1400,9 +1439,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-41"></a>
 ### No. 41: 成都慢行图 手绘旅游地图
@@ -1451,9 +1491,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-42"></a>
 ### No. 42: 大唐长安 插画长卷地图
@@ -1508,9 +1549,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-43"></a>
 ### No. 43: 老北京航拍：光影显形的“衚”字
@@ -1554,9 +1596,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-44"></a>
 ### No. 44: 过肩镜头：雨夜瘦金体书稿
@@ -1606,9 +1649,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-45"></a>
 ### No. 45: 蜜雪冰城商业海报
@@ -1655,9 +1699,10 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-46"></a>
 ### No. 46: Chibi Sticker Sheet with Expressive Poses
@@ -1689,9 +1734,10 @@ Making a playful peace sign with both hands and winking. Tearful eyes and slight
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-47"></a>
 ### No. 47: Chibi Funko Pop 3D Character Render
@@ -1723,9 +1769,10 @@ Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the p
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-48"></a>
 ### No. 48: Ghibli-Style Redraw of Reference Photo
@@ -1757,9 +1804,10 @@ Redraw this photo in Ghibli style
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-49"></a>
 ### No. 49: Rhythm Dance Game Scene with 3D Character
@@ -1791,9 +1839,10 @@ A vibrant rhythm dance game screenshot featuring the 3D animated character from 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-50"></a>
 ### No. 50: Photorealistic Multi-Image Composite
@@ -1825,9 +1874,10 @@ Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesi
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-51"></a>
 ### No. 51: Image Style Transfer Between Two Photos
@@ -1859,9 +1909,10 @@ Transform this image [Image1] into the artistic style of [Image2]. Keep the main
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-52"></a>
 ### No. 52: Outfit Swap with New Pants from Reference
@@ -1893,9 +1944,10 @@ Keep the character in [Image1] unchanged, but replace her pant with the outfit i
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-53"></a>
 ### No. 53: Facial Expression Editing of the Same Person
@@ -1927,9 +1979,10 @@ Keep the person from [Image1] unchanged, but change their facial expression to [
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-54"></a>
 ### No. 54: Pose Transfer Between Two Men
@@ -1961,9 +2014,10 @@ Take the two men and place them in the exact poses of the man in green carrying 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-55"></a>
 ### No. 55: Body Reshaping While Preserving Identity
@@ -1995,9 +2049,10 @@ Reshape the body of the person in [Image1] into a [target body type]. Keep the f
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-56"></a>
 ### No. 56: Nine Half-Length Portraits in Natural Environments
@@ -2029,9 +2084,10 @@ Using the uploaded photo as a reference, generate a set of 9 vibrant half-length
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-57"></a>
 ### No. 57: Background Replacement for a Subject
@@ -2063,9 +2119,10 @@ Replace the background of [Image1] with [desired background description, e.g., a
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-58"></a>
 ### No. 58: Adding a New Element into a Photo
@@ -2097,9 +2154,10 @@ Add [desired element, e.g., a tree, a lamp, a dog] to [Image1]. Place it natural
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-59"></a>
 ### No. 59: Object Removal and Clean Background Fill
@@ -2131,9 +2189,10 @@ Remove [element to remove, e.g., a person, a car, a sign] from [Image1]. Fill th
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-60"></a>
 ### No. 60: Four Camera Angles of the Same Scene
@@ -2170,9 +2229,10 @@ Close-up portrait view.
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-61"></a>
 ### No. 61: Seamless Text Editing in an Image
@@ -2204,9 +2264,10 @@ Edit the text in [Image1]. Replace the existing text with “[your new text]” 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-62"></a>
 ### No. 62: Ten-Minute-Later Version of the Same Scene
@@ -2238,9 +2299,10 @@ Generate an image of the same scene as [Image1], but showing how it looks 10 min
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-63"></a>
 ### No. 63: Clothing Extraction for E-Commerce Photo
@@ -2272,9 +2334,10 @@ Extract the clothing from [Image1] and present it as a clean e-commerce product 
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-64"></a>
 ### No. 64: High-Quality Photo Enhancement from Reference Image
@@ -2294,9 +2357,10 @@ Enhance [Image1] to improve overall quality and detail. Keep the original compos
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-65"></a>
 ### No. 65: Weather Transformation Based on Reference Image
@@ -2316,9 +2380,10 @@ Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, s
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-66"></a>
 ### No. 66: Color Grading and Palette Adjustment from Reference Image
@@ -2338,9 +2403,10 @@ Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool bl
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-67"></a>
 ### No. 67: Targeted content replacement in a reference image
@@ -2360,9 +2426,10 @@ Replace [target element or area] in [Image1] with [new element or reference, e.g
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-68"></a>
 ### No. 68: Image Outpainting Extension from Reference Photo
@@ -2382,9 +2449,10 @@ Extend [Image1] beyond its original borders using outpainting. Keep the main sub
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-69"></a>
 ### No. 69: Dual-Image Redraw and Aspect Ratio Transfer
@@ -2405,9 +2473,10 @@ Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figur
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-70"></a>
 ### No. 70: 3x3 Studio-Style Photo Strip Grid
@@ -2427,9 +2496,10 @@ Turn the photo into a 3x3 grid of photo strips with different studio-style poses
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-71"></a>
 ### No. 71: Line Art to Fully Colored Illustration
@@ -2449,9 +2519,10 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-72"></a>
 ### No. 72: Line Art Colorization with Detailed Rendering
@@ -2471,9 +2542,10 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-73"></a>
 ### No. 73: Two-Step Living Room Redesign from Reference Photos
@@ -2496,9 +2568,10 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-74"></a>
 ### No. 74: Object or Scene Creation from Listed Items
@@ -2518,9 +2591,10 @@ Here are the items available: [List of items]. Based on these items, create an i
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-75"></a>
 ### No. 75: Anatomical Infographic of a Fictional Character
@@ -2540,9 +2614,10 @@ Draw a bilaterally symmetrical frontal anatomical illustration of the [Character
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-76"></a>
 ### No. 76: 16-Bit Video Game Character Recreation
@@ -2562,9 +2637,10 @@ Recreate this [Character] as a 16-bit video game character, and place the charac
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-77"></a>
 ### No. 77: Polaroid-Style Snapshot with Curtain Background
@@ -2584,9 +2660,10 @@ Take a picture with a Polaroid camera. The photo should look like a normal photo
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-78"></a>
 ### No. 78: Soft Sunlit Portrait in Yellow Saree
@@ -2606,9 +2683,10 @@ Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicat
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-79"></a>
 ### No. 79: Polaroid Hug Scene with White Curtain Background
@@ -2628,9 +2706,10 @@ Take a photo taken with a Polaroid camera. The photo should look like an ordinar
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-80"></a>
 ### No. 80: Top-Angle Black-and-White Portrait
@@ -2650,9 +2729,10 @@ Please generate a top-angle and close-up black and white portrait of my face, fo
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-81"></a>
 ### No. 81: Vertical Cinematic Portrait with Red Background
@@ -2672,9 +2752,10 @@ Create a vertical potrait shot using the exact same face features, characterized
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-82"></a>
 ### No. 82: Exploded Technical View of a Product
@@ -2694,9 +2775,10 @@ Ultra-detailed exploded view of a product, metallic parts and electronic compone
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-83"></a>
 ### No. 83: 100x Zoom Detail View of a Scene
@@ -2716,9 +2798,10 @@ Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that t
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-84"></a>
 ### No. 84: Storyboard Generated from a Single Image
@@ -2738,9 +2821,10 @@ Create a storyboard from the uploaded image, highlighting key moments and transi
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-85"></a>
 ### No. 85: Tom Yum Goong Soup Recipe Infographic
@@ -2760,9 +2844,10 @@ Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingre
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-86"></a>
 ### No. 86: Background and Blanket Focus with Blurred Child
@@ -2782,9 +2867,10 @@ Focus on the background trees and blanket of this image, blur this kid.
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-87"></a>
 ### No. 87: Minimal Food Letter Logos on White Background
@@ -2804,9 +2890,10 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
+[⬆️ Back to Cases Directory](#cases-toc)
+
 ---
 
-[⬆️ Back to Cases Directory](#cases-toc)
 
 
 
